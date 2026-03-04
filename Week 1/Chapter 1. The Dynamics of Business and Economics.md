@@ -971,3 +971,4 @@ $
 GDP \;=\; 10 \;+\; 3 \;+\; 4 \;+\; (2 - 1) \;=\; 18\ \text{trillion dollars}
 $
 
+$ GDP ;=; 10 ;+; 3 ;+; 4 ;+; (2 - 1) ;=; 18\ \text{trillion dollars} $
