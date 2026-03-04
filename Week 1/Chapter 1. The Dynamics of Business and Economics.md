@@ -966,7 +966,8 @@ If a country has:
 - Imports = $1 trillion
 
 Then:
-$$
+
+$
 GDP \;=\; 10 \;+\; 3 \;+\; 4 \;+\; (2 - 1) \;=\; 18\ \text{trillion dollars}
-$$
+$
 
