@@ -6,6 +6,8 @@
 
 ##### [Capitulo LO 2-2 Recognizing Ethical Issues in Business](#909533)
 
+##### [Capitulo LO 2-3 Improving Ethical Behavior in Business](#471101)
+
 <h1 id="624601" style="color:#E65100;">
   <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
     LO 2-1 Business Ethics and Social Responsibility
@@ -450,3 +452,271 @@ Conflict of Interest
 
 ### Legal Implications
 - Severe conflicts of interest can lead to **legal repercussions**.
+<h2><span style="color: #ffbb00; padding:2px;">
+Table 2.4 – Least Corrupt Countries
+</span></h2>
+
+
+| Rank | Country       |
+|-----:|---------------|
+| 1    | New Zealand   |
+| 1    | Denmark       |
+| 1    | Finland       |
+| 4    | Norway        |
+| 4    | Singapore     |
+| 4    | Sweden        |
+| 7    | Switzerland   |
+| 8    | Netherlands   |
+| 9    | Luxembourg    |
+| 10   | Germany       |
+
+**Note:** The United States, not shown, is ranked 27.  
+**Source:** Transparency International, *Corruption Perceptions Index*, 2021, [www.transparency.org/en/cpi/2021](https://www.transparency.org/en/cpi/2021) (accessed January 13, 2023)
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Fairness and Honesty
+</span></h2>
+
+
+### Definition
+- **Fairness** means treating all stakeholders (customers, employees, clients, competitors) **justly and impartially**.  
+- **Honesty** means **truthfulness, transparency, and integrity** in all business dealings.  
+- These values are central to business ethics and guide decision-making beyond mere legal compliance.
+
+### Overview
+- Businesspersons are expected to:
+  - Follow all applicable laws and regulations.
+  - Avoid knowingly harming stakeholders through **deception, misrepresentation, coercion, or discrimination**.
+- Fairness and honesty also relate to **proper use of company resources**.
+
+### Dishonesty
+- Dishonesty involves **lack of integrity, nondisclosure, and lying**.
+- Common examples:
+  - Theft of office supplies (e.g., pencils, Post-it notes)
+  - Stealing expensive items or equipment (e.g., computers, software)
+- Employees must understand company policies on theft and ethical behavior.
+
+### Fair Competition
+- Fairness involves maintaining ethical **competition practices**:
+  - Example: A former **General Electric** employee stole trade secrets to benefit business partners in China.  
+  - Antitrust issues: The **U.S. Justice Department** filed charges against **Google** for alleged anticompetitive behavior in online advertising. Google holds ~90% of the global search engine market.
+
+### Disclosure and Product Safety
+- Companies must disclose potential harm caused by products:
+  - Example: **Core Health & Fitness** paid a $6.5 million civil penalty to the **U.S. Consumer Product Safety Commission** for failing to report serious injuries related to defective exercise equipment.
+  - The company also implemented an improved consumer safety compliance program.
+
+### High-Profile Dishonesty Cases
+- **Houston Astros**: fined $5 million for using video surveillance to steal opposing teams’ signals.  
+- **Operation Varsity Blues**: Philip Esformes bribed the University of Pennsylvania’s basketball coach to help his son gain admission; part of a nationwide college admissions scandal orchestrated by **William Rick Singer**, involving over 50 people.  
+
+### Key Takeaways
+- Fairness and honesty go beyond legal compliance; they require **ethical decision-making** that protects stakeholders, promotes trust, and ensures transparency.
+
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Communications
+</span></h2>
+
+### Definition
+- **Communications** in business refers to the way companies convey information to **consumers, investors, and other stakeholders**.  
+- Ethical communications require **truthfulness, transparency, and accuracy**, avoiding misleading or deceptive messages.
+
+### Overview
+- False or misleading advertising and deceptive personal-selling tactics can:
+  - Anger consumers
+  - Harm a company's reputation
+  - Lead to financial or legal consequences
+
+### Real-World Examples
+- **Nikola Motor Company**:  
+  - A startup zero-emission truck company staged a video showing a truck in operation.  
+  - The company later admitted the truck was rolled down a hill.  
+  - Paid **$125 million** in SEC charges for misleading investors.
+- **Cigarette labeling**:  
+  - The FDA warned manufacturers against using terms like **“additive-free”** or **“natural”** without proper disclosure, to prevent misleading consumers.  
+  - Labels must indicate that products are **not safer** than others despite these claims.  
+  - Products with hazardous substances have **stricter labeling requirements** for consumer protection.
+
+### Truthful Product Claims
+- Claims such as **“natural”** are often contested or litigated.  
+- FDA guidelines state that for a product to be labeled natural:
+  - Ingredients must be **derived from nature**
+  - Ingredients must have **minimal processing**  
+- Companies sometimes use **qualified claims** like “all natural flavors” or “no artificial preservatives” to comply with regulations.
+
+### Key Takeaways
+- Ethical communications ensure **trust with consumers and stakeholders**.  
+- Companies must provide **accurate, clear, and transparent information** about products, services, and corporate practices.
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Business Relationships
+</span></h2>
+
+### Definition
+- **Business relationships** refer to the interactions and conduct of businesspersons with **customers, suppliers, employees, and other stakeholders**.  
+- Ethical business relationships require **honesty, fairness, respect, and responsibility**, while avoiding actions that pressure others into unethical behavior.
+
+### Overview
+- Ethical behavior in business includes:
+  - Keeping **company secrets**
+  - Meeting **obligations and responsibilities**
+  - Avoiding **undue pressure** on others to act unethically
+- Managers have a special responsibility due to their **authority**:
+  - They influence employee behavior
+  - Must create an environment that supports organizational objectives **without compromising employee rights**
+
+### Ethical Risks and Pressures
+- Organizational pressures may encourage unethical actions, such as:
+  - Invading privacy
+  - Stealing competitor secrets
+  - Manipulation or dishonesty
+- Lack of ethical guidance from managers creates opportunities for misconduct.
+
+### Real-World Example
+- **Wells Fargo**:
+  - Created **3.5 million fake accounts**, harming customers’ credit ratings.  
+  - The **Federal Reserve** restricted the bank’s growth until oversight and risk management improved.
+
+### Plagiarism in Business
+- **Plagiarism**: taking someone else's work or ideas and presenting them as your own without proper acknowledgment.  
+- Examples:
+  - Copying reports or business documents without attribution
+  - Managers claiming credit for a subordinate’s ideas
+
+### Key Takeaways
+- Ethical business relationships build **trust, loyalty, and organizational integrity**.  
+- Managers play a crucial role in guiding ethical behavior and preventing misconduct.  
+- Plagiarism and misappropriation of ideas undermine both individual and organizational credibility.
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Questions to Consider in Determining Whether an Action Is Ethical
+</span></h2>
+
+
+### Definition
+- Making decisions about ethical issues involves **recognizing potential ethical dilemmas** and evaluating actions in terms of legality, company policies, industry norms, and personal values.  
+- Managers and employees may overlook ethical issues due to **focus on immediate or personal concerns**, but open discussion helps identify and resolve these issues.
+
+### Overview
+- Ethical issues often go unnoticed or receive limited scrutiny.  
+- Managers sometimes make **intuitive decisions** without realizing the ethical dimensions involved.  
+- Discussing ethical questions openly **promotes trust and learning** in organizations.  
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Key Questions (Table 2.5)
+</span></h2>
+
+| Question |
+|----------|
+| Are there any potential legal restrictions or violations that could result from the action? |
+| Does your company have a specific code of ethics or policy on the action? |
+| Is this activity customary in your industry? Are there any industry trade groups that provide guidelines or codes of conduct that address this issue? |
+| Would this activity be accepted by your co-workers? Will your decision or action withstand open discussion with co-workers and managers and survive untarnished? |
+| How does this activity fit with your own beliefs and values? |
+
+### Key Takeaways
+- Recognition of ethical issues is the **first step toward resolution**.  
+- Open discussion and evaluation using these questions help ensure **ethical decision-making** and alignment with both organizational and personal values.  
+
+<h1 id="471101" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    LO 2-3 Improving Ethical Behavior in Business
+  </a>
+</h1>
+
+
+### Learning Objective 
+- Specify how businesses can **promote ethical behavior** among employees and managers.
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Three Factors That Influence Business Ethics
+</span></h2>
+
+<img src="./img/fer85914_0202.png" width="800"></img>
+
+### Definition
+- Improving ethical behavior involves creating an environment where employees make **ethical decisions consistently**.  
+- Ethical decisions are influenced by:  
+  1. **Individual moral standards and values**  
+  2. **Influence of managers and co-workers**  
+  3. **Opportunity to engage in misconduct**  
+
+
+
+### Factors Influencing Ethical Behavior
+- **Individual Standards and Values**: Personal ethics guide employees’ actions and responsibility.  
+- **Managers’ and Co-Workers’ Influence**: Authority and example of peers and supervisors significantly affect workplace decisions.  
+- **Opportunity**:  
+  - Availability of rewards or absence of barriers may encourage unethical behavior.  
+  - Rewards include **bonuses or pay raises**; penalties include **demotions or termination**.  
+
+### Causes of Ethical Conflict
+- Employees often face tension between **personal ethics** and **organizational obligations**.  
+- Conflict increases when a company:  
+  - Encourages unethical conduct  
+  - Exerts pressure to break rules  
+- Employees may rely on **peer behavior** to guide decisions if policies are unclear.
+
+### Codes of Ethics
+- **Professional codes of ethics** are formalized rules describing what the company expects from employees.  
+- Characteristics:  
+  - Provide **guidelines and principles**, not every detailed scenario  
+  - Help employees meet **organizational objectives ethically**  
+  - Include input from **executives, board members, legal staff, and employees** across departments  
+
+### Key Takeaways
+- Ethical behavior depends on the **interplay between personal values, social influence, and opportunity**.  
+- Establishing **clear ethics policies and codes** helps reduce conflicts and guide employees toward responsible actions.  
+- Organizations that prioritize ethics **build trust, prevent misconduct, and improve long-term performance**.
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Table 2.6 – Why a Code of Ethics Is Important
+</span></h2>
+
+| Purpose of a Code of Ethics |
+|-----------------------------|
+| Alerts employees about important issues and risks to address. |
+| Provides values such as **integrity, transparency, honesty, and fairness** that form the foundation for an ethical culture. |
+| Gives guidance to employees when facing **gray or ambiguous situations** or ethical issues they have never encountered. |
+| Alerts employees to **systems for reporting** or places to go for advice when facing an ethical issue. |
+| Helps establish **uniform ethical conduct and values**, providing a shared approach to ethical decision-making. |
+| Serves as an important document for communicating to the **public, suppliers, and regulatory authorities** about the company's values and compliance. |
+| Provides the foundation for **evaluation and improvement** of ethical decision-making. |
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Promoting Ethical Behavior Through Codes, Policies, and Training
+</span></h2>
+
+### How Codes and Policies Advance Ethical Behavior
+- Codes of ethics, policies on ethics, and **ethics training programs**:
+  - Prescribe acceptable and unacceptable activities  
+  - Limit opportunities for misconduct by establishing **punishments for violations**  
+  - Encourage the creation of an **ethical culture** within the organization  
+- Compliance requirements help establish **uniform behavior** among employees.  
+- Organizations with **written codes, ethics training, ethics officers, hotlines, and reporting systems** are more likely to have employees report observed misconduct.  
+
+### Enforcement and Reporting
+- Enforcement through **rewards and punishments** increases employee acceptance of ethical standards.  
+- **Anonymous reporting** helps protect employees from retaliation.  
+- **Whistleblowing**: Employees expose employer wrongdoing to outsiders (media, government regulators).  
+- The **Dodd-Frank Act** includes a whistleblower bounty program:
+  - Employees can receive **10–30% of monetary sanctions over $1 million** for reporting corporate misconduct.  
+- Example: The U.S. Securities and Exchange Commission has awarded **more than $1 billion to whistleblowers**.
+
+### Cultural and Integrity-Based Initiatives
+- Organizations are shifting from purely legal ethics programs to **cultural- or integrity-based initiatives**.  
+- Integrating ethics into **core organizational values** improves business performance.  
+- Positive outcomes of ethical programs include:
+  - Increased **trust**, efficiency, and effectiveness  
+  - Protection of **company reputation and product image**  
+  - Improved **profitability, hiring, employee satisfaction, and customer loyalty**  
+
+### Consequences of Weak Ethical Culture
+- Organizations without strong ethics programs may experience:
+  - Fewer employees adhering to organizational values  
+  - Lack of preparedness to handle key risks  
+  - Lower reporting of suspected wrongdoing  
+  - Higher levels of misconduct  
+
+**Key Insight:** A strong ethical culture is the **greatest determinant of future organizational misconduct**.
