@@ -12,6 +12,10 @@
 
 ##### [Capitulo 📘 LO 1-6 Measuring the Economy](#492167)
 
+##### [Capitulo LO 1-7 THE AMERICAN ECONOMY ](#615083)
+
+##### [Capitulo LO 1-8 The Role of the Entrepreneur](#480752)
+
 <h1 id="386289" style="color:#E65100;">
   <a href="#Chapter_1._The_Dynamics_of_Business_and_Economics" style="color:inherit; text-decoration:none;">
     📘 Study Guide – LO 1-1
@@ -289,7 +293,7 @@ These external forces affect daily business operations and decision-making.
 - Customers are the most important participants
 - External forces influence how businesses operate
 
-<img src=".\fer62561_0101.png" width="800">
+<img src="./img/fer62561_0101.png" width="800">
 
 <h4><span style="color: #ffbb00; padding:2px;">
 Management
@@ -775,7 +779,7 @@ Imagine handmade rugs being sold in a market:
 FIGURE 1.2 Equilibrium Price of Handmade Rugs
 </span>
 
-<img src="fer85914_0102.png" width="800">
+<img src="./img/fer85914_0102.png" width="800">
 
 In a free-enterprise system, the equilibrium price is the price at which the quantity supplied by businesses equals the quantity demanded by consumers at a specific point in time. Using the rug example, the company is willing to supply 4 rugs at $500 each, and consumers are willing to buy 4 rugs at $500 each. Therefore, $500 is the equilibrium price.
 
@@ -907,7 +911,7 @@ Important Points
 - Policymakers monitor inflation, deflation, and employment rates to maintain economic stability.
 - Economic cycles are natural in a market-based economy and affect businesses, consumers, and government policy.
 
-<img src="fer85914_0103.png" width="800">
+<img src="./img/fer85914_0103.png" width="800">
 
 
 <h4><span style="color: #ffbb00; padding:2px;">
@@ -971,3 +975,168 @@ $$
 GDP = 10 + 3 + 4 + (2 - 1) = 18\ \text{trillion dollars}
 $$
 
+
+
+<h4><span style="color: #ffbb00; padding:2px;">
+FIGURE 1.4 U.S. Gross Domestic Product
+</span>
+
+<img src="./img/fer85914_0104.png" width="800">
+
+Economic Cycles and Key Events in the U.S.
+1. Recessions and Unemployment
+
+- The U.S. has faced multiple recessions:
+    - 1990–1991
+    - 2002–2003
+    - 2008–2011 (Great Recession)
+    - 2020 (COVID-19 pandemic)
+- Great Recession (2008–2011):
+    - Triggered by collapsing housing prices and unpaid mortgages/credit card debts.
+    - Banking crisis led to government bailouts.
+    - Resulted in decreased consumer spending and higher unemployment (~10%).
+- COVID-19 pandemic (2020):
+    - Unemployment spiked to 14.7%, the highest since the Great Depression.
+    - Nonessential businesses closed, many employees were laid off.
+    - Online and nonstore sales increased 21.2%, but overall retail sales dropped 21.6%.
+    - By 2022, unemployment dropped to 3.6%, but labor shortages remained.
+
+2. Economic Recovery
+
+- Economic cycles show expansion and contraction in response to:
+    - Consumer spending
+    - Business investment
+    - Government activity
+- Personal consumption accounts for ~70% of GDP, so consumer engagement is crucial.
+
+3. Severe Economic Downturns
+
+- A recession: decline in production, employment, and income.
+- A depression: severe, prolonged recession with high unemployment, low spending, and sharply reduced business output (e.g., 1930s U.S.).
+
+4. Other Factors Affecting the Economy
+
+- Wars can either stimulate (WWI, WWII) or stifle (Vietnam, Persian Gulf, Iraq) economic activity.
+- Governments try to minimize the disruptive effects of inflation and unemployment, though fluctuations are inevitable.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+Table 1.2: How Do We Evaluate Our Nation’s Economy?
+</span>
+
+Key Economic Measures
+
+| **Unit of Measure**            | **What It Tells Us**                                                                                       |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Trade balance**              | Difference between exports and imports. A negative balance (trade deficit) is generally seen as unhealthy. |
+| **Consumer Price Index (CPI)** | Tracks changes in prices of goods and services bought by typical urban households.                         |
+| **Per capita income**          | Shows the income of an “average” American. Helps determine consumer spending and overall earnings.         |
+| **Unemployment rate**          | Measures how many working-age Americans want to work but aren’t employed.                                  |
+| **Inflation**                  | Monitors price increases in goods/services over time. Checks if prices rise faster than wages.             |
+| **Worker productivity**        | Amount of goods/services produced per hour of work.                                                        |
+
+
+<h1 id="615083" style="color:#E65100;">
+  <a href="#Chapter_1._The_Dynamics_of_Business_and_Economics" style="color:inherit; text-decoration:none;">
+    LO 1-7 THE AMERICAN ECONOMY 
+  </a>
+</h1>
+
+The American economy is a mixed, capitalist system, where supply, demand, and competition mainly determine economic decisions, though the government intervenes in some areas like airline safety and viability. Standard of living reflects wealth and comfort; the U.S. has a high standard of living similar to Germany, Australia, and Norway, but higher GDP per capita doesn’t always mean better living due to cost differences. Countries with low living standards often face poverty, unemployment, and lower education. Understanding the U.S. economy’s history, along with the roles of entrepreneurs and government, helps explain current business practices.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+The Importance of the American Economy
+</span>
+
+The American economy is an open economy, thriving on international trade, which boosts efficiency, productivity, and access to technology. GDP growth and employment are key indicators of economic health, as more productive and profitable companies hire more workers, fueling the economy. The government influences the economy through policies, job creation, and taxation, as seen with the CARES Act during COVID-19. Taxes from individuals and businesses fund public services, with reforms in 2017 lowering corporate and top individual tax rates, though debates continue about raising taxes for high-income brackets.
+
+The Industrial Revolution
+
+The 19th century and the Industrial Revolution introduced new technologies and factories, bringing together materials, machines, and workers. Work became specialized, increasing efficiency and productivity, which made goods more affordable. Railroads transformed markets, allowing farmers to ship products nationwide. Innovations like John Deere’s farm equipment improved farm production and reduced the number of farmers needed, while Henry Ford’s assembly line revolutionized automobile manufacturing, making cars affordable and encouraging urban migration for factory jobs and a higher standard of living.
+
+The Manufacturing and Marketing Economies
+
+Industrialization shifted the U.S. toward a manufacturing and service economy, focused on producing consumer goods. Businesses responded to consumer needs, giving rise to the marketing economy. Innovations such as department stores by Alexander Turney Stewart and mail-order catalogs by Aaron Montgomery Ward expanded access to products. Advertising informed consumers about products, features, and prices. In this free-enterprise system, consumers determined which goods and services were produced through their purchases, contributing to national prosperity and a high standard of living.
+
+The Service and New Digital Economy
+
+After World War II, rising standards of living gave Americans more money and time, leading them to pay for services that simplified daily life. From the 1960s, more women entered the workforce, population growth slowed, and family structures changed, with more single-parent households and dual-income families. These trends helped shift the U.S. toward a service economy, focused on industries like restaurants, banking, health care, child care, auto repair, leisure, and education, which now account for a large portion of the economy. Advanced technology and digital media further fueled the economy, creating new service products and driving e-commerce, giving rise to companies like eBay, Shopify, Etsy, and Amazon.
+
+The COVID-19 pandemic in 2020 caused major disruptions: travel bans, business closures, remote work, online schooling, and event cancellations created a “new normal.” Companies reassessed office needs, boosting online grocery ordering, telemedicine, and online shopping. Many retailers, including J.C. Penney, Brooks Brothers, and Neiman Marcus, filed for bankruptcy due to changing consumer behavior. Even post-pandemic, remote work continued for some, while technology adoption accelerated with cloud computing, artificial intelligence, and robotics. By 2023, air travel nearly returned to pre-pandemic levels, reflecting recovery and adaptation in the service and digital economy.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+Zoom Races to Stay Ahead of the Pack
+</span>
+
+Founded in 2011 by Eric Yuan, Zoom aimed to provide a high-quality, easy-to-use videoconferencing tool that worked even on slow internet connections. The COVID-19 pandemic in 2020 caused a surge in demand for video communication, dramatically increasing Zoom’s user base and propelling it to a valuation of over $20 billion. The platform’s user-friendly design and modern features helped it become widely adopted by both consumers and businesses. Zoom uses a freemium pricing model, attracting users to its free Basic account and converting some to paying customers. While this model is effective for growth, it can be costly if users cancel after the free trial. Post-pandemic, Zoom faces the challenge of maintaining growth by retaining users, attracting new customers, and converting free users into paying clients.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+Critical Thinking Questions
+</span>
+
+1. How did the COVID-19 pandemic contribute to Zoom's success?
+
+The pandemic caused social distancing and remote work, dramatically increasing demand for video communication. Zoom’s platform became essential for work, school, and social interactions, leading to unprecedented growth in users and revenue.
+
+2. In what ways does Zoom satisfy consumers' needs and wants?
+
+Zoom offers a reliable, easy-to-use, and feature-rich platform that works on slow internet connections. It provides value by enabling communication for work, education, and social interaction, meeting both functional and convenience needs.
+
+3. What are the advantages and disadvantages of a freemium pricing model?
+
+Advantages: Attracts a large user base quickly, allows customers to try the product before paying, and can convert free users into paying subscribers.
+Disadvantages: Costly to acquire and maintain free users, revenue depends on converting free users to paying customers, and some users may leave after the free trial.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+Technology and the Economy
+</span>
+
+Technology is rapidly transforming business by creating new methods, processes, and applications to solve problems, perform tasks, and support decision-making. Advances in artificial intelligence (AI), big data, and advanced computing are driving disruptive technologies such as smart buildings, digital wallets, drones, robotics, and machines capable of human-like communication and decision-making. These innovations open opportunities for new business models and job creation. AI enables computers to perform tasks traditionally requiring human intelligence, including decision-making, visual perception, and speech recognition. Although AI may disrupt an estimated 25 percent of U.S. jobs, it is expected to create more jobs than it eliminates, including roles that do not yet exist. To adapt, educational institutions and businesses must equip workers with the soft skills needed to collaborate effectively with AI and other emerging technologies.
+
+<h1 id="480752" style="color:#E65100;">
+  <a href="#Chapter_1._The_Dynamics_of_Business_and_Economics" style="color:inherit; text-decoration:none;">
+    LO 1-8 The Role of the Entrepreneur
+  </a>
+</h1>
+
+In a free-enterprise system, entrepreneurs are individuals who risk money, time, and effort to develop innovative products or ways of doing business for profit. Historically, entrepreneurs like Thomas Edison and Henry Ford introduced inventions and mass-production methods that transformed industries. So-called captains of industry, such as John D. Rockefeller, Andrew Carnegie, Andrew Mellon, and J. P. Morgan, invested in the nation’s growth through industries like oil, steel, aluminum, railroads, and finance. Their legacies continue in companies that still operate today. Another example is Eli Lilly, who founded his pharmaceutical company to produce high-quality medicines, pioneering mass production of penicillin, and making Eli Lilly and Company one of the largest pharmaceutical firms in the world. Modern entrepreneurs, like Dan Fleyshman, continue this tradition by innovating, growing companies, and supporting new ventures, showing the ongoing impact of entrepreneurship on the American economy.
+
+Entrepreneurs continually transform American business through new technology and innovative management. For example, Bill Gates built Microsoft into a multibillion-dollar software company with products like Word and Windows. Frederick Smith founded FedEx, revolutionizing overnight package delivery worldwide. Steve Jobs co-founded Apple, creating a consumer electronics giant that transformed multiple industries. Other notable American entrepreneurs include the founders of Walt Disney, Spanx, Tesla, McDonald’s, SpaceX, Google, Facebook, and Walmart. Their innovations demonstrate how entrepreneurship drives business evolution, economic growth, and global influence.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+The Role of Government in the American Economy
+</span>
+
+The U.S. economic system is considered modified capitalism, as the government regulates business to preserve competition and protect consumers, employees, and the environment. Federal, state, and local governments use laws and regulations to promote fair business practices. Agencies like the U.S. Department of Commerce track economic health through indicators such as GDP and productivity, and the government takes steps to minimize the effects of economic fluctuations and reduce unemployment. During economic slowdowns, the Federal Reserve may lower interest rates or increase spending to encourage consumer spending and business hiring. Conversely, when the economy grows too quickly and inflation rises, the government can slow growth by raising interest rates to reduce spending, as seen during the post-COVID-19 recovery. Government intervention helps stabilize the economy while maintaining fair competition and protecting public interests.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+Another Tomorrow: Design for Social Responsibility
+</span>
+
+Another Tomorrow is a sustainable clothing company founded by entrepreneur Vanessa Barboni Hallik, focused on creating socially responsible fashion, educating consumers, and promoting social activism. Its operations prioritize environmental, animal, and human welfare, and the company demonstrates accountability and transparency through B Corporation (B Corp) certification, a voluntary program that measures a company’s social and environmental impact.
+
+The company emphasizes sustainable and ethical sourcing, using organic cotton, wool, linen, and recycled materials while adhering to responsible chemical standards. Its supply chain is delicate; extreme weather patterns have threatened the availability of ethically sourced wool, requiring the company to diversify suppliers while maintaining high standards for worker and animal welfare.
+
+Another Tomorrow operates as a luxury apparel brand, with products priced between $95 and $1,900. This premium pricing allows the company to uphold high ethical and quality standards, in contrast to fast fashion brands that prioritize low costs and trend-driven consumption. The company also supports a technology-based circular economy, encouraging customers to resell clothes for cash or store credit, thereby reducing waste and promoting sustainability.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+Critical Thinking Questions
+</span>
+
+1. What are the benefits of becoming a B Corporation?
+
+B Corp certification demonstrates a company’s commitment to high social, environmental, and ethical standards, increases transparency and accountability, and can enhance brand reputation among socially conscious consumers.
+
+2. How has the weather affected Another Tomorrow’s supply chain?
+
+Extreme weather patterns have disrupted the availability of ethically sourced wool, making it difficult to maintain a consistent and ethical supply chain.
+
+3. Why might it be easier for a luxury brand to prioritize ethics and sustainability than a fast fashion brand?
+Luxury brands can charge premium prices, allowing them to invest in higher-quality materials, ethical labor, and sustainable processes. Fast fashion brands focus on low-cost, trendy items, making it harder to maintain ethical and sustainable practices while remaining profitable.
+
+<h4><span style="color: #ffbb00; padding:2px;">
+The Role of Ethics and Social Responsibility in Business
+</span>
+
+Ethical and socially responsible behavior in business benefits both stakeholders and financial performance. Companies like 3M, Hasbro, Salesforce, and Xcel Energy show that prioritizing ethics and social responsibility can enhance long-term value and create superior financial returns. Businesses can promote ethical behavior by monitoring societal trends, predicting the long-term effects of decisions, and balancing the interests of stakeholders, including customers, employees, investors, regulators, communities, and the environment.
+
+Business ethics refers to the standards and principles that define appropriate conduct in the workplace, often codified into laws. While misconduct by individuals can harm employees, investors, and public confidence, a strong ethical culture builds trust and a solid reputation. Diversity in leadership and the workforce not only fulfills social responsibility but also improves employee satisfaction, decision-making, and financial performance. Overall, ethical practices are increasingly recognized as essential for both societal good and corporate profitability.
