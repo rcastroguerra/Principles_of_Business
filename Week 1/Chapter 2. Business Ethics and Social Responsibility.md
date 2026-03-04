@@ -8,6 +8,10 @@
 
 ##### [Capitulo LO 2-3 Improving Ethical Behavior in Business](#471101)
 
+##### [Capitulo LO 2-4 THE NATURE OF SOCIAL RESPONSIBILITY](#096872)
+
+##### [Capitulo LO 2-5 Social Responsibility Issues](#734474)
+
 <h1 id="624601" style="color:#E65100;">
   <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
     LO 2-1 Business Ethics and Social Responsibility
@@ -720,3 +724,177 @@ Promoting Ethical Behavior Through Codes, Policies, and Training
   - Higher levels of misconduct  
 
 **Key Insight:** A strong ethical culture is the **greatest determinant of future organizational misconduct**.
+
+
+<h1 id="096872" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    LO 2-4 THE NATURE OF SOCIAL RESPONSIBILITY
+  </a>
+</h1>
+
+Explain the four dimensions of social responsibility.
+
+### Explain the Four Dimensions of Social Responsibility
+
+For our purposes, we classify four stages of social responsibility: **financial, legal compliance, ethics, and philanthropy**. These four dimensions of social responsibility include **economic, legal, ethical, and voluntary (including philanthropic)**.
+
+- **Economic foundation**: Earning profits is the first step in social responsibility.  
+- **Legal compliance**: Complying with the law is the next step. A business whose sole objective is to maximize profits is less likely to consider its social responsibility, although its activities will probably be legal.  
+- **Ethical responsibilities**: Beyond economic and legal duties, firms are expected to act ethically (as discussed earlier in the chapter).  
+- **Voluntary responsibilities**: These are additional activities that may not be required but promote human and societal welfare or goodwill.  
+
+Legal and economic concerns have long been acknowledged in business, and voluntary and ethical issues are now being addressed by most firms.
+
+*(Reference: Table 2.7)*
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Table 2.7: Four Stages of Social Responsibility
+</span></h2>
+
+
+| Stage | Social Responsibility Requirement | Examples |
+|-------|---------------------------------|---------|
+| **Stage 1: Financial and economic viability** | Ensure financial stability and profitability | Starbucks offers investors a healthy return on investment, including paying dividends. |
+| **Stage 2: Compliance with legal and regulatory requirements** | Follow all applicable laws and regulations | Starbucks specifies in its code of conduct that payments made to foreign government officials must be lawful according to U.S. and foreign laws. |
+| **Stage 3: Ethics, principles, and values** | Promote ethical culture and leadership | Starbucks' mission and values create an ethical culture with ethical leaders. |
+| **Stage 4: Philanthropic activities** | Voluntary activities that benefit society | Starbucks created the Starbucks College Achievement Plan that offers eligible employees full tuition to earn a bachelor's degree in partnership with Arizona State University. |
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Corporate Citizenship
+</span></h2>
+
+**Definition:** Corporate citizenship is the extent to which businesses meet the legal, ethical, economic, and voluntary responsibilities placed on them by their stakeholders. It involves the activities and organizational processes adopted by businesses to meet their social responsibilities.  
+
+A commitment to corporate citizenship indicates a **strategic focus** on fulfilling these social responsibilities.  
+
+**Examples:**
+- **Ford** has committed to investing billions in zero-emission vehicles, from the F-150 truck to the Mustang Mach-E.  
+- More than **60% of consumers** purchase from or advocate for brands based on personal beliefs and values.  
+- Nearly **70% of employees** expect a societal impact when considering a job.  
+
+Corporate citizenship involves **action and measurement**, assessing how well a firm implements citizenship and social responsibility initiatives.  
+
+---
+
+### Major Corporate Citizenship Issues
+
+1. **Environmental Preservation**  
+   - Nearly two-thirds of respondents in a United Nations survey consider climate change a global emergency.  
+   - Issues include pollution, alternative energy, waste management, and recycling.  
+
+2. **Animal Rights**  
+   - Many stakeholders are concerned about animal welfare.  
+   - Example: **Tyson Foods** has released plant-based protein products.  
+
+3. **Social Issues**  
+   - Include equal pay, LGBTQ+ policies, community relations, and more.  
+
+4. **Governance Issues**  
+   - Include regulatory compliance, executive compensation, board independence, oversight, and more.  
+
+---
+
+### ESG Framework
+
+The **Environmental, Social, and Governance (ESG)** framework evaluates a firm's efforts to:  
+- Operate sustainably  
+- Contribute to social causes  
+- Engage in responsible and ethical conduct  
+
+**Purpose:** ESG allows organizations and stakeholders to evaluate firms against:  
+- Their peers  
+- Industry standards  
+- Shareholder and stakeholder interests  
+
+**Pros and Cons of ESG:**
+- **Pros:** Measures and reports corporate social responsibility progress; used by the financial industry for investment decisions.  
+- **Cons:** Reporting and measurements are not standardized; risk of greenwashing; debate over the best measurement methods.  
+
+Regulators are working to standardize ESG reporting.  
+
+---
+
+### Recognition of Ethical Companies
+
+The **Ethisphere Institute** annually selects the world's most ethical companies based on criteria such as:  
+- Corporate citizenship and responsibility  
+- Corporate governance  
+- Innovation benefiting public well-being  
+- Industry leadership  
+- Executive leadership and tone from the top  
+- Legal, regulatory, and reputation track record  
+- Internal ethics/compliance systems  
+
+**Table 2.8** lists 26 companies recognized on this list.  
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Table 2.8: A Selection of the World's Most Ethical Companies
+</span></h2>
+
+
+| Company Name |
+|--------------|
+| L'Oréal |
+| Sony |
+| Microsoft |
+| 3M Company |
+| Canon |
+| PepsiCo |
+| ManpowerGroup |
+| Colgate-Palmolive Company |
+| International Paper Co. |
+| Visa Inc. |
+| VF Corporation |
+| Accenture |
+| Voya Financial, Inc. |
+| Hasbro Inc. |
+| Intel |
+| Xcel Energy |
+| General Motors |
+| Cummins Inc. |
+| John Deere |
+| LinkedIn |
+| Prudential Financial, Inc. |
+| Thrivent Financial |
+| Western Digital |
+| Kellogg Company |
+| Aflac Incorporated |
+| Dell Technologies |
+
+<h2><span style="color: #ffbb00; padding:2px;">
+Table 2.9: Arguments For and Against Social Responsibility
+</span></h2>
+
+
+| **For Social Responsibility** | **Against Social Responsibility** |
+|-------------------------------|---------------------------------|
+| 1. Social responsibility rests on stakeholder engagement and results in benefits to society and improved firm performance. | 1. It sidetracks managers from the primary goal of business—earning profit. The responsibility of business to society is to earn profits and create jobs. |
+| 2. Businesses are responsible because they have the financial and technical resources to address sustainability, health, and education. | 2. Participation in social programs gives businesses greater power, perhaps at the expense of concerned stakeholders. |
+| 3. As members of society, businesses and their employees should support society through taxes and contributions to social causes. | 3. Does business have the expertise needed to assess and make decisions about social, environmental, and economic issues? |
+| 4. Socially responsible decision making by businesses can prevent increased government regulation. | 4. Social problems are the responsibility of government agencies and officials, who can be held accountable by voters. |
+| 5. Social responsibility is necessary to ensure economic survival: If businesses want educated and healthy employees, customers with money to spend, and suppliers with quality goods and services in years to come, they must take steps to help solve the social and environmental problems that exist today. | 5. Creation of nonprofits and contributions to them are the best ways to implement social responsibility. |
+
+<h1 id="734474" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    LO 2-5 Social Responsibility Issues
+  </a>
+</h1>
+
+
+**Evaluate an organization's social responsibilities to owners, employees, consumers, the environment, and the community.**
+
+### Social Responsibility Issues
+
+Managers consider and make social responsibility decisions on a daily basis. Among the many social issues that managers must consider are their firms' relations with stakeholders, including owners and stockholders, employees, consumers, regulators, communities, and environmental and social advocates.
+
+Social responsibility is a dynamic area with issues changing constantly in response to society's demands. There is much evidence that social responsibility is associated with improved business performance. Both consumers and business leaders recognize the need to address social responsibility issues and expect companies to take action. 
+
+As shown in Figure 2.3, **85 percent of business leaders believe earning a profit cannot be the sole purpose of business; companies must positively affect society as well.** A number of studies have found a direct relationship between social responsibility and profitability, as well as a link that exists between employee commitment and customer loyalty—two major concerns of any firm trying to increase profits.  
+
+This section highlights a few of the many social responsibility issues that managers face.
+
+<h2><span style="color: #ffbb00; padding:2px;">
+FIGURE 2.3 Business Leaders' Views on Purpose-Driven Companies
+</span></h2>
+
+<img src="./img/fer85914_0203.png" width="800"></img>
