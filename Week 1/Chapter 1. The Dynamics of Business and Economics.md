@@ -295,9 +295,9 @@ These external forces affect daily business operations and decision-making.
 
 <img src="./img/fer62561_0101.png" width="800">
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Management
-</span>
+</span></h2>
 
 🔹 What Is Management?
 
@@ -392,9 +392,9 @@ These tasks are required to carry out the work of the organization successfully.
 - Resource management and motivation are essential
 - Management applies to both businesses and nonprofits
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Marketing
-</span>
+</span></h2>
 
 🔹 What Is Marketing?
 
@@ -421,9 +421,9 @@ Marketers also analyze the marketing environment to understand changes in:
 Example:
 Many fast-food restaurants are reducing or eliminating dining rooms and shifting to drive-through-only service, while others require customers to order through kiosks. These changes reflect evolving consumer preferences.
 
-<h4><span style="color: #00a2ff; padding:2px;">
+<h2><span style="color: #00a2ff; padding:2px;">
 🔹 The Marketing Mix (The Four P’s)
-</span></h4>
+</span></h2></h4>
 
 Marketing activities focus on the four P’s, also known as the marketing mix:
 
@@ -485,9 +485,9 @@ Texas Pete uses advertising to appeal to restaurant operators by highlighting th
 - Distribution and supply chains are key to availability
 - Promotion communicates value and increases sales
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Finance
-</span>
+</span></h2>
 
 🔹 What Is Finance?
 
@@ -556,9 +556,9 @@ Financial management ensures that a business can:
   </a>
 </h1>
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Why Study Business?
-</span>
+</span></h2>
 
 🔹 Importance of Studying Business
 
@@ -723,9 +723,9 @@ All economic systems must answer three basic questions:
 1. How will they be produced, and with what resources?
 1. For whom will goods and services be produced?
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 🔹 The Four Types of Economic Systems
-</span>
+</span></h2>
 
 | **Feature**                      | **Communism**                                                                              | **Socialism**                                                                                                   | **Capitalism**                                                                                          |
 | -------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -775,9 +775,9 @@ Imagine handmade rugs being sold in a market:
 | $650              | 2 rugs                          |
 
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 FIGURE 1.2 Equilibrium Price of Handmade Rugs
-</span>
+</span></h2>
 
 <img src="./img/fer85914_0102.png" width="800">
 
@@ -791,9 +791,9 @@ The equilibrium price changes constantly as supply and demand respond to economi
 
 Overall, supply and demand are the key forces that determine prices, resource distribution, and production levels in a free-enterprise economy. The intersection of the supply and demand curves in a graph shows the equilibrium price visually.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 BIG TECH IS UNDER BIG SCRUTINY – Summary
-</span>
+</span></h2>
 
 The five largest U.S. tech companies—Alphabet, Amazon, Apple, Meta, and Microsoft—are being closely examined by regulators and lawmakers worldwide. In the U.S., the Federal Trade Commission (FTC) and the Department of Justice (DOJ) enforce antitrust laws to prevent monopolies and maintain fair competition.
 
@@ -807,9 +807,9 @@ Business practices, such as Google’s advertising dominance, Amazon promoting i
 
 Regulators consider measures like mandated data sharing and stricter rules similar to those applied to banks and telecoms. Supporters say this can encourage competition and help entrepreneurs, while critics warn it may reduce innovation and harm privacy.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Critical Thinking Questions – Answers
-</span>
+</span></h2>
 
 1. Why are monopolies generally bad for consumers?
 
@@ -823,9 +823,9 @@ The goal of antitrust laws is to prevent monopolies, promote fair competition, a
 
 Big Tech is under scrutiny because their size and business practices may stifle competition, manipulate markets, or harm consumers. Regulators are reviewing acquisitions, data practices, and dominance in online platforms to ensure fair competition.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 The Nature of Competition
-</span>
+</span></h2>
 
 Key Concept
 
@@ -834,9 +834,9 @@ Key Concept
 - Competition enables open markets and provides opportunities for innovation, cost reduction, and better service.
 - Example: SpaceX (Elon Musk), Virgin Galactic (Richard Branson), and Blue Origin (Jeff Bezos) are competing in the space tourism market.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Four Types of Competitive Environments
-</span>
+</span></h2>
 
 1. Pure Competition
 
@@ -875,9 +875,9 @@ Key Takeaways
 - The type of market affects pricing power, entry barriers, and product differentiation.
 - Entrepreneurs and businesses can succeed by leveraging innovation, cost management, and unique product features.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Economic Cycles and Productivity – Study Guide
-</span>
+</span></h2>
 
 Key Concepts
 
@@ -914,9 +914,9 @@ Important Points
 <img src="./img/fer85914_0103.png" width="800">
 
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Economic Recessions and Cycles in the United States
-</span>
+</span></h2>
 
 The U.S. economy has experienced several recessions, including 1990–1991, 2002–2003, 2008–2011, and 2020. The Great Recession (2008–2011) was triggered by the collapse in housing prices and widespread defaults on mortgages and credit cards, causing a banking crisis. The government intervened to prevent bank failures, but consumer spending slowed and unemployment reached 10%.
 
@@ -942,9 +942,9 @@ A common measure is Gross Domestic Product (GDP):
 
 Monitoring GDP over time helps governments, businesses, and individuals understand the overall economic performance and make informed decisions.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 The formula for Gross Domestic Product (GDP)
-</span>
+</span></h2>
 
 The formula for Gross Domestic Product (GDP) depends on the approach used, but the most common is the expenditure approach, which calculates GDP by adding up all spending on final goods and services in an economy:
 
@@ -977,9 +977,9 @@ $$
 
 
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 FIGURE 1.4 U.S. Gross Domestic Product
-</span>
+</span></h2>
 
 <img src="./img/fer85914_0104.png" width="800">
 
@@ -1019,9 +1019,9 @@ Economic Cycles and Key Events in the U.S.
 - Wars can either stimulate (WWI, WWII) or stifle (Vietnam, Persian Gulf, Iraq) economic activity.
 - Governments try to minimize the disruptive effects of inflation and unemployment, though fluctuations are inevitable.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Table 1.2: How Do We Evaluate Our Nation’s Economy?
-</span>
+</span></h2>
 
 Key Economic Measures
 
@@ -1043,9 +1043,9 @@ Key Economic Measures
 
 The American economy is a mixed, capitalist system, where supply, demand, and competition mainly determine economic decisions, though the government intervenes in some areas like airline safety and viability. Standard of living reflects wealth and comfort; the U.S. has a high standard of living similar to Germany, Australia, and Norway, but higher GDP per capita doesn’t always mean better living due to cost differences. Countries with low living standards often face poverty, unemployment, and lower education. Understanding the U.S. economy’s history, along with the roles of entrepreneurs and government, helps explain current business practices.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 The Importance of the American Economy
-</span>
+</span></h2>
 
 The American economy is an open economy, thriving on international trade, which boosts efficiency, productivity, and access to technology. GDP growth and employment are key indicators of economic health, as more productive and profitable companies hire more workers, fueling the economy. The government influences the economy through policies, job creation, and taxation, as seen with the CARES Act during COVID-19. Taxes from individuals and businesses fund public services, with reforms in 2017 lowering corporate and top individual tax rates, though debates continue about raising taxes for high-income brackets.
 
@@ -1063,15 +1063,15 @@ After World War II, rising standards of living gave Americans more money and tim
 
 The COVID-19 pandemic in 2020 caused major disruptions: travel bans, business closures, remote work, online schooling, and event cancellations created a “new normal.” Companies reassessed office needs, boosting online grocery ordering, telemedicine, and online shopping. Many retailers, including J.C. Penney, Brooks Brothers, and Neiman Marcus, filed for bankruptcy due to changing consumer behavior. Even post-pandemic, remote work continued for some, while technology adoption accelerated with cloud computing, artificial intelligence, and robotics. By 2023, air travel nearly returned to pre-pandemic levels, reflecting recovery and adaptation in the service and digital economy.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Zoom Races to Stay Ahead of the Pack
-</span>
+</span></h2>
 
 Founded in 2011 by Eric Yuan, Zoom aimed to provide a high-quality, easy-to-use videoconferencing tool that worked even on slow internet connections. The COVID-19 pandemic in 2020 caused a surge in demand for video communication, dramatically increasing Zoom’s user base and propelling it to a valuation of over $20 billion. The platform’s user-friendly design and modern features helped it become widely adopted by both consumers and businesses. Zoom uses a freemium pricing model, attracting users to its free Basic account and converting some to paying customers. While this model is effective for growth, it can be costly if users cancel after the free trial. Post-pandemic, Zoom faces the challenge of maintaining growth by retaining users, attracting new customers, and converting free users into paying clients.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Critical Thinking Questions
-</span>
+</span></h2>
 
 1. How did the COVID-19 pandemic contribute to Zoom's success?
 
@@ -1086,9 +1086,9 @@ Zoom offers a reliable, easy-to-use, and feature-rich platform that works on slo
 Advantages: Attracts a large user base quickly, allows customers to try the product before paying, and can convert free users into paying subscribers.
 Disadvantages: Costly to acquire and maintain free users, revenue depends on converting free users to paying customers, and some users may leave after the free trial.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Technology and the Economy
-</span>
+</span></h2>
 
 Technology is rapidly transforming business by creating new methods, processes, and applications to solve problems, perform tasks, and support decision-making. Advances in artificial intelligence (AI), big data, and advanced computing are driving disruptive technologies such as smart buildings, digital wallets, drones, robotics, and machines capable of human-like communication and decision-making. These innovations open opportunities for new business models and job creation. AI enables computers to perform tasks traditionally requiring human intelligence, including decision-making, visual perception, and speech recognition. Although AI may disrupt an estimated 25 percent of U.S. jobs, it is expected to create more jobs than it eliminates, including roles that do not yet exist. To adapt, educational institutions and businesses must equip workers with the soft skills needed to collaborate effectively with AI and other emerging technologies.
 
@@ -1102,15 +1102,15 @@ In a free-enterprise system, entrepreneurs are individuals who risk money, time,
 
 Entrepreneurs continually transform American business through new technology and innovative management. For example, Bill Gates built Microsoft into a multibillion-dollar software company with products like Word and Windows. Frederick Smith founded FedEx, revolutionizing overnight package delivery worldwide. Steve Jobs co-founded Apple, creating a consumer electronics giant that transformed multiple industries. Other notable American entrepreneurs include the founders of Walt Disney, Spanx, Tesla, McDonald’s, SpaceX, Google, Facebook, and Walmart. Their innovations demonstrate how entrepreneurship drives business evolution, economic growth, and global influence.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 The Role of Government in the American Economy
-</span>
+</span></h2>
 
 The U.S. economic system is considered modified capitalism, as the government regulates business to preserve competition and protect consumers, employees, and the environment. Federal, state, and local governments use laws and regulations to promote fair business practices. Agencies like the U.S. Department of Commerce track economic health through indicators such as GDP and productivity, and the government takes steps to minimize the effects of economic fluctuations and reduce unemployment. During economic slowdowns, the Federal Reserve may lower interest rates or increase spending to encourage consumer spending and business hiring. Conversely, when the economy grows too quickly and inflation rises, the government can slow growth by raising interest rates to reduce spending, as seen during the post-COVID-19 recovery. Government intervention helps stabilize the economy while maintaining fair competition and protecting public interests.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Another Tomorrow: Design for Social Responsibility
-</span>
+</span></h2>
 
 Another Tomorrow is a sustainable clothing company founded by entrepreneur Vanessa Barboni Hallik, focused on creating socially responsible fashion, educating consumers, and promoting social activism. Its operations prioritize environmental, animal, and human welfare, and the company demonstrates accountability and transparency through B Corporation (B Corp) certification, a voluntary program that measures a company’s social and environmental impact.
 
@@ -1118,9 +1118,9 @@ The company emphasizes sustainable and ethical sourcing, using organic cotton, w
 
 Another Tomorrow operates as a luxury apparel brand, with products priced between $95 and $1,900. This premium pricing allows the company to uphold high ethical and quality standards, in contrast to fast fashion brands that prioritize low costs and trend-driven consumption. The company also supports a technology-based circular economy, encouraging customers to resell clothes for cash or store credit, thereby reducing waste and promoting sustainability.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 Critical Thinking Questions
-</span>
+</span></h2>
 
 1. What are the benefits of becoming a B Corporation?
 
@@ -1133,9 +1133,9 @@ Extreme weather patterns have disrupted the availability of ethically sourced wo
 3. Why might it be easier for a luxury brand to prioritize ethics and sustainability than a fast fashion brand?
 Luxury brands can charge premium prices, allowing them to invest in higher-quality materials, ethical labor, and sustainable processes. Fast fashion brands focus on low-cost, trendy items, making it harder to maintain ethical and sustainable practices while remaining profitable.
 
-<h4><span style="color: #ffbb00; padding:2px;">
+<h2><span style="color: #ffbb00; padding:2px;">
 The Role of Ethics and Social Responsibility in Business
-</span>
+</span></h2>
 
 Ethical and socially responsible behavior in business benefits both stakeholders and financial performance. Companies like 3M, Hasbro, Salesforce, and Xcel Energy show that prioritizing ethics and social responsibility can enhance long-term value and create superior financial returns. Businesses can promote ethical behavior by monitoring societal trends, predicting the long-term effects of decisions, and balancing the interests of stakeholders, including customers, employees, investors, regulators, communities, and the environment.
 
