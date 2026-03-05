@@ -170,10 +170,9 @@ Which statement accurately describes the earning potential of college graduates?
 
 - The earning potential of college graduates is much higher than that of nongraduates.
 
----
  
 ---
-13. **Question:**
+1.  **Question:**
  
 In socialism, basic industries like the postal service are owned and operated by ______, and most other businesses are owned and operated by ______.
 
