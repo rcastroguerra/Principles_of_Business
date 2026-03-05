@@ -171,4 +171,80 @@ Which statement accurately describes the earning potential of college graduates?
 - The earning potential of college graduates is much higher than that of nongraduates.
 
 ---
-1. **Question:**
+ 
+---
+13. **Question:**
+ 
+In socialism, basic industries like the postal service are owned and operated by ______, and most other businesses are owned and operated by ______.
+
+- A) individuals; individuals  
+- B) the government; individuals  
+- C) individuals; the government  
+- D) the government; the government  
+
+**Answer:** B) the government; individuals
+
+ 
+---
+14. **Question:**
+ 
+_____ is the study of how society chooses to employ resources to produce goods and services and distribute them for consumption among various competing groups and individuals.
+
+- A) Economics  
+- B) Finance  
+- C) Capitalism  
+- D) Socialism  
+
+**Answer:** A) Economics
+
+ 
+---
+15. **Question:**
+ 
+Loras lives in a country where individuals (not the government) own and operate the majority of businesses that provide goods and services, while competition, supply, and demand dictate which goods and services are produced. Clearly, Loras lives in a _______ country.
+
+- A) Communist  
+- B) Capitalist  
+- C) Federalist  
+- D) Socialist  
+
+**Answer:** B) Capitalist
+
+ 
+---
+16. **Question:**
+ 
+A description of how a particular society distributes its resources to produce goods and services is the definition of:
+
+- A) The free market  
+- B) An economic system  
+- C) The factors of production  
+- D) Financial resources  
+
+**Answer:** B) An economic system
+
+ 
+---
+17. **Question:**
+ 
+An economic system in which the market (competition, supply and demand) largely determines what products get produced, who gets them, and how the economy grows is a_________economy:
+
+- A) Free-market   
+- B) Monopolistic   
+- C) Command market  
+- D) Centrally-planned   
+
+**Answer:** A) Free-market
+
+ 
+---
+18. **Question:**
+ 
+The central issue of economics is:
+
+- A) How to produce goods and services with little or no government intervention  
+- B) How to market unknown products to consumers in a way that will make them want to buy them  
+- C) How to appropriately select a target market so that goods and services sold will yield a profit  
+- D) How to fill an unlimited demand for goods and services with a limited supply of resources  
+
+**Answer:** D) How to fill an unlimited demand for goods and services with a limited supply of resources
