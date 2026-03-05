@@ -13,7 +13,7 @@ A(n) ____ is defined as trying to earn a profit by providing products that satis
 **Business**
 
 ---
-1. **Question:**  
+2. **Question:**  
 
 The primary goal of all businesses is to earn a ____ (the difference between what it costs to make and sell a product and what a customer pays for it).  
 
