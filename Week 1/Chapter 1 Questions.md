@@ -1,5 +1,6 @@
-1. **Question:**  
 
+1. **Question:**  
+---
 A(n) ____ is defined as trying to earn a profit by providing products that satisfy people's needs.
 
 - O Entrepreneur  
@@ -11,16 +12,18 @@ A(n) ____ is defined as trying to earn a profit by providing products that satis
 
 **Business**
 
+---
 2. **Question:**  
-
+---
 The primary goal of all businesses is to earn a ____ (the difference between what it costs to make and sell a product and what a customer pays for it).  
 
 **Answer:**  
 
 **Profit**
 
+---
 3. **Question:**  
-
+---
 The four functions of management are planning, leading, organizing, and:  
 
 - A) directing  
@@ -32,8 +35,9 @@ The four functions of management are planning, leading, organizing, and:
 
 **D) controlling**
 
+---
 4. **Question:**  
-
+---
 Studying business does NOT offer any benefits for those who decide to work for a government agency or a nonprofit organization.  
 
 - True  
@@ -43,8 +47,9 @@ Studying business does NOT offer any benefits for those who decide to work for a
 
 **False**
 
+---
 5. **Question:**  
-
+---
 The definition of economics includes:  
 
 - the study of the differences between countries  
@@ -56,8 +61,9 @@ The definition of economics includes:
 
 **the study of how resources are distributed for the production of goods and services**
 
+---
 6. **Question:**  
-
+---
 The definition of a business is:  
 
 - an organization that tries to earn a profit by providing products that satisfy people's needs  
@@ -69,8 +75,9 @@ The definition of a business is:
 
 **an organization that tries to earn a profit by providing products that satisfy people's needs**
 
+---
 7. **Question:**  
-
+---
 The way a society distributes its resources to produce goods and services describes a(n):  
 
 - political  
@@ -82,8 +89,9 @@ The way a society distributes its resources to produce goods and services descri
 
 **economic**
 
+---
 8. **Question:**  
-
+---
 The difference between what it costs to make and sell a product and what a customer pays for it is known as:  
 
 - profit  
@@ -95,8 +103,9 @@ The difference between what it costs to make and sell a product and what a custo
 
 **profit**
 
+---
 9. **Question:**  
-
+---
 Select all that apply.  
 
 Select the three issues that all economic systems must address.  
@@ -112,9 +121,11 @@ Select the three issues that all economic systems must address.
 - how goods and services will be produced, by whom, and with what resources  
 - the type and quantity of goods and services needed to satisfy consumers' needs  
 - how goods and services will be distributed to consumers
+  
 
+---
 10. **Question:**  
-
+---
 Select all that apply.  
 
 What are the four functions of management?  
@@ -132,9 +143,9 @@ What are the four functions of management?
 - Leading  
 - Organizing  
 - Controlling
-
+---
 11. **Question:**  
-
+---
 As identified by Karl Marx, what is the economic and political system in which the people contribute according to their ability and receive benefits according to their need?  
 
 - Socialism  
@@ -145,9 +156,9 @@ As identified by Karl Marx, what is the economic and political system in which t
 **Answer:**  
 
 - Communism
-
+---
 12. **Question:**  
-
+---
 Which statement accurately describes the earning potential of college graduates?  
 
 - As the minimum wage continues to increase, college graduates and nongraduates are earning similar salaries.  
@@ -159,4 +170,6 @@ Which statement accurately describes the earning potential of college graduates?
 
 - The earning potential of college graduates is much higher than that of nongraduates.
 
-13. **Question:**
+---
+1. **Question:**
+---
