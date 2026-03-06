@@ -12,6 +12,20 @@
 
 ##### [Capitulo LO 2-5 Social Responsibility Issues](#734474)
 
+##### [Capitulo Sources of Law](#722658)
+
+##### [Capitulo Courts and the Resolution of Disputes](#387287)
+
+##### [Capitulo Regulatory Administrative Agencies](#834137)
+
+##### [Capitulo Important Elements of Business Law](#194515)
+
+##### [Capitulo Laws Affecting Business Practices](#628488)
+
+##### [Capitulo The Internet: Legal and Regulatory Issues](#881528)
+
+##### [Capitulo Legal Pressure for Responsible Business Conduct](#157036)
+
 <h1 id="624601" style="color:#E65100;">
   <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
     LO 2-1 Business Ethics and Social Responsibility
@@ -1287,9 +1301,12 @@ Unemployment and Ethical Considerations
 ### Summary
 Social responsibility, ethics, and sustainability are **integral to modern business**, benefiting both the **bottom line** and society. New and evolving industries are creating jobs that combine **profit with purpose**.
 
-<h2><span style="color: #ffbb00; padding:2px;">
-Sources of Law
-</span></h2>
+<h1 id="722658" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    Sources of Law
+
+  </a>
+</h1>
 
 ### Definitions
 - **Criminal Law** – Laws that prohibit specific actions (e.g., mail fraud, unfair competition) and impose punishment such as fines or imprisonment. Violations are called **crimes**.  
@@ -1310,9 +1327,11 @@ Sources of Law
 - The **Supreme Court** serves as the ultimate authority on legal and regulatory decisions regarding appropriate business conduct.
 
 
-<h2><span style="color: #ffbb00; padding:2px;">
-Courts and the Resolution of Disputes
-</span></h2>
+<h1 id="387287" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    Courts and the Resolution of Disputes
+  </a>
+</h1>
 
 ### Definitions
 - **Lawsuit** – A legal action in which one individual or organization takes another to court to resolve a conflict, usually under **civil law**.  
@@ -1362,9 +1381,11 @@ Alternative Dispute Resolution (ADR) Methods
 - **Mini-trials** and **private courts** help businesses identify weaknesses in a case and encourage settlement **before full litigation**.  
 - Parties can often **choose mediators or arbitrators** with expertise in the specific business area of the dispute.  
 
-<h2><span style="color: #ffbb00; padding:2px;">
-Regulatory Administrative Agencies
-</span></h2>
+<h1 id="834137" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    Regulatory Administrative Agencies
+  </a>
+</h1>
 
 ### Definition
 - **Regulatory Administrative Agency** – A federal or state agency empowered to **create, enforce, and interpret regulations** within a specific area of law. Some agencies also have **judicial powers** to resolve disputes involving their regulations.
@@ -1420,9 +1441,11 @@ Federal regulatory agencies oversee a wide range of business activities, includi
 
 These agencies ensure that businesses operate fairly, safely, and responsibly while protecting consumers and the environment.
 
-<h2><span style="color: #ffbb00; padding:2px;">
-Important Elements of Business Law
-</span></h2>
+<h1 id="194515" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    Important Elements of Business Law
+  </a>
+</h1>
 
 Business law provides the legal framework within which companies operate. Understanding these laws helps businesspeople **avoid violations of criminal and civil statutes** and **minimize the risk of lawsuits** from consumers, employees, suppliers, and other stakeholders. Key elements include:
 
@@ -1751,9 +1774,11 @@ Types of Bankruptcy
 | **Chapter 11** | Temporarily frees a business from its financial obligations while it reorganizes and works out a payment plan with creditors. | - The business continues operating during bankruptcy proceedings.<br>- Often involves selling off assets and less-profitable subsidiaries to pay immediate obligations.<br>- Commonly used by corporations. |
 | **Chapter 13** | Similar to Chapter 11 but limited to individuals. | - Allows an individual to establish a 3- to 5-year repayment plan.<br>- The individual may ultimately repay as little as 10% of the debt.<br>- Provides a structured way to manage debt without liquidation of most assets. |
 
-<h2><span style="color: #ffbb00; padding:2px;">
-Laws Affecting Business Practices
-</span></h2>
+<h1 id="628488" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    Laws Affecting Business Practices
+  </a>
+</h1>
 
 One of the government's roles is to act as a watchdog to ensure that businesses behave in accordance with society's expectations. Congress has enacted a number of laws that affect business practices. Many state legislatures have also passed similar laws governing business within specific states.
 
@@ -1838,9 +1863,11 @@ Case Study: Cineworld Files for Bankruptcy
 2. **Why Ticket Sales Have Not Returned**: Health concerns, at-home streaming, reduced number of blockbuster hits, changes in entertainment consumption habits.  
 3. **Future Outlook**: Opinions vary; theaters may recover if they innovate and offer experiences that streaming cannot replicate (e.g., IMAX, luxury seating, social events), but recovery is uncertain.  
 
-<h2><span style="color: #ffbb00; padding:2px;">
-The Internet: Legal and Regulatory Issues
-</span></h2>
+<h1 id="881528" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    The Internet: Legal and Regulatory Issues
+  </a>
+</h1>
 
 ## Overview
 The growth of the internet creates **legal challenges for businesses**, primarily concerning:
@@ -1894,9 +1921,11 @@ Businesses must apply **traditional legal standards** (e.g., truth in advertisin
 3. Online advertising must **maintain transparency** and truthfulness.  
 4. **Influencers** are legally responsible to disclose sponsorships or gifts to avoid deceptive advertising claims.  
 
-<h2><span style="color: #ffbb00; padding:2px;">
-Legal Pressure for Responsible Business Conduct
-</span></h2>
+<h1 id="157036" style="color:#E65100;">
+  <a href="#Chapter_2._Business_Ethics_and_Social_Responsibility" style="color:inherit; text-decoration:none;">
+    Legal Pressure for Responsible Business Conduct
+  </a>
+</h1>
 
 ## Overview
 Governments at both federal and state levels are increasingly holding **organizations accountable** for misconduct, not just individual employees.  
