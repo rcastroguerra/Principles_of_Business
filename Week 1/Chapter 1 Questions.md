@@ -247,3 +247,224 @@ The central issue of economics is:
 - D) How to fill an unlimited demand for goods and services with a limited supply of resources  
 
 **Answer:** D) How to fill an unlimited demand for goods and services with a limited supply of resources
+
+ 
+---
+19. **Question:**
+ 
+**Question:** When economies are made up of elements from more than one economic system it is referred to as a ______ economy.
+
+- A) capitalist  
+- B) mixed  
+- C) free-market  
+- D) communist  
+
+**Answer:** B) mixed
+
+ 
+---
+20. **Question:**
+ 
+**Question:** In a communist economy,
+
+- A) there are an unlimited choice of careers  
+- B) there is an abundance of goods and services  
+- C) competition is encouraged by market forces  
+- D) the government controls how goods are produced  
+
+**Answer:** D) the government controls how goods are produced
+
+ 
+---
+21. **Question:**
+ 
+**Question:**  
+In a free-enterprise system, __________ dictates whether or not a business will succeed or fail.
+
+A) financial capital  
+B) market demand  
+C) the government  
+D) central planning  
+
+**Answer:**  
+B) market demand
+
+ 
+---
+22. **Question:**
+ 
+In a free-enterprise system, __________ dictates whether or not a business will succeed or fail.
+
+A) financial capital  
+B) market demand  
+C) the government  
+D) central planning  
+
+### Answer
+**B) market demand**
+
+ 
+---
+23. **Question:**
+ 
+**Question:**  
+The economic system in which the government owns and operates basic industries but individuals own most businesses is:
+
+A) communism  
+B) capitalism  
+C) free-enterprise  
+D) socialism  
+
+**Answer:**  
+**D) socialism**
+
+ 
+---
+24. **Question:**
+ 
+**Question:**  
+The quantity of goods and services that people are willing to buy at different prices at a specific time is called:
+
+A) market quantity  
+B) supply  
+C) equilibrium quantity  
+D) demand  
+
+**Answer:**  
+**D) demand**
+
+ 
+---
+25. **Question:**
+ 
+**Question:**  
+__________ is an economic system based on free markets in which competition, supply, and demand determine which goods and services will be produced, how they are produced, and how they are distributed.
+
+A) Socialism  
+B) Capitalism  
+C) Federalism  
+D) Communism  
+
+**Answer:**  
+**B) Capitalism**
+
+ 
+---
+26. **Question:**
+ 
+**Question:**  
+Generally speaking, if the market price of a product increases, the quantity of the product that businesses are willing to supply will:
+
+A) decrease  
+B) increase  
+C) stay the same  
+
+**Answer:**  
+**B) increase**
+
+ 
+---
+27. **Question:**
+ 
+**Question:**  
+Generally speaking, if the market price of a product increases, the quantity of the product that businesses are willing to supply will:
+
+A) decrease  
+B) increase  
+C) stay the same  
+
+**Answer:**  
+**B) increase**
+
+
+
+ 
+---
+28. **Question:**
+ 
+**Question:**  
+Another term for free-market economies is socialism.
+
+A) True  
+B) False  
+
+**Answer:**  
+**B) False**
+
+ 
+---
+29. **Question:**
+ 
+**Question:**  
+On a graph showing both supply and demand curves, the intersection point between the two curves shows the:
+
+A) price  
+B) mark-up  
+C) equilibrium  
+D) ideal production  
+
+**Answer:**  
+**C) equilibrium**
+
+ 
+---
+30. **Question:**
+ 
+**Question:**  
+An economy that consists of elements from various economic systems, such as a combination of socialism and capitalism, is said to have a __________ economy.
+
+A) mixed  
+B) mobile  
+C) tertiary  
+D) intrinsic  
+
+**Answer:**  
+**A) mixed**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
