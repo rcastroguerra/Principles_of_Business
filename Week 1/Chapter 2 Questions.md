@@ -401,7 +401,7 @@ flowchart LR
  
 Knowing the importance of employee relations, what is the likely result of a company that listens to employees' grievances and treats them fairly?  
 
-- **Answer:** Higher morale among employees  
+**Answer:** Higher morale among employees  
 
 **Explanation:**  
 When a company actively listens to its employees and addresses their concerns fairly, it fosters a positive work environment. This leads to higher morale, increased job satisfaction, greater loyalty, and often improved productivity, all of which benefit both the employees and the organization.
@@ -412,7 +412,7 @@ When a company actively listens to its employees and addresses their concerns fa
  
 Which type of industry is especially susceptible to employee internal theft?  
 
-- **Answer:** Retail  
+**Answer:** Retail  
 
 **Explanation:**  
 Retail industries handle a large volume of inventory and cash transactions, making them more vulnerable to internal theft. Employees may take merchandise, manipulate sales records, or engage in cash skimming. Strong internal controls, monitoring systems, and employee training are crucial to minimizing such risks.
@@ -423,7 +423,7 @@ Retail industries handle a large volume of inventory and cash transactions, maki
  
 The activities that independent individuals, groups, and organizations undertake to protect their rights as consumers is called  
 
-- **Answer:** Consumerism  
+**Answer:** Consumerism  
 
 **Explanation:**  
 Consumerism refers to efforts by individuals and organizations to ensure that businesses provide safe, fair, and honest products and services. It includes advocating for consumer rights, monitoring corporate practices, and influencing policies to protect buyers from unfair, unsafe, or deceptive business practices.
@@ -434,7 +434,7 @@ Consumerism refers to efforts by individuals and organizations to ensure that bu
  
 Sustainability can be defined as  
 
-- **Answer:**  
+**Answer:**  
   - Conducting activities in such a way as to provide for the long-term well-being of the natural environment  
 
 **Explanation:**  
@@ -446,7 +446,7 @@ Sustainability focuses on using resources responsibly and managing business prac
  
 A number of studies have found a direct relationship between social responsibility and customer loyalty, as well as a link that exists between employee commitment and  
 
-- **Answer:**  
+**Answer:**  
   - Profitability  
 
 **Explanation:**  
@@ -489,7 +489,7 @@ Businesses must first be responsible to their owners, who are primarily concerne
 - C) employee satisfaction  
 - D) business expansion opportunities  
 
-- **Answer:**  
+**Answer:**  
 - earning a profit 
 
 **Explanation:**  
@@ -506,7 +506,7 @@ Which issue resulting from factory closures can be considered an ethical issue b
 - C) Consumerism  
 - D) Whistleblowing  
 
-- **Answer:**  
+**Answer:**  
   - Unemployment
 
 - **Explanation:**  
@@ -523,7 +523,7 @@ Employees expect businesses to:
 - C) Keep them informed of what is happening in their company ✅  
 - D) Provide a safe workplace ✅  
 
-- **Answer:**  
+**Answer:**  
   - Pay them adequately for their work  
   - Keep them informed of what is happening in their company  
   - Provide a safe workplace  
@@ -542,7 +542,7 @@ The legal rules and regulations that govern the conduct of business is referred 
 - C) Social responsibility  
 - D) Business law ✅  
 
-- **Answer:**  
+**Answer:**  
   - Business law
 
 - **Explanation:**  
@@ -559,7 +559,7 @@ What are two typical forms of consumerism?
 - C) Using physical force to stop customers  
 - D) Ignoring a company's Facebook posts  
 
-- **Answer:**  
+**Answer:**  
   - Writing letters to companies  
   - Boycotting companies  
 
@@ -577,7 +577,7 @@ When a business is accused of mail fraud and members of the staff face possible 
 - C) Civil law  
 - D) Arbitration  
 
-- **Answer:**  
+**Answer:**  
   - Criminal law  
 
 - **Explanation:**  
@@ -589,7 +589,7 @@ When a business is accused of mail fraud and members of the staff face possible 
  
 Conducting activities in such a way as to provide for the long-term well-being of the natural environment is referred to as **______**.
 
-- **Answer:**  
+**Answer:**  
   - Sustainability  
 
 - **Explanation:**  
@@ -606,7 +606,7 @@ When one individual or organization takes another to court using civil laws, tha
 - C) Mediation  
 - D) Lawsuit ✅  
 
-- **Answer:**  
+**Answer:**  
   - Lawsuit  
 
 - **Explanation:**  
@@ -618,7 +618,7 @@ When one individual or organization takes another to court using civil laws, tha
  
 When some chemical compounds emitted by manufacturing facilities react with air and rain, the resulting type of air pollution is called **______ ______**.
 
-- **Answer:**  
+**Answer:**  
   - Acid rain  
 
 - **Explanation:**  
@@ -635,7 +635,7 @@ When a court has the legal power to interpret and apply the law and make a bindi
 - C) Jurisdiction ✅  
 - D) Arbitration  
 
-- **Answer:**  
+**Answer:**  
   - Jurisdiction  
 
 - **Explanation:**  
@@ -652,7 +652,7 @@ When a court has the legal power to interpret and apply the law and make a bindi
 - C) Jurisdiction ✅  
 - D) Arbitration  
 
-- **Answer:**  
+**Answer:**  
   - Jurisdiction  
 
 - **Explanation:**  
@@ -669,7 +669,7 @@ Unemployment becomes a(n) ______ issue when an employer notices that the job app
 - C) Social ✅  
 - D) Diversity  
 
-- **Answer:**  
+**Answer:**  
   - Social  
 
 - **Explanation:**  
@@ -686,7 +686,7 @@ Which organization allocates a large portion of its resources to curbing false a
 - C) Federal Trade Commission ✅  
 - D) Consumer Product Safety Commission  
 
-- **Answer:**  
+**Answer:**  
   - Federal Trade Commission  
 
 - **Explanation:**  
@@ -703,7 +703,7 @@ _____ refers to the rules and regulations that govern the conduct of business.
 - C) Business ethics  
 - D) Business law ✅  
 
-- **Answer:**  
+**Answer:**  
   - Business law  
 
 - **Explanation:**  
@@ -715,7 +715,7 @@ _____ refers to the rules and regulations that govern the conduct of business.
  
 The Uniform Commercial Code is a set of statutory laws covering several business law topics. ✅  
 
-- **Answer:**  
+**Answer:**  
   - True  
 
 - **Explanation:**  
@@ -727,7 +727,7 @@ The **Uniform Commercial Code (UCC)** is a standardized set of laws that governs
  
 Laws are classified as either criminal or civil. ________ law not only prohibits a specific kind of action, such as unfair competition or mail fraud, but also imposes a fine or imprisonment for violating the law.__________ law specifies the rights and duties of individuals and organizations; violations may result in fines but not imprisonment.  
 
-- **Answer:**  
+**Answer:**  
   - **Criminal**   
   - **Civil**   
 
@@ -745,7 +745,7 @@ What is a purposefully unlawful act to deceive or manipulate in order to damage 
 - C) Arbitration  
 - D) Product liability  
 
-- **Answer:**  
+**Answer:**  
 - Fraud  
 
 - **Explanation:**  
@@ -762,7 +762,7 @@ The primary method of resolving conflicts and business disputes using civil law 
 - C) Regulations  
 - D) Mediation  
 
-- **Answer:**  
+**Answer:**  
 - Lawsuits  
 
 - **Explanation:**  
@@ -774,7 +774,7 @@ Civil law disputes are typically resolved in court through lawsuits, where one p
  
 __________ is a mutual agreement between two or more parties that can be enforced in a court if one party chooses not to comply.  
 
-- **Answer:**  
+**Answer:**  
 - Contract  
 
 - **Explanation:**  
@@ -786,7 +786,7 @@ A contract is a legally binding agreement between parties that creates obligatio
  
 The legal power of a court, through a judge, to interpret and apply the law and make a binding decision in a particular case is referred to as ________.  
 
-- **Answer:**  
+**Answer:**  
 - Jurisdiction  
 
 - **Explanation:**  
@@ -803,7 +803,7 @@ Two parties are involved in an agency relationship: The ________ is the one who 
 - C) principal; agent ✅  
 - D) agent; principal  
 
-- **Answer:**  
+**Answer:**  
 - Principal; agent  
 
 - **Explanation:**  
@@ -819,7 +819,7 @@ What tool can the Federal Trade Commission use when it believes a firm is violat
 - B) quid pro quo agreement  
 - C) writ of habeas corpus  
 
-- **Answer:**  
+**Answer:**  
 - Cease-and-desist order  
 
 - **Explanation:**  
@@ -836,7 +836,7 @@ Which type of property consists of real estate and anything permanently attached
 - C) Personal property  
 - D) Intellectual property  
 
-- **Answer:**  
+**Answer:**  
 - Real property  
 
 - **Explanation:**  
@@ -853,7 +853,7 @@ What is a set of statutory laws enacted in every state (except Louisiana) intend
 - C) Code of Ethics  
 - D) Uniform Commercial Code ✅  
 
-- **Answer:**  
+**Answer:**  
 - Uniform Commercial Code  
 
 - **Explanation:**  
@@ -870,7 +870,7 @@ If a business cannot meet its financial obligations, it must sometimes file for
 - C) Legality  
 - D) Consideration  
 
-- **Answer:**  
+**Answer:**  
 - Bankruptcy  
 
 - **Explanation:**  
@@ -887,7 +887,7 @@ If the driver of Quick Eats, a grocery delivery service, loses control of the ca
 - C) Express warranty  
 - D) Fraud  
 
-- **Answer:**  
+**Answer:**  
 - Tort  
 
 - **Explanation:**  
@@ -904,7 +904,7 @@ Which act was passed to prevent businesses from restraining trade and monopolizi
 - C) Clayton Act  
 - D) Sarbanes-Oxley Act  
 
-- **Answer:**  
+**Answer:**  
 - Sherman Antitrust Act  
 
 - **Explanation:**  
@@ -921,7 +921,7 @@ When you rent an apartment, the business transaction is carried out by means of
 - C) a contract ✅  
 - D) a voluntary agreement  
 
-- **Answer:**  
+**Answer:**  
 - a contract  
 
 - **Explanation:**  
@@ -938,7 +938,7 @@ COPPA was enacted in 2000 to protect which aspect of Internet activity?
 - C) Sale of illegal firearms  
 - D) Children's online activities ✅  
 
-- **Answer:**  
+**Answer:**  
 - Children's online activities  
 
 - **Explanation:**  
@@ -955,7 +955,7 @@ In an agency relationship, the _______ is the one who wishes to have a specific 
 - C) Principal ✅  
 - D) Agency  
 
-- **Answer:**  
+**Answer:**  
 - Principal  
 
 - **Explanation:**  
@@ -972,7 +972,7 @@ Which act criminalized securities fraud, strengthened penalties for corporate fr
 - C) Dodd-Frank Act  
 - D) Sarbanes-Oxley Act ✅  
 
-- **Answer:**  
+**Answer:**  
 - Sarbanes-Oxley Act  
 
 - **Explanation:**  
@@ -989,7 +989,7 @@ What are the two subsets of personal property?
 - C) Owned and rented  
 - D) Direct and indirect  
 
-- **Answer:**  
+**Answer:**  
 - Tangible and intangible  
 
 - **Explanation:**  
@@ -1006,7 +1006,7 @@ Bankruptcy is sometimes called _____ insolvency.
 - c) patent  
 - d) secondary ✅  
 
-- **Answer:**  
+**Answer:**  
 - legal  
 
 - **Explanation:**  
@@ -1018,7 +1018,7 @@ Bankruptcy is often referred to as **legal insolvency** because it is the formal
  
 The _______ Antitrust Act, passed in 1890, was put in place to prevent businesses from restraining trade and monopolizing markets. (Enter one word in the blank.)
 
-- **Answer:**  
+**Answer:**  
 - Sherman  
 
 - **Explanation:**  
@@ -1035,7 +1035,7 @@ What is the focus for future legislative efforts regarding business conducted on
 - C) Bait and switch programs  
 - D) Corporate monopolies  
 
-- **Answer:**  
+**Answer:**  
 - Personal privacy protection  
 
 - **Explanation:**  
@@ -1052,7 +1052,7 @@ Which act, passed almost unanimously by Congress in the early 2000s, criminalize
 - C) Sherman Antitrust  
 - D) Sarbanes-Oxley ✅  
 
-- **Answer:**  
+**Answer:**  
 - Sarbanes-Oxley  
 
 - **Explanation:**  
@@ -1069,7 +1069,7 @@ If a business cannot meet its financial obligations it must sometimes file for
 - C) Consideration  
 - D) Legality  
 
-- **Answer:**  
+**Answer:**  
 - Bankruptcy  
 
 - **Explanation:**  
