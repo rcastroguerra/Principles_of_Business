@@ -17,6 +17,6 @@ deactivate
 
 py -m jupyter nbconvert --to markdown "prueba/prueba.ipynb"
 
-#activate 
+#activate visual
 CTRL + SHIFT + V
 
