@@ -784,5 +784,376 @@ NAFTA aimed to create a single North American market by reducing trade barriers.
 ---
 35. **Question:**
  
+**Question:**  
+
+Which organization, established in 1946, primarily serves to loan funds to underdeveloped and developing nations, where the funds are used to finance projects ranging from road and factory construction to the building of medical and educational facilities?  
+
+- GATT  
+- **The World Bank** ✅  
+- International Monetary Fund  
+- The European Union  
+
+**Answer:**  
+- **The World Bank** ✅  
+
+**Explanation:**  
+The **World Bank**, established in 1946, provides loans and financial assistance to developing and underdeveloped countries. These funds help finance major development projects such as infrastructure (roads and factories), healthcare facilities, and educational institutions to promote economic growth and reduce poverty.
+
+ 
+---
+36. **Question:**
+ 
+**Question:**  
+
+What are two long-term goals of the European Union (EU)? (Select all that apply)
+
+- **Stimulate economic growth** ✅  
+- Implement state-controlled businesses  
+- **Improve the economic efficiency of the EU nations** ✅  
+- Eliminate political rivalries between nations  
+
+**Answer:**  
+- **Stimulate economic growth** ✅  
+- **Improve the economic efficiency of the EU nations** ✅  
+
+**Explanation:**  
+The European Union (EU) aims to strengthen the economies of its member nations by increasing cooperation and integration. Its goals include **stimulating economic growth** and **improving economic efficiency** through a unified market, reduced trade barriers, and coordinated policies. The EU does not focus on creating state-controlled businesses.
+
+ 
+---
+37. **Question:**
+
+**Question:**  
+
+Which organization was established in 1947 to promote trade among member nations by eliminating trade barriers and fostering financial cooperation?
+
+- The World Bank  
+- **The International Monetary Fund (IMF)** ✅  
+- The World Trade Organization  
+- The General Agreement on Tariffs and Trade  
+
+**Answer:**  
+- **The International Monetary Fund (IMF)** ✅  
+
+**Explanation:**  
+The **International Monetary Fund (IMF)** was established in **1947** to promote global financial stability and cooperation. It helps facilitate international trade by encouraging stable exchange rates, providing financial assistance to countries facing economic difficulties, and promoting monetary cooperation among nations.
+ 
+---
+38.  **Question:**
+ 
+**Question:**  
+
+In the 1970s, during a visit to Brazil, President Richard Nixon gave the A-OK sign to the crowd. This hand gesture in America means OK; however, Brazilians were embarrassed because in their culture the gesture is considered obscene. This situation exemplifies how even simple differences in ______ can cause misunderstandings in international relationships.
+
+- Laws  
+- **Body language** ✅  
+- Written language  
+- Family roles  
+
+**Answer:**  
+- **Body language** ✅  
+
+**Explanation:**  
+Body language is a form of **nonverbal communication**, including gestures, facial expressions, and posture. Different cultures interpret these signals differently, which can sometimes lead to misunderstandings in international interactions.
+
+ 
+---
+39. **Question:**
+ 
+**Question:**  
+
+Which scenario is an example of **importing**?
+
+- **Hewlett-Packard buys computer parts from suppliers in Asia to build its laptops.** ✅  
+- Major League Baseball enters into an agreement with a Canadian clothing company allowing it to sell its clothing with the MLB logo.  
+- To meet growing global demand for pineapples, Hawaiian producers of pineapples have increased sales outside of the United States in recent years.  
+- An American auto manufacturer invests in building a factory in Sweden and moves its manufacturing operations to that country.  
+
+**Answer:**  
+- **Hewlett-Packard buys computer parts from suppliers in Asia to build its laptops.** ✅  
+
+**Explanation:**  
+**Importing** occurs when a country **purchases goods or services from foreign sources**. In this case, Hewlett-Packard is buying computer parts from suppliers in **Asia**, meaning those products are being brought into the United States from another country.
+
+ 
+---
+40. **Question:**
+ 
+**Question:**  
+
+What is one way that APEC differs from other international trade alliances?
+
+- It takes into account the political status of a nation before allowing it to join.  
+- **It allows the business/private sector to participate in a wide range of APEC activities.** ✅  
+- It only consists of two nations.  
+- It did not allow the United States to join.  
+
+**Answer:**  
+- **It allows the business/private sector to participate in a wide range of APEC activities.** ✅  
+
+**Explanation:**  
+**APEC (Asia-Pacific Economic Cooperation)** is unique because it actively involves the **business and private sector** in its initiatives through forums like the APEC Business Advisory Council. This participation helps promote trade, investment, and economic cooperation among its member economies.
+
+ 
+---
+41. **Question:**
+ 
+**Question:**  
+
+A(n) ______ buys goods in one country and sells them to buyers in another country.
+
+- Contract manufacturer  
+- Export agent  
+- **Trading company** ✅  
+- Licensing agent  
+
+**Answer:**  
+- **Trading company** ✅  
+
+**Explanation:**  
+A **trading company** specializes in international trade. It purchases goods in one country and then sells those goods to buyers in another country, acting as an intermediary that facilitates global commerce.
+
+ 
+---
+42. **Question:**
+ 
+**Question:**  
+
+Which trade alliance, established in 1967, promotes trade and economic integration among ten member nations in Southeast Asia?
+
+- OPEC  
+- **ASEAN** ✅  
+- APEC  
+- NAFTA  
+
+**Answer:**  
+- **ASEAN** ✅  
+
+**Explanation:**  
+The **Association of Southeast Asian Nations (ASEAN)** was established in **1967** to promote **economic growth, trade, and regional cooperation** among countries in Southeast Asia. Today it includes ten member nations working together to improve economic integration and stability in the region.
+
+ 
+---
+43. **Question:**
+ 
+**Question:**  
+
+What type of trade agreement involves one company allowing another company to use its company name, products, patents, brands, trademarks, raw materials, and/or production processes in exchange for a fee or royalty?
+
+- Franchising  
+- Contract manufacturing  
+- Exporting  
+- **Licensing** ✅  
+
+**Answer:**  
+- **Licensing** ✅  
+
+**Explanation:**  
+**Licensing** is an agreement where one company (the **licensor**) allows another company (the **licensee**) to use its **intellectual property**—such as patents, trademarks, brand names, or production processes—in exchange for a **fee or royalty payment**. This allows companies to expand into foreign markets without directly producing the goods themselves.
+
+ 
+---
+44. **Question:**
+ 
+**Question:**  
+
+____ was established by the world's industrialized nations in 1946 to loan money to underdeveloped and developing countries.  
+
+- International Monetary Fund  
+- **World Bank** ✅  
+- EU  
+- United Nations  
+
+**Answer:**  
+- **World Bank** ✅  
+
+**Explanation:**  
+The **World Bank** was created in 1946 to provide financial assistance to **developing and underdeveloped nations**. Its goal is to fund projects such as infrastructure, education, healthcare, and industrial development, helping countries achieve economic growth and improve living standards.
+
+ 
+---
+45. **Question:**
+ 
+**Question:**  
+
+Simpson's Window Coverings, based in Chicago, hired a company in Taiwan to sew all of the window treatments for 15 hotels that Simpson contracted with. The company in Taiwan also includes a label indicating the Simpson name. What is this an example of?  
+
+- Franchising  
+- A drop shipment  
+- Licensing  
+- **Contract manufacturing** ✅  
+
+**Answer:**  
+- **Contract manufacturing** ✅  
+
+**Explanation:**  
+**Contract manufacturing** occurs when a company hires another company in a different country to produce its products according to specifications. In this case, the Taiwanese company manufactures the window treatments and uses Simpson's label, while Simpson retains ownership of the product design and brand.
+
+ 
+---
+46. **Question:**
+ 
+**Question:**  
+
+Which organization is considered the closest thing the world has to an international central bank?  
+
+- Federal Reserve  
+- **International Monetary Fund** ✅  
+- World Bank  
+- Federal Deposit Insurance Corporation  
+
+**Answer:**  
+- **International Monetary Fund** ✅  
+
+**Explanation:**  
+The **International Monetary Fund (IMF)** provides financial support and guidance to countries, helping stabilize exchange rates and balance of payments. Because it lends funds to member nations in financial distress, it functions similarly to a central bank, but on a global scale.
+
+ 
+---
+47. **Question:**
+ 
+**Question:**  
+
+Which scenario is an example of exporting?  
+
+- **To meet growing global demand for almonds, American producers of almonds have increased sales outside of the United States in recent years.** ✅  
+- Ford buys engine parts from suppliers in Asia to build its cars.  
+- An American clothing company invests in building a factory in Vietnam and moves its manufacturing operations to that country.  
+- General Mills enters into an agreement with the French company allowing it to sell Yoplait Yogurt in the United States.  
+
+**Answer:**  
+- **To meet growing global demand for almonds, American producers of almonds have increased sales outside of the United States in recent years.** ✅  
+
+**Explanation:**  
+Exporting occurs when a country or company sells domestically produced goods to buyers in another country. In this example, American almond producers are selling their products to international markets, which is a direct example of exporting.
+
+ 
+---
+48. **Question:**
+ 
+**Question:**  
+
+Offshoring is defined as:  
+
+- **The relocation of business processes by a company or subsidiary to another country** ✅  
+- A firm that buys goods in one country and sells them to buyers in another country  
+- The hiring of a foreign company to produce a specified volume of the initiating company's product to specification  
+- Foreign trade agreements that involve bartering products for other products instead of for currency  
+
+**Answer:**  
+- **The relocation of business processes by a company or subsidiary to another country** ✅  
+
+**Explanation:**  
+Offshoring occurs when a company moves some of its operations or business processes to another country, often to reduce costs, access skilled labor, or take advantage of favorable economic conditions. This differs from outsourcing, which involves hiring an external company (domestic or foreign) to handle certain tasks.
+
+ 
+---
+49. **Question:**
+ 
+**Question:**  
+
+International Spaces, Inc. handles all the activities required to move a company's products from one country to another. They act as consultants, handle all marketing and advertising, conduct product research and design, and provide warehousing. What type of company is International Spaces, Inc?  
+
+- Distribution center  
+- Franchisee  
+- **Trading company** ✅  
+- Countertrader  
+
+**Answer:**  
+- **Trading company** ✅  
+
+**Explanation:**  
+A trading company buys, sells, and facilitates the movement of goods across international borders. They often provide a full range of services, including consulting, marketing, research, design, and warehousing, to help businesses enter and operate in foreign markets. This distinguishes them from franchisees or distribution centers, which have more limited roles.
+
+ 
+---
+50. **Question:**
+ 
+**Question:**  
+
+The definition of _____ states: the sharing of the costs and operation of a business between a foreign company and a local partner.  
+
+- a foreign subsidiary  
+- **a joint venture** ✅  
+- contract manufacturing  
+- exporting  
+
+**Answer:**  
+- **a joint venture** ✅  
+
+**Explanation:**  
+A joint venture is a business arrangement in which two or more parties (often a foreign company and a local partner) agree to pool resources, share costs, and jointly manage the operations of a business for a specific project or period. This allows companies to enter foreign markets with reduced risk and local expertise.
+
+ 
+---
+51. **Question:**
+ 
+**Question:**  
+
+When the NBA formed an agreement with Adidas to allow Adidas to be the official apparel provider of the NBA, it entered into what type of arrangement?  
+
+- Greenfield venture  
+- Acquisition  
+- Franchising  
+- **Licensing** ✅  
+
+**Answer:**  
+- **Licensing** ✅  
+
+**Explanation:**  
+Licensing is an arrangement where one company allows another company to use its brand name, trademarks, products, or production processes in exchange for a fee or royalty. In this case, the NBA allowed Adidas to use its logo and branding on apparel, making it a licensing agreement.
+
+ 
+---
+52. **Question:**
+ 
+**Question:**  
+
+Companies that want to retain control and are willing to invest resources in international business will consider _________ ownership of overseas facilities.  
+
+**Answer:**  
+- **direct**  
+
+**Explanation:**  
+Direct investment involves a company establishing or acquiring facilities in another country. This allows the company to retain control over operations, quality, and decision-making, but it also requires significant financial and managerial resources.
+
+ 
+---
+53. **Question:**
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
