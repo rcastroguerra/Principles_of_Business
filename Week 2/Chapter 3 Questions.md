@@ -1121,16 +1121,194 @@ Direct investment involves a company establishing or acquiring facilities in ano
 ---
 53. **Question:**
  
+**Question:**  
 
+An American denim company hires a foreign firm to cut, sew, and finish the company's jeans before putting the American company's brand name on the product. This is an example of:  
 
+- a joint venture  
+- **contract manufacturing** ✅  
+- licensing  
+- direct investment  
 
+**Answer:**  
+- **Contract manufacturing** ✅  
 
+**Explanation:**  
+Contract manufacturing occurs when a company hires a foreign firm to produce its products according to specifications. The hiring company retains control over branding and product design, while the foreign company handles the production process, reducing costs and investment risk.
 
+ 
+---
+54. **Question:**
+ 
+**Question:**  
 
+What strategy is a company using when it customizes its products, promotion, and distribution to fit cultural, technological, and other national differences?  
 
+- **Multinational** ✅  
+- Offshoring  
+- Outsourcing  
+- Global  
 
+**Answer:**  
+- **Multinational** ✅  
 
+**Explanation:**  
+A **multinational strategy** involves tailoring products, marketing, and distribution to meet the unique needs and preferences of each country or region. This approach contrasts with a global strategy, which treats the world market as a single entity with standardized offerings.
 
+ 
+---
+55. **Question:**
+ 
+**Question:**  
+
+Which organization was established in 1947 to promote trade among member nations by eliminating trade barriers and fostering financial cooperation?  
+
+- The World Bank  
+- **The International Monetary Fund (IMF)** ✅  
+- The General Agreement on Tariffs and Trade (GATT)  
+- The World Trade Organization (WTO)  
+
+**Answer:**  
+- **The International Monetary Fund (IMF)** ✅  
+
+**Explanation:**  
+The **International Monetary Fund (IMF)** was created in 1947 to promote international monetary cooperation, stabilize exchange rates, and provide financial resources to countries in need. While GATT focused on trade rules, the IMF’s primary role is financial stability and cooperation among member nations.
+ 
+---
+56.  **Question:**
+ 
+**Question:**  
+
+The relocation of a business process by a company, or a subsidiary, to another country, whereby the company retains control of the process is referred to as:  
+
+- Licensing  
+- Franchising  
+- **Offshoring** ✅  
+- Contract manufacturing  
+
+**Answer:**  
+- **Offshoring** ✅  
+
+**Explanation:**  
+**Offshoring** occurs when a company moves part of its operations or business processes to another country while retaining ownership and control. This differs from outsourcing, where a third-party company (often in another country) handles the process independently.
+
+ 
+---
+57. **Question:**
+ 
+**Question:**  
+
+Smaller firms based in the United States can learn more about international business opportunities from the work done by CIBERs, which are located at:  
+
+- The capital city in each of the 50 states  
+- The U.S. Department of Commerce  
+- **Leading business schools in the United States** ✅  
+- The United Nations  
+
+**Answer:**  
+- **Leading business schools in the United States** ✅  
+
+**Explanation:**  
+**CIBERs (Centers for International Business Education and Research)** are hosted at leading U.S. business schools. They provide resources, research, and guidance to help smaller firms understand and enter international markets.
+
+ 
+---
+58. **Question:**
+ 
+**Question:**  
+
+A company that lacks sufficient resources to operate in another country may choose to form a(n) _______ of the business by finding a local partner to share the costs and operation.  
+
+- **Joint venture** ✅  
+- Direct investment  
+- Outsourcing partnership  
+- Importing agreement  
+
+**Answer:**  
+- **Joint venture** ✅  
+
+**Explanation:**  
+A **joint venture** allows a company to partner with a local business in a foreign country to share costs, risks, and management responsibilities. This approach is ideal for companies that do not have enough resources to operate independently in a foreign market.
+
+ 
+---
+59. **Question:**
+ 
+**Question:**  
+
+When Lowe's builds its home improvement stores in Australia and other countries, this level of international business is called:  
+
+- Outsourcing  
+- **Direct investment** ✅  
+- Contract manufacturing  
+- Exporting  
+
+**Answer:**  
+- **Direct investment** ✅  
+
+**Explanation:**  
+**Direct investment** occurs when a company invests resources to establish business operations in another country, such as building stores, factories, or offices. In this case, Lowe's is investing directly in foreign markets by constructing and operating its own stores abroad.
+
+ 
+---
+60. **Question:**
+ 
+**Question:**  
+
+When an international company customizes its product, promotion, and distribution according to cultural, technological, regional, and national differences, it is using which strategy?  
+
+- Globalization  
+- Transnational  
+- **Multinational** ✅  
+- International  
+
+**Answer:**  
+- **Multinational** ✅  
+
+**Explanation:**  
+A **multinational strategy** tailors a company’s products, marketing, and distribution to meet the specific needs of different countries or regions. This approach allows the company to respond to cultural, technological, and market differences in each country, rather than using a standardized global approach.
+
+ 
+---
+61. **Question:**
+ 
+**Question:**  
+
+Which organization is considered the closest thing the world has to an international central bank?  
+
+- World Bank  
+- **International Monetary Fund** ✅  
+- Federal Deposit Insurance Corporation  
+- Federal Reserve  
+
+**Answer:**  
+- **International Monetary Fund** ✅  
+
+**Explanation:**  
+The **International Monetary Fund (IMF)** helps maintain global financial stability by providing financial assistance, advice, and monitoring to member countries. It functions like an international central bank, supporting countries with balance-of-payments problems and facilitating global economic cooperation.
+
+ 
+---
+62. **Question:**
+ 
+**Question:**  
+
+Which unit of the U.S. Department of Commerce offers small- and mid-sized U.S. firms practical knowledge about international markets and industries?  
+
+- **Commercial Service** ✅  
+- United Nations  
+- CIBERs  
+- International Monetary Fund  
+
+**Answer:**  
+- **Commercial Service** ✅  
+
+**Explanation:**  
+The **Commercial Service** is a branch of the U.S. Department of Commerce that helps U.S. businesses expand internationally. It provides market research, trade counseling, and assistance in connecting with foreign buyers, making it especially valuable for small- and mid-sized firms.
+
+ 
+---
+ 
 
 
 
