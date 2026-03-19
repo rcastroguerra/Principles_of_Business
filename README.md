@@ -20,3 +20,5 @@ py -m jupyter nbconvert --to markdown "prueba/prueba.ipynb"
 #activate visual
 CTRL + SHIFT + V
 
+# requirements for my project
+pip freeze > requirements.txt
