@@ -948,6 +948,562 @@ Therefore, an advancement to a higher level job is known as a **promotion**.
 ---
 # **Question:** 27
 
+## Fill in the Blank Question
+
+**Salaries are most closely associated with __________ collar workers. (white or blue?)**
+
+---
+
+## Correct Answer
+
+**white**
+
+---
+
+## Explanation
+
+- **White-collar workers** → These employees typically perform professional, managerial, administrative, or clerical work in office settings. They are most commonly paid a **salary** (a fixed annual or monthly amount that does not vary based on hours worked). Examples include managers, accountants, engineers, and software developers.
+
+- **Blue-collar workers** → These employees typically perform manual labor, skilled trades, or operational work (e.g., manufacturing, construction, maintenance). They are more commonly paid **wages** on an hourly basis or piece-rate, rather than a salary.
+
+While there are exceptions (some blue-collar workers are salaried, and some white-collar workers are hourly), the traditional and most closely associated pairing is:
+
+- **Salary → White-collar**
+- **Wages → Blue-collar**
+
+Therefore, salaries are most closely associated with **white** collar workers.
+
+ 
+---
+# **Question:** 28
+
+## Multiple Choice Question
+
+**An employee who moves to another job within the company but remains at the same level and pay scale has received a __________.**
+
+- A. demotion
+- B. promotion
+- C. separation
+- D. transfer
+
+---
+
+## Correct Answer
+
+**D. transfer**
+
+---
+
+## Explanation
+
+- **Transfer** → A transfer is a lateral move within an organization to a different job, department, or location. The key characteristics are that the employee remains at the **same level** and **same pay scale**. Transfers may occur for various reasons, such as gaining new experience, accommodating personal preferences, or filling needs in another department.
+
+- **A. Demotion** → A demotion involves moving an employee to a lower-level position, typically with reduced responsibility, authority, and often lower pay. This is the opposite of what the question describes.
+
+- **B. Promotion** → A promotion involves moving to a higher-level position with increased responsibility, authority, and usually higher pay. The question explicitly states the employee remains at the same level and pay scale.
+
+- **C. Separation** → Separation refers to an employee leaving the organization entirely (quitting, firing, retirement, or layoff). The employee in the question remains within the company.
+
+Therefore, an employee who moves to another job at the same level and pay scale has received a **transfer**.
+
+ 
+---
+# **Question:** 29
+
+## Multiple Choice Question
+
+**A compensation plan refers to __________.**
+
+- A. the transfer of employees within a company
+- B. how a company reduces environmental waste
+- C. the number of jobs available at a company
+- D. how much people are paid for their work
+
+---
+
+## Correct Answer
+
+**D. how much people are paid for their work**
+
+---
+
+## Explanation
+
+- **Compensation plan** → A compensation plan (also called a pay plan) is a structured system that outlines how employees are paid for their work. It includes base pay (wages or salary), incentives (bonuses, commissions), benefits (health insurance, retirement plans), and any other forms of monetary or non-monetary rewards. The core focus is on determining and administering **how much people are paid** for their labor.
+
+- **A. Transfer of employees within a company** → This describes employee transfers, which are lateral moves. Transfers are related to job rotation or staffing, not to compensation.
+
+- **B. How a company reduces environmental waste** → This describes sustainability, corporate social responsibility, or environmental management practices. It is unrelated to employee pay.
+
+- **C. The number of jobs available at a company** → This refers to workforce planning, headcount, or staffing levels. While related to HR, it is not a compensation plan.
+
+Therefore, a compensation plan refers to **how much people are paid for their work**.
+
+ 
+---
+# **Question:** 30
+
+## Multiple Choice Question
+
+**The employees at Jacinta's company all worked very hard throughout the year. Jacinta wants to acknowledge their hard work and provide an incentive for the employees to increase their productivity even further. She decides to give each employee an extra week's pay. What type of financial incentive is this?**
+
+- A. A piece-rate
+- B. A bonus
+- C. A wage
+- D. A commission
+
+---
+
+## Correct Answer
+
+**B. A bonus**
+
+---
+
+## Explanation
+
+- **Bonus** → A bonus is an additional, lump-sum payment given to an employee beyond their regular base pay. It is typically awarded for achieving specific goals, recognizing exceptional performance, or as a year-end reward. Jacinta is giving each employee an **extra week's pay** on top of their normal compensation to acknowledge hard work and encourage future productivity. This fits the definition of a bonus perfectly.
+
+- **A. Piece-rate** → Piece-rate pay compensates workers based on the number of units they produce (e.g., $2 per widget). There is no mention of production units in the scenario; Jacinta is giving a fixed extra payment regardless of individual output.
+
+- **C. Wage** → A wage is the regular base compensation, typically calculated on an hourly or output basis. The extra week's pay is in addition to normal wages, not the wage itself.
+
+- **D. Commission** → Commission is a percentage of sales revenue earned by an employee. The scenario does not involve sales; it involves all employees receiving an extra week's pay as recognition and incentive.
+
+Therefore, the financial incentive Jacinta is providing is a **bonus**.
+
+ 
+---
+# **Question:** 31
+
+## Multiple Choice Question
+
+**__________ are the financial rewards based on the number of hours an employee works.**
+
+- A. Salaries
+- B. Commission
+- C. Wages
+- D. Benefits
+
+---
+
+## Correct Answer
+
+**C. Wages**
+
+---
+
+## Explanation
+
+- **Wages** → Wages are a form of compensation typically calculated on an **hourly basis**. Employees paid wages receive financial rewards based on the number of hours they work (e.g., $15 per hour). The more hours worked, the higher the total pay. Wages are common for blue-collar, service, and part-time positions.
+
+- **A. Salaries** → Salaries are fixed annual or monthly amounts that do not vary based on hours worked. Salaried employees receive the same pay regardless of whether they work 35 or 50 hours in a week (unless overtime rules apply for certain non-exempt positions).
+
+- **B. Commission** → Commission is a percentage of sales revenue generated by an employee. It is based on sales volume, not hours worked.
+
+- **D. Benefits** → Benefits are non-wage compensations such as health insurance, retirement plans, paid time off, and other perks. They are not direct financial rewards based on hours worked.
+
+Therefore, financial rewards based on the number of hours an employee works are called **wages**.
+
+ 
+---
+# **Question:** 32
+
+## Multiple Choice Question
+
+**Profit sharing is defined as __________.**
+
+- A. a financial reward calculated on a weekly, monthly, or annual basis
+- B. monetary reward offered by companies for exceptional performance as incentives to further increase productivity
+- C. a form of compensation whereby a percentage of company profits is distributed to the employees whose work helped to generate them
+- D. an incentive system that pays a fixed amount or a percentage of the employee's sales
+
+---
+
+## Correct Answer
+
+**C. a form of compensation whereby a percentage of company profits is distributed to the employees whose work helped to generate them**
+
+---
+
+## Explanation
+
+- **Profit sharing** → Profit sharing is a compensation plan in which a company distributes a portion of its profits to eligible employees. The underlying principle is that employees share in the financial success they helped create, which can boost morale, loyalty, and productivity. The distribution is typically based on a predetermined formula (e.g., percentage of annual profits) and may be paid in cash, stock, or deferred into a retirement plan.
+
+- **A. A financial reward calculated on a weekly, monthly, or annual basis** → This describes a salary or regular wage, not profit sharing. Profit sharing is based on company profitability, not a fixed time interval.
+
+- **B. Monetary reward offered by companies for exceptional performance as incentives to further increase productivity** → This describes a bonus or incentive pay. While profit sharing can motivate performance, it is specifically tied to overall company profits, not necessarily individual exceptional performance.
+
+- **D. An incentive system that pays a fixed amount or a percentage of the employee's sales** → This describes a commission plan, which is based on individual sales revenue, not company profits.
+
+Therefore, the correct definition of profit sharing is **a form of compensation whereby a percentage of company profits is distributed to the employees whose work helped to generate them**.
+
+ 
+---
+# **Question:** 33
+
+## Multiple Choice Question
+
+**What is an incentive system that pays a fixed amount or a percentage of the employee's sales?**
+
+- A. Salary
+- B. Bonuses
+- C. Wages
+- D. Commission
+
+---
+
+## Correct Answer
+
+**D. Commission**
+
+---
+
+## Explanation
+
+- **Commission** → Commission is an incentive system, most commonly used in sales roles, where compensation is based on a fixed amount per sale or a percentage of the total sales revenue generated by the employee. The more an employee sells, the more they earn. This directly matches the definition in the question.
+
+- **A. Salary** → Salary is a fixed annual or monthly payment that does not vary based on sales or performance. It is not an incentive system tied to sales.
+
+- **B. Bonuses** → A bonus is an additional, often lump-sum payment for achieving a specific goal or exceptional performance. While it can be an incentive, it is not defined as a system that pays a fixed amount or percentage of the employee's sales on an ongoing basis.
+
+- **C. Wages** → Wages are typically based on hours worked or units produced, not on sales volume. Wages are not a sales-based incentive system.
+
+Therefore, the incentive system that pays a fixed amount or a percentage of the employee's sales is **commission**.
+
+ 
+---
+# **Question:** 34
+
+## Multiple Select Question
+
+**Select all that apply**
+
+**What are three examples of benefits that provide additional compensation to employees beyond wages?**
+
+- A. Commission
+- B. Child care
+- C. Paid time off
+- D. Bonuses
+- E. Life insurance
+
+---
+
+## Correct Answers
+
+**B. Child care**  
+**C. Paid time off**  
+**E. Life insurance**
+
+---
+
+## Explanation
+
+**Benefits** are forms of indirect, non-wage compensation provided to employees in addition to their regular wages or salary. They are designed to support employee well-being, work-life balance, and financial security. From the options provided:
+
+- **B. Child care** → Employer-provided child care (e.g., on-site daycare, subsidies, or dependent care flexible spending accounts) is a common employee benefit that helps working parents.
+
+- **C. Paid time off (PTO)** → Vacation days, sick leave, and personal days are standard benefits that provide paid time away from work.
+
+- **E. Life insurance** → Group life insurance is a typical employee benefit that provides financial protection to an employee's beneficiaries in the event of death.
+
+**Why the other options are not benefits (they are forms of direct compensation):**
+
+- **A. Commission** → Commission is a form of **direct pay** (wage-based incentive) tied to sales performance. It is considered part of wages or variable pay, not a benefit.
+
+- **D. Bonuses** → Bonuses are also **direct financial compensation** (typically cash) awarded for performance, holidays, or other achievements. While they are additional compensation, they are classified as incentive pay or variable pay, not as employee benefits.
+
+**Key distinction:**  
+- **Direct compensation** = Wages, salaries, commissions, bonuses, tips  
+- **Benefits (indirect compensation)** = Insurance, retirement plans, paid time off, child care assistance, tuition reimbursement, etc.
+
+Therefore, the three examples of benefits are **child care, paid time off, and life insurance**.
+
+ 
+---
+# **Question:** 35
+
+## Multiple Choice Question
+
+**A financial reward calculated on a weekly, monthly, or annual basis is referred to as __________.**
+
+- A. a bonus
+- B. a benefit
+- C. commission
+- D. a salary
+
+---
+
+## Correct Answer
+
+**D. a salary**
+
+---
+
+## Explanation
+
+- **Salary** → A salary is a fixed regular payment made to an employee, typically expressed as an annual sum but paid in installments on a weekly, biweekly, or monthly basis. It is calculated based on a time period (week, month, or year) rather than on hours worked or output produced. Salaried employees receive the same amount regardless of the exact number of hours worked in a given week.
+
+- **A. A bonus** → A bonus is an additional, often lump-sum payment that is not part of regular, scheduled compensation. It is typically awarded for exceptional performance or special achievements, not calculated on a regular weekly, monthly, or annual basis.
+
+- **B. A benefit** → Benefits are non-wage compensations such as health insurance, retirement plans, or paid time off. They are not direct financial rewards calculated on a weekly, monthly, or annual basis as regular pay.
+
+- **C. Commission** → Commission is a variable payment based on a percentage of sales or a fixed amount per sale. It fluctuates with performance and is not a fixed amount calculated on a regular time basis.
+
+Therefore, a financial reward calculated on a weekly, monthly, or annual basis is referred to as a **salary**.
+
+ 
+---
+# **Question:** 36
+
+## Multiple Choice Question
+
+**What is the employee organization called that represents labor in negotiations with management?**
+
+- A. Collective bargainers
+- B. Scabs
+- C. Labor union
+- D. Picketers
+
+---
+
+## Correct Answer
+
+**C. Labor union**
+
+---
+
+## Explanation
+
+- **Labor union** → A labor union is an organized association of workers formed to protect and advance their rights and interests. Unions represent employees in collective bargaining with management over wages, hours, benefits, working conditions, and other employment terms. This directly matches the definition in the question.
+
+- **A. Collective bargainers** → Collective bargaining is the *process* of negotiation between union representatives and management, not the name of the employee organization itself. There is no organization called "collective bargainers."
+
+- **B. Scabs** → "Scab" is a derogatory term for a worker who crosses a picket line to replace a striking worker or works during a strike. Scabs are not an organization representing labor.
+
+- **D. Picketers** → Picketers are workers who participate in a public protest, typically outside their workplace, often during a strike. Picketing is a tactic used by unions, but "picketers" is not the name of the employee organization itself.
+
+Therefore, the employee organization that represents labor in negotiations with management is a **labor union**.
+
+ 
+---
+# **Question:** 37
+
+## Multiple Select Question
+
+**Select all that apply**
+
+**What are two characteristics of an employee transfer in a company?**
+
+- A. It involves the same skills.
+- B. It is usually at the same approximate wage.
+- C. It involves a higher-level position.
+- D. It is typically at the same level.
+
+---
+
+## Correct Answers
+
+**B. It is usually at the same approximate wage.**  
+**D. It is typically at the same level.**
+
+---
+
+## Explanation
+
+A **transfer** is a lateral move within an organization. Its two primary characteristics are:
+
+- **D. It is typically at the same level** → Unlike a promotion, a transfer does not involve moving to a higher rank or position of greater authority. The employee's hierarchical level remains unchanged.
+
+- **B. It is usually at the same approximate wage** → Because the level of responsibility and required skills remain similar, the employee's pay typically stays the same or changes very little. Transfers are not used for salary increases (that is the purpose of a promotion).
+
+**Why the other options are not defining characteristics:**
+
+- **A. It involves the same skills** → While transfers *often* use similar skills, it is not a strict requirement. An employee might transfer to a different department requiring slightly different skills, but at the same level and pay. This is common, but not the defining HR characteristic of a transfer.
+
+- **C. It involves a higher-level position** → This describes a **promotion**, not a transfer. Promotions come with increased responsibility, status, and usually higher pay.
+
+Therefore, the two core characteristics of a transfer from the options given are: **same approximate wage** and **same level**.
+
+ 
+---
+# **Question:** 38
+
+## Multiple Choice Question
+
+**Labor unions and management reach agreements through the process of __________.**
+
+- A. EOM
+- B. corporate benchmarking
+- C. collective bargaining
+- D. COLA
+
+---
+
+## Correct Answer
+
+**C. collective bargaining**
+
+---
+
+## Explanation
+
+- **Collective bargaining** → Collective bargaining is the formal negotiation process between representatives of a labor union (employees) and management (employers) to reach agreements on wages, hours, benefits, working conditions, grievance procedures, and other terms of employment. The resulting agreement is typically called a collective bargaining agreement (CBA) or labor contract.
+
+- **A. EOM** → EOM is not a standard term in labor relations. It may refer to "End of Month" in accounting or other business contexts, but it is not related to union-management negotiations.
+
+- **B. Corporate benchmarking** → Benchmarking is the practice of comparing a company's processes, practices, or performance metrics against industry leaders or competitors. It is not a negotiation process between unions and management.
+
+- **D. COLA** → COLA stands for Cost of Living Adjustment. A COLA is a provision sometimes included in labor contracts that automatically adjusts wages based on inflation. It is a *subject* of collective bargaining, not the name of the negotiation process itself.
+
+Therefore, the process through which labor unions and management reach agreements is called **collective bargaining**.
+
+ 
+---
+# **Question:** 39
+
+## Multiple Choice Question
+
+**A bonus is defined as __________.**
+
+- A. an incentive system that pays a fixed amount or a percentage of the employee's sales
+- B. a financial reward calculated on a weekly, monthly, or annual basis
+- C. a form of compensation whereby a percentage of company profits is distributed to the employees whose work helped to generate them
+- D. a monetary reward offered by companies for exceptional performance as incentives to further increase productivity
+
+---
+
+## Correct Answer
+
+**D. a monetary reward offered by companies for exceptional performance as incentives to further increase productivity**
+
+---
+
+## Explanation
+
+- **Bonus** → A bonus is an additional, lump-sum payment given to an employee beyond their regular base pay (wages or salary). It is typically awarded for exceptional performance, achieving specific goals, meeting targets, or as a holiday or year-end reward. The purpose is to recognize outstanding contributions and incentivize employees to increase productivity.
+
+- **A. Commission** → This describes a commission plan, which pays a fixed amount or percentage of sales. Commission is typically ongoing and tied directly to sales volume, not an occasional reward for exceptional performance.
+
+- **B. Salary or wage** → A financial reward calculated on a weekly, monthly, or annual basis describes a salary (or wage if hourly). Bonuses are irregular and additional, not the regular periodic pay.
+
+- **C. Profit sharing** → This describes profit sharing, where a percentage of company profits is distributed to employees. Profit sharing is typically tied to overall company profitability, not necessarily individual exceptional performance.
+
+Therefore, the correct definition of a bonus is **a monetary reward offered by companies for exceptional performance as incentives to further increase productivity**.
+
+ 
+---
+# **Question:** 40
+
+## Multiple Choice Question
+
+**__________ is a public protest against management practices and involves union members marching at the employer's site.**
+
+- A. Negotiating
+- B. Boycotting
+- C. Picketing
+- D. Strikebreaking
+
+---
+
+## Correct Answer
+
+**C. Picketing**
+
+---
+
+## Explanation
+
+- **Picketing** → Picketing is a form of protest in which union members and their supporters gather outside an employer's workplace, often carrying signs and marching in a line. The purpose is to publicly call attention to a labor dispute, discourage customers or suppliers from entering, and pressure management to meet union demands. This directly matches the description in the question: a public protest involving union members marching at the employer's site.
+
+- **A. Negotiating** → Negotiating refers to discussions between union representatives and management to reach an agreement (collective bargaining). Negotiations typically occur in private meetings, not as a public protest with marching.
+
+- **B. Boycotting** → A boycott involves urging people not to purchase an employer's products or services. While it is a form of protest, it does not necessarily involve union members marching at the employer's site.
+
+- **D. Strikebreaking** → Strikebreaking refers to efforts to undermine a strike, such as hiring replacement workers (sometimes called "scabs") to keep operations running. Strikebreaking is an action taken by management, not a protest by union members.
+
+Therefore, the public protest that involves union members marching at the employer's site is called **picketing**.
+
+ 
+---
+# **Question:** 41
+
+## Multiple Choice Question
+
+**What is a form of compensation whereby a percentage of company profits is distributed to the employees whose work helped to generate them?**
+
+- A. Profit-sharing
+- B. Salary
+- C. Commission
+- D. Bonuses
+
+---
+
+## Correct Answer
+
+**A. Profit-sharing**
+
+---
+
+## Explanation
+
+- **Profit-sharing** → Profit-sharing is a compensation plan in which a company distributes a portion of its profits to eligible employees. The underlying principle is that employees share in the financial success they helped create. The distribution is typically based on a predetermined formula (e.g., a percentage of annual profits) and may be paid in cash, stock, or deferred into a retirement plan.
+
+- **B. Salary** → Salary is a fixed regular payment (weekly, biweekly, or monthly) that does not vary based on company profits. It is not tied to the company's financial performance.
+
+- **C. Commission** → Commission is an incentive system that pays a fixed amount or a percentage of the employee's sales. It is based on individual sales revenue, not overall company profits.
+
+- **D. Bonuses** → A bonus is an additional, often lump-sum payment for exceptional performance or achieving specific goals. While a bonus *could* be tied to profits, the term "bonus" itself does not specifically mean a percentage of company profits distributed to all employees. Profit-sharing is the precise term for that definition.
+
+Therefore, the form of compensation where a percentage of company profits is distributed to employees is **profit-sharing**.
+
+ 
+---
+# **Question:** 42
+
+## Multiple Choice Question
+
+**An employee walkout is also called __________.**
+
+- A. a benchmark
+- B. a boycott
+- C. a strike
+- D. a resolution
+
+---
+
+## Correct Answer
+
+**C. a strike**
+
+---
+
+## Explanation
+
+- **Strike** → A strike is a work stoppage initiated by employees (usually union members) as a form of protest against their employer. It involves employees collectively refusing to work in order to pressure management to meet their demands regarding wages, benefits, working conditions, or other employment terms. A "walkout" is another common term for a strike, where employees literally walk out of the workplace.
+
+- **A. A benchmark** → A benchmark is a standard or point of reference used for comparison (e.g., industry best practices). It has no connection to employee work stoppages.
+
+- **B. A boycott** → A boycott involves urging people not to purchase an employer's products or services. While it is a form of protest, it does not involve employees walking out or stopping work.
+
+- **D. A resolution** → A resolution is a formal decision or solution to a problem, such as a board resolution or the resolution of a dispute. It is the opposite of a walkout; a resolution ends a conflict, while a walkout begins or escalates one.
+
+Therefore, an employee walkout is also called a **strike**.
+
+ 
+---
+# **Question:** 43
+
+
+
+
+
+
+
+
+
+
+
 
 
 
