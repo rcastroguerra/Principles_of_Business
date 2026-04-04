@@ -1494,6 +1494,896 @@ Therefore, an employee walkout is also called a **strike**.
 ---
 # **Question:** 43
 
+## Multiple Choice Question
+
+**During his interview with the human resource manager, Kent asked about the benefits the company provided. What would be one thing the HR manager might tell Kent about with regard to benefits?**
+
+- A. Standard workweek hours
+- B. Opportunities for advancement
+- C. Salary and commission rates
+- D. Company health insurance plan
+
+---
+
+## Correct Answer
+
+**D. Company health insurance plan**
+
+---
+
+## Explanation
+
+- **Company health insurance plan** → Health insurance is a classic example of an **employee benefit**. Benefits are forms of indirect, non-wage compensation provided to employees, such as health insurance, retirement plans, paid time off, life insurance, and child care assistance. Since Kent specifically asked about **benefits**, the HR manager would discuss offerings like the company health insurance plan.
+
+- **A. Standard workweek hours** → Workweek hours refer to scheduling and work expectations (e.g., 9-to-5, 40 hours per week). This is typically considered a working condition or job requirement, not a benefit.
+
+- **B. Opportunities for advancement** → Advancement opportunities relate to career growth, promotions, and professional development. While these are important job attributes, they are not classified as employee benefits.
+
+- **C. Salary and commission rates** → Salary and commission are forms of **direct compensation** (wages and incentive pay), not benefits. Benefits are indirect compensation provided in addition to salary.
+
+Therefore, one thing the HR manager might tell Kent about regarding benefits is the **company health insurance plan**.
+
+ 
+---
+# **Question:** 44
+
+## Multiple Choice Question
+
+**A(n) __________ occurs when union members are asked not to do business with a business.**
+
+- A. boycott
+- B. arbitration
+- C. picket
+- D. strikebreaker
+- E. strike
+
+---
+
+## Correct Answer
+
+**A. boycott**
+
+---
+
+## Explanation
+
+- **Boycott** → A boycott is a protest in which union members and their supporters urge people to refrain from doing business with a particular company. This may involve refusing to buy the company's products or services, encouraging customers to shop elsewhere, or asking suppliers to stop providing goods to the targeted business. The goal is to apply economic pressure without necessarily stopping work.
+
+- **B. Arbitration** → Arbitration is a dispute resolution process where a neutral third party makes a binding decision. It is not a protest action.
+
+- **C. Picket** → Picketing involves union members marching outside an employer's workplace, often with signs. While it may accompany a boycott, picketing specifically refers to the physical presence at the employer's site, not the act of asking others to avoid doing business.
+
+- **D. Strikebreaker** → A strikebreaker (or "scab") is a person who works during a strike or crosses a picket line. This is an individual, not an action.
+
+- **E. Strike** → A strike is a work stoppage where employees refuse to work. In a strike, union members stop doing business *with* their employer by withholding labor. The question describes asking *others* not to do business with a business, which is a boycott.
+
+Therefore, when union members are asked not to do business with a business, it is called a **boycott**.
+
+ 
+---
+# **Question:** 45
+
+## Fill in the Blank Question
+
+**A(n) _____ _____ is an employee organization that represents its members in negotiations with management over wages and working conditions.**
+
+---
+
+## Correct Answer
+
+**labor union** (or **union**)
+
+---
+
+## Explanation
+
+- **Labor union** (also simply called a **union**) is an organized association of workers formed to protect and advance their rights and interests. The primary function of a labor union is to engage in **collective bargaining** with management on behalf of its members to negotiate wages, hours, benefits, working conditions, grievance procedures, and other employment terms.
+
+- Other terms such as "trade union" or "workers' union" are also acceptable, but the most common and standard term in HR and labor relations is **labor union**.
+
+Therefore, an employee organization that represents its members in negotiations with management over wages and working conditions is a **labor union**.
+
+ 
+---
+# **Question:** 46
+
+## Multiple Choice Question
+
+**What is a management tactic for trying to end a stalemate with a union?**
+
+- A. Lockout
+- B. Boycott
+- C. Picketing
+- D. Strike
+
+---
+
+## Correct Answer
+
+**A. Lockout**
+
+---
+
+## Explanation
+
+- **Lockout** → A lockout is a management tactic used during a labor dispute when a stalemate is reached in negotiations. Management prevents employees from working by closing the workplace, denying access, or suspending work. The goal is to pressure the union to accept management's terms by causing employees to lose wages. This is the employer's counterpart to a strike (which is initiated by employees).
+
+- **B. Boycott** → A boycott is typically a union tactic, not a management tactic. It involves urging people not to do business with a company to pressure management.
+
+- **C. Picketing** → Picketing is a union tactic where members march outside the employer's workplace to protest and discourage customers or workers from entering. It is not a management tactic.
+
+- **D. Strike** → A strike is a union tactic where employees refuse to work. It is initiated by workers, not by management.
+
+Therefore, the management tactic for trying to end a stalemate with a union is a **lockout**.
+
+ 
+---
+# **Question:** 47
+
+## Multiple Choice Question
+
+**The negotiation process of management meeting with unions representing workers to discuss changes in working conditions, wages, and terms of employment is known as __________.**
+
+- A. collective bargaining
+- B. lobbying
+- C. the certification process
+- D. arbitration
+
+---
+
+## Correct Answer
+
+**A. collective bargaining**
+
+---
+
+## Explanation
+
+- **Collective bargaining** → Collective bargaining is the formal negotiation process between representatives of management and a labor union representing workers. The purpose is to reach agreements on wages, working conditions, benefits, hours, grievance procedures, and other terms of employment. The resulting agreement is called a collective bargaining agreement (CBA) or labor contract. This directly matches the definition in the question.
+
+- **B. Lobbying** → Lobbying involves attempting to influence government officials, legislators, or regulatory agencies on behalf of an organization or interest group. It is not a negotiation process between management and unions.
+
+- **C. The certification process** → Certification is the legal process by which a union is officially recognized by a government agency (such as the National Labor Relations Board) as the exclusive bargaining representative for a group of employees. This occurs before collective bargaining begins, but it is not the negotiation process itself.
+
+- **D. Arbitration** → Arbitration is a method of dispute resolution in which a neutral third party (the arbitrator) hears both sides and makes a binding decision. It is used when collective bargaining reaches an impasse and the parties agree to arbitration, but it is not the primary negotiation process.
+
+Therefore, the negotiation process between management and unions is known as **collective bargaining**.
+
+ 
+---
+# **Question:** 48
+
+## Multiple Choice Question
+
+**What is a "scab"?**
+
+- A. A mediator
+- B. A locked out employee
+- C. A labor negotiator
+- D. The president of a labor union
+- E. A strikebreaker
+
+---
+
+## Correct Answer
+
+**E. A strikebreaker**
+
+---
+
+## Explanation
+
+- **Scab** → "Scab" is a derogatory term used by union members to refer to a **strikebreaker** — a person who continues to work during a strike or who crosses a picket line to replace a striking worker. Scabs may be current employees who refuse to join the strike or new workers hired by management to keep operations running. The term is used to shame those who undermine union solidarity.
+
+- **A. A mediator** → A mediator is a neutral third party who helps facilitate negotiations between labor and management. Mediators are not called scabs.
+
+- **B. A locked out employee** → A locked out employee is one whom management has prevented from working during a labor dispute (the opposite of a strike). Locked out employees are not strikebreakers and are not referred to as scabs.
+
+- **C. A labor negotiator** → A labor negotiator is a representative (either from the union or management) who participates in collective bargaining. This is not the meaning of scab.
+
+- **D. The president of a labor union** → The union president is an elected leader who represents union members. This position is respected by union members, not insulted as a scab.
+
+Therefore, a "scab" is **a strikebreaker**.
+
+ 
+---
+# **Question:** 49
+
+## Multiple Choice Question
+
+**Last week, all of the employees at the Nice Night Hotel Group marched in front of their respective places of employment. They carried signs that said they wanted better wages and better working conditions. Which type of labor dispute does this represent?**
+
+- A. benchmarking
+- B. arbitrage
+- C. arbitration
+- D. picketing
+
+---
+
+## Correct Answer
+
+**D. picketing**
+
+---
+
+## Explanation
+
+- **Picketing** → Picketing is a form of labor protest in which employees march outside their workplace, often carrying signs with their demands (such as better wages and working conditions). The purpose is to publicly draw attention to the labor dispute, discourage customers from entering, and pressure management to meet the employees' demands. The description in the question — employees marching in front of their employment sites with signs — is a classic example of picketing.
+
+- **A. Benchmarking** → Benchmarking is the process of comparing a company's practices or performance metrics against industry standards or competitors. It is not a type of labor dispute or protest.
+
+- **B. Arbitrage** → Arbitrage is a financial term referring to the practice of buying and selling assets in different markets to profit from price differences. It has nothing to do with labor disputes.
+
+- **C. Arbitration** → Arbitration is a method of dispute resolution in which a neutral third party hears both sides and makes a binding decision. It is a legal process used to resolve a dispute, not a protest action like marching with signs.
+
+Therefore, the type of labor dispute represented by employees marching with signs is **picketing**.
+
+ 
+---
+# **Question:** 50
+
+## Fill in the Blank Question
+
+**__________ is the term used for the fact that customers, employees, and suppliers come in different ages, genders, races, ethnicities, nationalities, and abilities.**
+
+---
+
+## Correct Answer
+
+**Diversity**
+
+---
+
+## Explanation
+
+- **Diversity** → Diversity refers to the presence of differences among people within a group or organization. These differences include, but are not limited to, age, gender, race, ethnicity, nationality, physical and mental abilities, sexual orientation, religion, and educational background. In a business context, diversity acknowledges that customers, employees, and suppliers come from a wide range of backgrounds and identities.
+
+- Other related terms such as "workforce diversity" or "cultural diversity" are also correct, but the single term that best fits the blank is **diversity**.
+
+Therefore, the term used for the variety of ages, genders, races, ethnicities, nationalities, and abilities among customers, employees, and suppliers is **diversity**.
+
+ 
+---
+# **Question:** 51
+
+## Multiple Choice Question
+
+**A(n) __________ is one of the most effective weapons labor has and occurs when employees walk off the job.**
+
+- A. picket
+- B. boycott
+- C. strike
+- D. lockout
+
+---
+
+## Correct Answer
+
+**C. strike**
+
+---
+
+## Explanation
+
+- **Strike** → A strike is a work stoppage initiated by employees (usually union members) as a form of protest against their employer. It occurs when employees collectively walk off the job and refuse to work in order to pressure management to meet their demands regarding wages, benefits, working conditions, or other employment terms. The strike is widely considered one of labor's most powerful weapons because it directly disrupts production and costs the employer revenue.
+
+- **A. Picket** → Picketing involves marching outside the employer's workplace, often with signs. While picketing often accompanies a strike, it is not the same as walking off the job. Employees can picket without striking, and a strike can occur without picketing.
+
+- **B. Boycott** → A boycott involves urging people not to do business with a company. It is a form of economic pressure, but it does not involve employees walking off the job.
+
+- **D. Lockout** → A lockout is a management tactic, not a labor weapon. It occurs when management prevents employees from working by closing the workplace. This is the opposite of a strike.
+
+Therefore, the labor weapon that occurs when employees walk off the job is a **strike**.
+
+ 
+---
+# **Question:** 52
+
+## Multiple Choice Question
+
+**What is an example of a primary characteristic of diversity?**
+
+- A. Age
+- B. Religion
+- C. Income
+- D. Marital status
+
+---
+
+## Correct Answer
+
+**A. Age**
+
+---
+
+## Explanation
+
+In diversity and inclusion studies, diversity characteristics are often divided into two categories: **primary** (or core) dimensions and **secondary** dimensions.
+
+- **Primary characteristics of diversity** → These are innate, deeply ingrained, and typically unchangeable traits that have a significant impact on a person's identity and life experiences. Common primary dimensions include:
+  - **Age**
+  - Gender
+  - Race
+  - Ethnicity
+  - Physical abilities and disabilities
+  - Sexual orientation
+
+- **Secondary characteristics of diversity** → These are traits that can be changed, acquired, or modified throughout a person's life. They include:
+  - **Religion** (can change through conversion or choice)
+  - **Income** (can change over time)
+  - **Marital status** (can change)
+  - Education level
+  - Geographic location
+  - Work experience
+
+Therefore, from the options provided, **age** is an example of a primary characteristic of diversity, while religion, income, and marital status are generally considered secondary characteristics.
+
+**Correct Answer: A. Age**
+
+ 
+---
+# **Question:** 53
+
+## Multiple Choice Question
+
+**What is an attempt to keep people from purchasing products from a company?**
+
+- A. picket
+- B. boycott
+- C. conciliation
+- D. giveback
+
+---
+
+## Correct Answer
+
+**B. boycott**
+
+---
+
+## Explanation
+
+- **Boycott** → A boycott is a form of protest in which individuals or groups urge people to refrain from purchasing products or services from a particular company. The goal is to apply economic pressure on the company to change its policies, practices, or behavior. This directly matches the definition in the question: an attempt to keep people from purchasing products from a company.
+
+- **A. Picket** → Picketing involves employees marching outside their workplace, often carrying signs. While picketing may aim to discourage customers from entering, the primary focus is on protesting at the physical location, not broadly urging people not to purchase products. Picketing is a tactic, while boycott is the specific term for a purchasing refusal.
+
+- **C. Conciliation** → Conciliation is a dispute resolution process in which a neutral third party helps labor and management reach an agreement. It is not related to keeping people from purchasing products.
+
+- **D. Giveback** → A giveback refers to a concession made by a union to management during negotiations, such as agreeing to lower wages or reduced benefits. It is not a protest tactic.
+
+Therefore, an attempt to keep people from purchasing products from a company is a **boycott**.
+
+ 
+---
+# **Question:** 54
+
+## Multiple Choice Question
+
+**According to the U.S. Census Bureau, minorities will be the majority in the United States by:**
+
+- A. 2080
+- B. 2044
+- C. 2022
+- D. 2065
+
+---
+
+## Correct Answer
+
+**B. 2044**
+
+---
+
+## Explanation
+
+According to the U.S. Census Bureau's population projections released in 2014 and 2015, the United States is projected to become a "majority-minority" nation in **2044** [citation:2][citation:3][citation:8]. This means that by that year, non-Hispanic whites will make up less than 50 percent of the total U.S. population.
+
+Key findings from the Census Bureau report include:
+
+- In **2044**, the white population will fall to 49.7 percent of the total population, while minority groups (Hispanics, Blacks, Asians, and multiracial persons) will collectively make up the majority [citation:3][citation:8].
+- By 2060, whites are projected to account for just 44 percent of the population [citation:2][citation:8].
+- The shift is driven by two trends: an aging white population with more deaths than births after 2025, and rapid growth among Hispanic, Asian, and multiracial populations [citation:3][citation:7].
+
+**Why the other options are incorrect:**
+
+- **A. 2080** → This is later than the projected crossover year. By 2060, minorities are already projected to be 56 percent of the population [citation:2].
+
+- **C. 2022** → This is too early. While children under age 5 became majority-minority earlier (around 2020), the total population does not reach this milestone until 2044 [citation:7][citation:9].
+
+- **D. 2065** → This is after the projected crossover. The Census Bureau's 2014 projections specifically identified 2044 as the tipping point, not 2065 [citation:2][citation:6].
+
+Therefore, according to the U.S. Census Bureau, minorities will become the majority in the United States by **2044**.
+
+ 
+---
+# **Question:** 55
+
+## Multiple Choice Question
+
+**The striking employees at Williams Restaurant Supply were told that the worksite would be closed and they would not be allowed to return to work. Replacement workers would be used to fill their positions. What type of management tactic was the company using?**
+
+- A. buyout
+- B. quota
+- C. boycott
+- D. lockout
+
+---
+
+## Correct Answer
+
+**D. lockout**
+
+---
+
+## Explanation
+
+- **Lockout** → A lockout is a management tactic used during a labor dispute. The employer closes the worksite, denies employees access to their jobs, and may hire replacement workers (sometimes called strikebreakers or "scabs") to fill the positions. The goal is to pressure the union to accept management's terms by preventing employees from working and earning wages. This directly matches the scenario described: the worksite was closed, employees were not allowed to return to work, and replacement workers were brought in.
+
+- **A. Buyout** → A buyout typically refers to a financial transaction where a company purchases another company or where employees are offered a voluntary severance package to leave their jobs. It is not a tactic used during an active strike to end a labor dispute.
+
+- **B. Quota** → A quota is a predetermined target or minimum requirement (e.g., sales quota or production quota). It is not a labor dispute tactic used by management against striking employees.
+
+- **C. Boycott** → A boycott is a protest tactic typically used by unions or consumer groups to urge people not to purchase a company's products. It is not a management tactic.
+
+Therefore, the management tactic described is a **lockout**.
+
+ 
+---
+# **Question:** 56
+
+## Multiple Select Question
+
+**Select all that apply**
+
+**What are three benefits of fostering and valuing workforce diversity?**
+
+- A. Increased innovation and creativity
+- B. Less productive use of the company's human resource department
+- C. Reduced conflict among employees from different backgrounds
+- D. Elimination of discrimination in the workplace
+- E. Ability to better serve a diverse customer base
+
+---
+
+## Correct Answers
+
+**A. Increased innovation and creativity**  
+**C. Reduced conflict among employees from different backgrounds**  
+**E. Ability to better serve a diverse customer base**
+
+---
+
+## Explanation
+
+Fostering and valuing workforce diversity provides numerous benefits to organizations. From the options provided, three key benefits are:
+
+- **A. Increased innovation and creativity** → Diverse teams bring together different perspectives, experiences, and problem-solving approaches. This variety of viewpoints leads to more creative ideas, better decision-making, and greater innovation compared to homogeneous groups.
+
+- **C. Reduced conflict among employees from different backgrounds** → When an organization actively values and respects diversity, it creates an inclusive culture where differences are understood and appreciated rather than feared or resented. This reduces misunderstandings, stereotypes, and interpersonal conflicts that can arise from lack of awareness or cultural insensitivity.
+
+- **E. Ability to better serve a diverse customer base** → A diverse workforce that reflects the demographics of the customer base can better understand, relate to, and meet the needs of customers from various backgrounds. This improves customer satisfaction, market share, and competitiveness in a multicultural marketplace.
+
+**Why the other options are not benefits of diversity:**
+
+- **B. Less productive use of the company's human resource department** → This is a negative outcome, not a benefit. Valuing diversity typically requires HR to work productively on inclusive hiring, training, and policies. It does not make HR less productive.
+
+- **D. Elimination of discrimination in the workplace** → While diversity initiatives help reduce discrimination, they do not completely eliminate it. Discrimination is a complex legal and social issue that cannot be entirely eliminated solely by fostering diversity. This statement is unrealistic and not considered a guaranteed benefit.
+
+Therefore, the three benefits of fostering and valuing workforce diversity are: **increased innovation and creativity, reduced conflict among employees from different backgrounds, and the ability to better serve a diverse customer base**.
+
+ 
+---
+# **Question:** 57
+
+## Multiple Choice Question
+
+**Which management tactic is usually a last-resort measure since it greatly diminishes the relationship between management and labor?**
+
+- A. Lockouts
+- B. Strikebreaking
+- C. Union arbitrage
+- D. Boycotts
+
+---
+
+## Correct Answer
+
+**B. Strikebreaking**
+
+---
+
+## Explanation
+
+- **Strikebreaking** → Strikebreaking refers to management's tactic of hiring replacement workers (often called "scabs") to take the jobs of striking employees. This is widely considered a last-resort measure because it severely damages the relationship between management and labor. It creates deep animosity, destroys trust, and can lead to long-term hostility, violence on picket lines, and difficulty in future collective bargaining. Once strikebreaking occurs, unions and employees often view management as irreparably adversarial.
+
+- **A. Lockouts** → A lockout is when management closes the worksite and prevents employees from working during a dispute. While damaging to the labor relationship, lockouts are sometimes used before strikebreaking and do not permanently replace employees. Lockouts can be resolved without bringing in replacement workers, leaving the door open for negotiation.
+
+- **C. Union arbitrage** → This is not a recognized management tactic. Arbitrage is a financial term, and there is no standard labor relations concept called "union arbitrage." (Arbitration, however, is a dispute resolution method, not a management tactic.)
+
+- **D. Boycotts** → Boycotts are typically a union tactic, not a management tactic. A boycott involves urging people not to purchase a company's products. Management does not use boycotts against unions.
+
+Therefore, the management tactic that is usually a last-resort measure and greatly diminishes the relationship between management and labor is **strikebreaking**.
+
+ 
+---
+# **Question:** 58
+
+## True or False Question
+
+**Affirmative action programs analyze the current pool of workers, identifying where both women and minorities are underrepresented.**
+
+- O True
+- O False
+
+---
+
+## Correct Answer
+
+**True**
+
+---
+
+## Explanation
+
+- **Affirmative action programs** are proactive employment policies designed to address past and present discrimination by increasing opportunities for underrepresented groups, including women and minorities.
+
+- A key component of affirmative action is conducting a **utilization analysis** (or workforce analysis). This involves:
+  - Analyzing the current pool of workers within the organization.
+  - Comparing the representation of women and minorities in each job category to their availability in the relevant labor market.
+  - Identifying areas (job categories or departments) where women and minorities are **underrepresented** compared to what would be reasonably expected.
+
+- Once underrepresentation is identified, organizations establish goals and timetables to increase the representation of women and minorities in those areas through targeted recruitment, training, and other measures.
+
+Therefore, the statement is **True** — affirmative action programs do analyze the current workforce to identify where women and minorities are underrepresented.
+
+ 
+---
+# **Question:** 59
+
+## Multiple Choice Question
+
+**The participation of different ages, genders, races, ethnicities, nationalities, and abilities in the workplace is referred to as __________.**
+
+- A. diversity
+- B. affirmative action
+- C. ethics
+- D. culture
+
+---
+
+## Correct Answer
+
+**A. diversity**
+
+---
+
+## Explanation
+
+- **Diversity** → Diversity refers to the presence of differences among people within a group or organization. In the workplace, this includes variations in age, gender, race, ethnicity, nationality, physical and mental abilities, sexual orientation, religion, and other characteristics. The term "diversity" simply describes the mix of different people and backgrounds in the workforce.
+
+- **B. Affirmative action** → Affirmative action refers to proactive policies and programs designed to increase opportunities for underrepresented groups (such as women and minorities) to address past discrimination. Affirmative action is a specific set of *actions* or *measures*, not the general term for the presence of diverse people in the workplace.
+
+- **C. Ethics** → Ethics refers to moral principles and standards of conduct that guide behavior in an organization. While related to fair treatment of employees, ethics is not the term for the participation of different demographic groups.
+
+- **D. Culture** → Organizational culture refers to the shared values, beliefs, norms, and practices that shape behavior within a company. Culture is about "how things are done around here," not specifically about the demographic composition of the workforce.
+
+Therefore, the participation of different ages, genders, races, ethnicities, nationalities, and abilities in the workplace is referred to as **diversity**.
+
+ 
+---
+# **Question:** 60
+
+## Multiple Choice Question
+
+**__________ is the term defined by the U.S. Equal Employment Opportunity Commission as any type of unwanted behaviors — sexual or not — that a person experiences.**
+
+- A. Sexual
+- B. Harassment
+- C. Context
+- D. Affirmative
+- E. Assimilation
+
+---
+
+## Correct Answer
+
+**B. Harassment**
+
+---
+
+## Explanation
+
+- **Harassment** → According to the U.S. Equal Employment Opportunity Commission (EEOC), harassment is unwelcome conduct that is based on race, color, religion, sex (including pregnancy, sexual orientation, or gender identity), national origin, age (40 or older), disability, or genetic information. Harassment can include offensive jokes, slurs, epithets, name-calling, physical assaults or threats, intimidation, ridicule, insults, offensive objects or pictures, and interference with work performance. The EEOC explicitly states that harassment is **any type of unwanted behavior — sexual or not** — that a person experiences and that creates a hostile work environment.
+
+- **A. Sexual** → "Sexual" refers specifically to conduct of a sexual nature (e.g., unwanted touching, sexual advances, or comments). However, the EEOC's definition of harassment is broader and includes non-sexual unwanted behaviors as well.
+
+- **C. Context** → Context refers to the circumstances or setting surrounding an event. It is not a term defined by the EEOC as unwanted behaviors.
+
+- **D. Affirmative** → Affirmative refers to affirmative action, which involves proactive measures to increase opportunities for underrepresented groups. It is not related to unwanted behaviors.
+
+- **E. Assimilation** → Assimilation refers to the process by which individuals or groups adopt the culture or norms of another group. It is not an EEOC term for unwanted behaviors.
+
+Therefore, the term defined by the EEOC as any type of unwanted behaviors — sexual or not — is **harassment**.
+
+ 
+---
+# **Question:** 61
+
+## Multiple Select Question
+
+**Select all that apply**
+
+**What are three secondary characteristics of diversity?**
+
+- A. Religion
+- B. Ethnicity
+- C. Geographic location
+- D. Education
+- E. Sexual orientation
+- F. Gender
+
+---
+
+## Correct Answers
+
+**A. Religion**  
+**C. Geographic location**  
+**D. Education**
+
+---
+
+## Explanation
+
+In diversity and inclusion studies, diversity characteristics are often divided into **primary** (core) dimensions and **secondary** dimensions.
+
+**Primary characteristics** are innate, deeply ingrained, and typically unchangeable traits that have a significant impact on a person's identity (e.g., age, gender, race, ethnicity, sexual orientation, physical abilities).
+
+**Secondary characteristics** are traits that can be changed, acquired, or modified throughout a person's life. From the options provided, the three secondary characteristics are:
+
+- **A. Religion** → Religious beliefs can change over time through conversion, personal choice, or life experiences.
+
+- **C. Geographic location** → Where a person lives can change frequently due to job transfers, family needs, or personal preference.
+
+- **D. Education** → Educational level can be increased through further learning, degrees, certifications, and training throughout one's life.
+
+**Why the other options are primary characteristics:**
+
+- **B. Ethnicity** → Ethnicity is typically inherited and deeply tied to a person's cultural identity and ancestry. It is generally considered a primary, unchangeable characteristic.
+
+- **E. Sexual orientation** → Sexual orientation is an innate aspect of a person's identity that is not chosen or changeable. It is considered a primary characteristic.
+
+- **F. Gender** → Gender identity is a core, deeply ingrained aspect of a person's identity. While gender expression may vary, gender itself is considered a primary characteristic.
+
+Therefore, the three secondary characteristics of diversity from the options given are: **religion, geographic location, and education**.
+
+ 
+---
+# **Question:** 62
+
+## Multiple Choice Question
+
+**Some companies are responding to changes in the workforce by implementing coworking in which __________.**
+
+- A. workspaces are shared by employees
+- B. a manager trades roles with an employee
+- C. an employee works for more than one company
+- D. two or more employees share one job
+
+---
+
+## Correct Answer
+
+**A. workspaces are shared by employees**
+
+---
+
+## Explanation
+
+- **Coworking** → Coworking refers to a work arrangement in which employees (often from different companies or departments) share a common physical workspace. Coworking spaces typically feature open floor plans, shared desks or workstations, communal areas, and shared amenities such as internet, printers, and meeting rooms. This arrangement has grown in popularity as companies respond to workforce changes such as remote work, flexible schedules, and the gig economy.
+
+- **A. Workspaces are shared by employees** → This is the correct definition of coworking.
+
+- **B. A manager trades roles with an employee** → This describes job rotation or role swapping, not coworking.
+
+- **C. An employee works for more than one company** → This describes having multiple jobs or working in the gig economy. It is not the definition of coworking.
+
+- **D. Two or more employees share one job** → This describes job sharing, where two or more part-time employees divide the responsibilities of one full-time position. Job sharing is a different workplace flexibility arrangement.
+
+Therefore, coworking is best defined as **workspaces that are shared by employees**.
+
+ 
+---
+# **Question:** 63
+
+## Multiple Choice Question
+
+**Why are many companies hiring employees representing a diverse background?**
+
+- A. To promote an image of sustainability
+- B. Labor unions require it
+- C. To better serve their diverse customers
+- D. Diverse employees can be paid less
+
+---
+
+## Correct Answer
+
+**C. To better serve their diverse customers**
+
+---
+
+## Explanation
+
+- **To better serve their diverse customers** → Companies increasingly recognize that a diverse workforce helps them understand, relate to, and meet the needs of a diverse customer base. Employees from different backgrounds bring varied perspectives, cultural insights, and language skills that can improve customer service, product design, marketing, and overall competitiveness in a multicultural marketplace. This is a primary business-driven reason for hiring diverse talent.
+
+- **A. To promote an image of sustainability** → Sustainability refers to environmental and social responsibility practices (e.g., reducing carbon footprint, ethical sourcing). While diversity may be part of corporate social responsibility, it is not directly tied to "sustainability" as typically defined. This is not a primary reason companies hire diverse employees.
+
+- **B. Labor unions require it** → Labor unions generally focus on wages, working conditions, and job security for their members. While unions support fair treatment and oppose discrimination, they do not typically require companies to hire diverse employees as a standard condition. This is not an accurate statement.
+
+- **D. Diverse employees can be paid less** → This is false and illegal. Paying employees less based on their background (race, gender, ethnicity, etc.) violates equal pay laws and anti-discrimination regulations such as the Equal Pay Act and Title VII of the Civil Rights Act. Companies do not hire diverse employees for this reason.
+
+Therefore, many companies hire employees representing diverse backgrounds **to better serve their diverse customers**.
+
+ 
+---
+# **Question:** 64
+
+## Multiple Choice Question
+
+**What is a potential benefit to a company that fosters and values workforce diversity?**
+
+- A. Reduced conflict among employees of different ethnicities
+- B. Enhanced division of responsibilities
+- C. Lowered ability to achieve productive working relationships
+- D. Greater ability to maintain equal pay rates
+
+---
+
+## Correct Answer
+
+**A. Reduced conflict among employees of different ethnicities**
+
+---
+
+## Explanation
+
+- **Reduced conflict among employees of different ethnicities** → When a company actively fosters and values diversity, it promotes an inclusive culture where differences are understood, respected, and appreciated. This reduces misunderstandings, stereotypes, and biases that can lead to interpersonal conflicts. Training, open communication, and inclusive policies help employees from different ethnic backgrounds work together more harmoniously, leading to reduced conflict.
+
+- **B. Enhanced division of responsibilities** → Division of responsibilities is related to job design, organizational structure, and role clarity — not specifically a benefit of diversity. Diversity does not inherently enhance how responsibilities are divided.
+
+- **C. Lowered ability to achieve productive working relationships** → This is a negative outcome, not a benefit. Fostering diversity improves working relationships, does not lower them.
+
+- **D. Greater ability to maintain equal pay rates** → Equal pay is a legal requirement under laws such as the Equal Pay Act and Title VII, regardless of whether a company fosters diversity. Diversity initiatives do not directly cause greater ability to maintain equal pay; pay equity is a separate compliance issue.
+
+Therefore, a potential benefit to a company that fosters and values workforce diversity is **reduced conflict among employees of different ethnicities**.
+
+ 
+---
+# **Question:** 65
+
+## Multiple Choice Question
+
+**In the 1960s, Lyndon B. Johnson dealt with which workplace issue and passed laws in relation to it?**
+
+- A. Affirmative action
+- B. Age discrimination
+- C. Disabilities
+- D. Equal pay
+- E. Minimum wage
+
+---
+
+## Correct Answer
+
+**A. Affirmative action**
+
+---
+
+## Explanation
+
+- **Affirmative action** → President Lyndon B. Johnson was a key figure in advancing affirmative action in the 1960s. In 1965, he issued **Executive Order 11246**, which required federal contractors to take "affirmative action" to ensure that employment practices were free from discrimination based on race, color, religion, sex, or national origin. This executive order is widely considered the birth of modern affirmative action. Johnson famously articulated the rationale for affirmative action in a 1965 speech at Howard University, stating that civil rights laws alone were not enough to overcome generations of discrimination.
+
+- **B. Age discrimination** → The Age Discrimination in Employment Act (ADEA) was passed in **1967** (under Johnson), but age discrimination was not the primary workplace issue Johnson is most known for addressing. However, if multiple answers were allowed, age discrimination could also be partially correct. Given the single-choice format, affirmative action is the most directly associated with Johnson's legacy.
+
+- **C. Disabilities** → The Americans with Disabilities Act (ADA) was passed in **1990**, long after Johnson's presidency (1963–1969). Johnson did not deal with disability workplace issues in the 1960s.
+
+- **D. Equal pay** → The Equal Pay Act was signed into law in **1963** by President John F. Kennedy, not Lyndon B. Johnson. Johnson became president after Kennedy's assassination in November 1963.
+
+- **E. Minimum wage** → The Fair Labor Standards Act (establishing minimum wage) was passed in **1938** under President Franklin D. Roosevelt. While minimum wage was increased during Johnson's presidency, it is not the workplace issue he is most known for addressing with new laws.
+
+Therefore, the workplace issue Lyndon B. Johnson dealt with and passed laws in relation to in the 1960s is **affirmative action**.
+
+ 
+---
+# **Question:** 66
+
+## Multiple Choice Question
+
+**Every time Kendra walks by Robert's desk, he whistles and says "hey babe, what's going on?" and then touches her leg. Kendra is the victim of __________.**
+
+- A. affirmative action
+- B. benchmarking
+- C. a "scab"
+- D. sexual harassment
+
+---
+
+## Correct Answer
+
+**D. sexual harassment**
+
+---
+
+## Explanation
+
+- **Sexual harassment** → Sexual harassment is a form of unlawful discrimination under Title VII of the Civil Rights Act of 1964. It includes unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature. Robert's behavior — whistling, using a term of endearment ("hey babe"), and **touching her leg** — constitutes unwelcome physical contact of a sexual nature. This creates a hostile work environment and is a clear example of sexual harassment (specifically, quid pro quo or hostile environment harassment).
+
+- **A. Affirmative action** → Affirmative action refers to proactive policies designed to increase opportunities for underrepresented groups. It is not related to unwanted sexual behavior.
+
+- **B. Benchmarking** → Benchmarking is the process of comparing a company's practices or performance against industry standards. It has nothing to do with harassment.
+
+- **C. A "scab"** → A "scab" is a derogatory term for a strikebreaker (a person who works during a strike or crosses a picket line). This is unrelated to the scenario described.
+
+Therefore, Kendra is the victim of **sexual harassment**.
+
+ 
+---
+# **Question:** 67
+
+## Multiple Choice Question
+
+**What is a characteristic of the gig economy?**
+
+- A. Employees report to an office building each day
+- B. Employees move from one project to another
+- C. Employees receive a salary rather than a commission
+- D. Employees have more face-to-face interaction
+
+---
+
+## Correct Answer
+
+**B. Employees move from one project to another**
+
+---
+
+## Explanation
+
+- **Employees move from one project to another** → The gig economy is characterized by short-term, flexible, project-based work rather than traditional permanent employment. Workers (often called "gig workers" or "independent contractors") move from one project, task, or "gig" to another, often working for multiple clients or companies. Examples include rideshare drivers, freelance writers, graphic designers, and task-based workers. This project-to-project mobility is a defining feature of the gig economy.
+
+- **A. Employees report to an office building each day** → This describes traditional, permanent employment with a fixed workplace. Gig economy workers often work remotely, from home, or in various locations, not a single office building.
+
+- **C. Employees receive a salary rather than a commission** → Gig workers are typically paid per project, task, or hour, not a fixed salary. Many are paid through platforms (e.g., Uber, Upwork, TaskRabbit) on a per-job basis. Salary is characteristic of traditional employment.
+
+- **D. Employees have more face-to-face interaction** → Gig economy work often involves less face-to-face interaction, as many gigs are performed remotely or through digital platforms. Communication frequently occurs via email, messaging apps, or platform interfaces, not in-person.
+
+Therefore, a characteristic of the gig economy is that **employees move from one project to another**.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
