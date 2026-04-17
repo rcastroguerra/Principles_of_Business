@@ -615,6 +615,7 @@ $$
 $$
 
 O más detalladamente:
+
 $$
 \text{Ingreso Neto} = \text{EBIT} - \text{Gastos por Intereses} - \text{Impuestos}
 $$
