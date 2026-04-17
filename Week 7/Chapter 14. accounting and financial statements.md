@@ -1632,6 +1632,7 @@ La empresa A tiene activos totales por $200 millones, pero la empresa B está di
 $$
 \text{Goodwill} = \$500 \text{ millones} - \$200 \text{ millones} = \$300 \text{ millones}
 $$
+
 $$
 \text{Goodwill} = \$500 \text{ million} - \$200 \text{ million} = \$300 \text{ million}
 $$
