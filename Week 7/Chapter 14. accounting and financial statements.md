@@ -1639,13 +1639,19 @@ $$
 **Impacto del Goodwill en la Rotación de Activos Totales (Impact of Goodwill on Total Asset Turnover):**
 J&J tiene $45.2 mil millones de goodwill en su balance general relacionados con empresas que ha comprado a lo largo de los años.
 
+```markdown
 **Fórmula Ajustada (Adjusted Formula):**
+
 $$
-\text{Rotación de Activos Totales Ajustada} = \frac{\text{Ventas}}{\text{Activos Totales} - \text{Goodwill}}
+\text{Rotación de Activos Totales Ajustada} =
+\frac{\text{Ventas}}{\text{Activos Totales} - \text{Goodwill}}
 $$
+
 $$
-\text{Adjusted Total Asset Turnover} = \frac{\text{Sales}}{\text{Total Assets} - \text{Goodwill}}
+\text{Adjusted Total Asset Turnover} =
+\frac{\text{Sales}}{\text{Total Assets} - \text{Goodwill}}
 $$
+```
 
 Si se elimina el goodwill de los activos totales, la razón de rotación de activos de J&J pasa de 0.51 a 0.67.
 
