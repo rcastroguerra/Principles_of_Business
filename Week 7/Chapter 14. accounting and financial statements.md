@@ -194,6 +194,7 @@ Volviendo a Flores de Anna, supongamos que Anna compra $325 dólares en rosas a 
 $$
 \text{Activos} = \text{Pasivos} + \text{Patrimonio del propietario}
 $$
+
 $$
 \text{Assets} = \text{Liabilities} + \text{Owners' Equity}
 $$
@@ -276,31 +277,45 @@ Es importante reconocer que no todos los estados financieros siguen exactamente 
 ## Fórmulas Matemáticas
 
 **1. Ingresos (Revenues):**
+
 $$ \text{Ingresos} = \text{Precio} \times \text{Cantidad vendida} $$
+
 $$ \text{Revenues} = \text{Price} \times \text{Quantity Sold} $$
 
 **2. Utilidad Bruta (Gross Profit):**
+
 $$ \text{Utilidad Bruta} = \text{Ingresos} - \text{Costo de Bienes Vendidos} $$
+
 $$ \text{Gross Profit} = \text{Revenues} - \text{Cost of Goods Sold (COGS)} $$
 
 **3. Ingreso Operativo (Operating Income):**
+
 $$ \text{Ingreso Operativo} = \text{Utilidad Bruta} - \text{Gastos Operativos} $$
+
 $$ \text{Operating Income} = \text{Gross Profit} - \text{Operating Expenses} $$
 
 **4. EBIT (Ganancias antes de intereses e impuestos):**
+
 $$ \text{EBIT} = \text{Ingreso Operativo} = \text{Ingresos} - \text{COGS} - \text{Gastos Operativos} $$
+
 $$ \text{EBIT} = \text{Operating Income} = \text{Revenues} - \text{COGS} - \text{Operating Expenses} $$
 
 **5. Ingreso antes de Impuestos / EBT (Income Before Taxes / Earnings Before Taxes):**
+
 $$ \text{IBT} = \text{EBIT} - \text{Gastos por Intereses} $$
+
 $$ \text{EBT} = \text{EBIT} - \text{Interest Expenses} $$
 
 **6. Ingreso Neto (Net Income):**
+
 $$ \text{Ingreso Neto} = \text{IBT} - \text{Impuestos} $$
+
 $$ \text{Net Income} = \text{EBT} - \text{Taxes} $$
 
 **7. Ingreso disponible para accionistas comunes (Income Available to Common Stockholders):**
+
 $$ \text{Ingreso disponible} = \text{Ingreso Neto} - \text{Dividendos Preferentes} $$
+
 $$ \text{Income Available} = \text{Net Income} - \text{Preferred Dividends} $$
 
 ---
@@ -308,11 +323,15 @@ $$ \text{Income Available} = \text{Net Income} - \text{Preferred Dividends} $$
 ## Ratios o Índices Financieros
 
 **Margen de Utilidad Bruta (Gross Profit Margin):**
+
 $$ \text{Margen Bruto} = \frac{\text{Utilidad Bruta}}{\text{Ingresos}} \times 100\% $$
+
 $$ \text{Gross Margin} = \frac{\text{Gross Profit}}{\text{Revenues}} \times 100\% $$
 
 **Margen de Utilidad Neta (Net Profit Margin):**
+
 $$ \text{Margen Neto} = \frac{\text{Ingreso Neto}}{\text{Ingresos}} \times 100\% $$
+
 $$ \text{Net Margin} = \frac{\text{Net Income}}{\text{Revenues}} \times 100\% $$
 
 
@@ -474,9 +493,11 @@ Una de las controversias en contabilidad ha sido cuándo una empresa debe recono
 Para la mayoría de las empresas manufactureras y minoristas, el siguiente elemento principal incluido en el estado de resultados es el **costo de bienes vendidos (cost of goods sold)** , que es la cantidad de dinero que la empresa gastó (o prometió gastar) para comprar y/o producir los productos que vendió durante el período contable. Esta cifra puede calcularse de la siguiente manera:
 
 **Fórmula:**
+
 $$
 \text{Costo de Bienes Vendidos} = \text{Inventario Inicial} + \text{Compras del Período} - \text{Inventario Final}
 $$
+
 $$
 \text{Cost of Goods Sold} = \text{Beginning Inventory} + \text{Purchases} - \text{Ending Inventory}
 $$
@@ -484,14 +505,17 @@ $$
 Digamos que Flores de Anna comenzó un período contable con un inventario de bienes por el que pagó $5,000. Durante el período, Anna compró otros $4,000 en bienes, lo que le dio a la tienda un inventario total disponible para la venta de $9,000. Si, al final del período contable, el inventario de Anna valía $5,500, el costo de los bienes vendidos durante el período habría sido de $3,500:
 
 **Fórmula:**
+
 $$
 \text{Costo de Bienes Vendidos} = \text{Inventario Inicial} + \text{Compras del Período} - \text{Inventario Final}
 $$
+
 $$
 \text{Cost of Goods Sold} = \text{Beginning Inventory} + \text{Purchases} - \text{Ending Inventory}
 $$
 
 **Cálculo:**
+
 $$
 \$3,500 = \$5,000 + \$4,000 - \$5,500 
 $$
@@ -500,14 +524,17 @@ $$
 Si Anna tuvo ingresos totales de $10,000 durante el mismo período de tiempo, restando el costo de bienes vendidos (cost of goods sold) de $3,500 de los ingresos totales (revenues) de $10,000 se obtiene el ingreso bruto o utilidad bruta (gross profit) de la tienda (ingresos menos el costo de bienes vendidos requerido para generar los ingresos): $6,500.
 
 **Fórmula:**
+
 $$
 \text{Utilidad Bruta} = \text{Ingresos} - \text{Costo de Bienes Vendidos}
 $$
+
 $$
 \text{Gross Profit} = \text{Revenues} - \text{Cost of Goods Sold}
 $$
 
 **Cálculo:**
+
 $$
 \$6,500 = \$10,000 - \$3,500
 $$
@@ -528,9 +555,11 @@ Los **gastos de venta (selling expenses)** incluyen publicidad y salarios de ven
 El número y tipo de cuentas de gastos varían de una organización a otra. Incluida en la categoría de gastos generales y administrativos hay un tipo especial de gasto conocido como **depreciación (depreciation)** , el proceso de distribuir los costos de activos de larga duración, como edificios y equipos, a lo largo del número total de períodos contables en los que se espera que sean utilizados.
 
 **Fórmula de la Depreciación Lineal:**
+
 $$
 \text{Depreciación Anual} = \frac{\text{Costo del Activo} - \text{Valor Residual}}{\text{Vida Útil en Años}}
 $$
+
 $$
 \text{Annual Depreciation} = \frac{\text{Cost of Asset} - \text{Salvage Value}}{\text{Useful Life in Years}}
 $$
@@ -538,17 +567,21 @@ $$
 Considere un fabricante que compra una máquina de $100,000 que se espera que dure aproximadamente 10 años. En lugar de mostrar un gasto de $100,000 en el primer año y ningún gasto por ese equipo durante los nueve años siguientes, al fabricante se le permite reportar gastos de depreciación de $10,000 por año en cada uno de los próximos 10 años porque eso refleja mejor el costo de la máquina en los años en que se utiliza.
 
 **Fórmula:**
+
 $$
 \text{Depreciación Anual} = \frac{\$100,000}{10 \text{ años}} = \$10,000 \text{ por año}
 $$
+
 $$
 \text{Annual Depreciation} = \frac{\$100,000}{10 \text{ years}} = \$10,000 \text{ per year}
 $$
 
 **Cálculo:**
+
 $$
 \$100,000 \div 10 = \$10,000
 $$
+
 $$
 \$100,000 \div 10 = \$10,000
 $$
@@ -556,9 +589,11 @@ $$
 Cada vez que esta depreciación se "cancela" como un gasto, el **valor en libros (book value)** de la máquina también se reduce en $10,000.
 
 **Fórmula del Valor en Libros:**
+
 $$
 \text{Valor en Libros} = \text{Costo del Activo} - \text{Depreciación Acumulada}
 $$
+
 $$
 \text{Book Value} = \text{Cost of Asset} - \text{Accumulated Depreciation}
 $$
@@ -570,9 +605,11 @@ El hecho de que el equipo tenga un valor cero en el balance general de la empres
 **Ingreso neto (net income)** o **ganancia neta (net earnings)** es la ganancia (o pérdida) total después de que todos los gastos, incluidos los impuestos, han sido deducidos de los ingresos. Generalmente, los contadores dividen las ganancias en secciones individuales, como ingreso operativo y ganancias antes de intereses e impuestos (EBIT). Como la mayoría de las empresas, J&J presenta no solo los resultados del año actual, sino también los estados de resultados de los dos años anteriores para permitir la comparación del rendimiento de un período a otro.
 
 **Fórmula del Ingreso Neto:**
+
 $$
 \text{Ingreso Neto} = \text{Ingresos} - \text{Gastos Totales} - \text{Impuestos}
 $$
+
 $$
 \text{Net Income} = \text{Revenues} - \text{Total Expenses} - \text{Taxes}
 $$
@@ -581,6 +618,7 @@ O más detalladamente:
 $$
 \text{Ingreso Neto} = \text{EBIT} - \text{Gastos por Intereses} - \text{Impuestos}
 $$
+
 $$
 \text{Net Income} = \text{EBIT} - \text{Interest Expenses} - \text{Taxes}
 $$
@@ -596,9 +634,11 @@ Las empresas registran sus actividades operativas en las cuentas de ingresos y g
 Al final de cada período contable, los montos en dólares de todas las cuentas de ingresos y gastos se trasladan a una cuenta llamada **"Ganancias Retenidas (Retained Earnings)"** , una de las cuentas de patrimonio del propietario. Los ingresos aumentan el patrimonio del propietario, mientras que los gastos lo disminuyen.
 
 **Relación entre Ingreso Neto y Patrimonio:**
+
 $$
 \text{Ingreso Neto} = \text{Ingresos} - \text{Gastos}
 $$
+
 $$
 \text{Net Income} = \text{Revenues} - \text{Expenses}
 $$
@@ -606,6 +646,7 @@ $$
 $$
 \text{Cambio en el Patrimonio} = \text{Ingreso Neto}
 $$
+
 $$
 \text{Change in Equity} = \text{Net Income}
 $$
@@ -613,9 +654,11 @@ $$
 El cambio resultante en la cuenta de patrimonio del propietario es exactamente igual al ingreso neto. Este traslado de valores de las cuentas de ingresos y gastos permite a la empresa comenzar el siguiente período contable con saldos cero en esas cuentas. Cero los saldos permite a una empresa contar cuánto ha vendido y cuántos gastos se han incurrido durante un período de tiempo.
 
 **Ecuación Contable Básica:**
+
 $$
 \text{Activos} = \text{Pasivos} + \text{Patrimonio del Propietario}
 $$
+
 $$
 \text{Assets} = \text{Liabilities} + \text{Owners' Equity}
 $$
@@ -623,9 +666,11 @@ $$
 La ecuación contable no se equilibrará hasta que los saldos de las cuentas de ingresos y gastos se hayan trasladado o "cerrado" a la cuenta de patrimonio del propietario.
 
 **Fórmula del Cierre de Cuentas:**
+
 $$
 \text{Patrimonio Final} = \text{Patrimonio Inicial} + \text{Ingresos} - \text{Gastos} - \text{Dividendos Pagados}
 $$
+
 $$
 \text{Ending Equity} = \text{Beginning Equity} + \text{Revenues} - \text{Expenses} - \text{Dividends Paid}
 $$
@@ -637,9 +682,11 @@ $$
 Las corporaciones pueden optar por realizar pagos en efectivo llamados **dividendos (dividends)** a los accionistas de sus ganancias netas. Cuando una corporación decide pagar dividendos, disminuye la cuenta de efectivo (en la categoría de activos del balance general) así como una cuenta de capital (en la categoría de patrimonio del propietario del balance general).
 
 **Efecto de los Dividendos:**
+
 $$
 \text{Disminución de Activos} = \text{Dividendos Pagados}
 $$
+
 $$
 \text{Decrease in Assets} = \text{Dividends Paid}
 $$
@@ -647,6 +694,7 @@ $$
 $$
 \text{Disminución del Patrimonio} = \text{Dividendos Pagados}
 $$
+
 $$
 \text{Decrease in Equity} = \text{Dividends Paid}
 $$
@@ -657,9 +705,11 @@ Durante cualquier período de tiempo, la cuenta de patrimonio del propietario pu
 3. Los dividendos pagados
 
 **Cambio total en el Patrimonio:**
+
 $$
 \Delta \text{Patrimonio} = \text{Venta de Acciones} + \text{Ingreso Neto} - \text{Dividendos Pagados}
 $$
+
 $$
 \Delta \text{Equity} = \text{Stock Sales} + \text{Net Income} - \text{Dividends Paid}
 $$
@@ -671,9 +721,11 @@ El segundo estado financiero básico es el **balance general (balance sheet)** ,
 El balance general toma su nombre de su dependencia de la **ecuación contable (accounting equation)** : Los activos deben ser iguales a los pasivos más el patrimonio del propietario.
 
 **Ecuación Contable:**
+
 $$
 \text{Activos} = \text{Pasivos} + \text{Patrimonio del Propietario}
 $$
+
 $$
 \text{Assets} = \text{Liabilities} + \text{Owners' Equity}
 $$
@@ -780,9 +832,11 @@ Todas las cuentas de activos se enumeran en orden descendente de **liquidez (liq
 **Cuentas por cobrar (accounts receivable)** se refiere al dinero que la empresa debe recibir de sus clientes que han prometido pagar los productos en una fecha posterior. Las cuentas por cobrar generalmente incluyen una **provisión para cuentas incobrables (allowance for bad debts)** que la gerencia no espera cobrar.
 
 **Fórmula de Cuentas por Cobrar Netas:**
+
 $$
 \text{Cuentas por Cobrar Netas} = \text{Cuentas por Cobrar} - \text{Provisión para Cuentas Incobrables}
 $$
+
 $$
 \text{Net Receivables} = \text{Accounts Receivable} - \text{Allowance for Bad Debts}
 $$
@@ -796,9 +850,11 @@ Los **activos a largo plazo o fijos (long-term or fixed assets)** representan un
 Como se ve en la ecuación contable, los activos totales deben ser financiados ya sea a través de préstamos (pasivos) o a través de inversiones de los propietarios (patrimonio del propietario).
 
 **Relación Fundamental:**
+
 $$
 \text{Activos Totales} = \text{Pasivos Totales} + \text{Patrimonio Total}
 $$
+
 $$
 \text{Total Assets} = \text{Total Liabilities} + \text{Total Equity}
 $$
@@ -814,9 +870,11 @@ Los **pasivos corrientes (current liabilities)** incluyen las obligaciones finan
 El **patrimonio del propietario (owners' equity)** incluye las contribuciones de los propietarios a la organización junto con los ingresos ganados por la organización y retenidos para financiar el crecimiento y desarrollo continuo.
 
 **Fórmula del Patrimonio del Propietario:**
+
 $$
 \text{Patrimonio del Propietario} = \text{Activos Totales} - \text{Pasivos Totales}
 $$
+
 $$
 \text{Owners' Equity} = \text{Total Assets} - \text{Total Liabilities}
 $$
@@ -826,6 +884,7 @@ Si la organización vendiera todos sus activos y pagara todos sus pasivos, los f
 $$
 \text{Valor de Liquidación para Propietarios} = \text{Activos} - \text{Pasivos}
 $$
+
 $$
 \text{Liquidation Value to Owners} = \text{Assets} - \text{Liabilities}
 $$
@@ -916,6 +975,7 @@ El cambio en el efectivo se explica a través de detalles en tres categorías:
 El **efectivo de actividades de operación (cash from operating activities)** se calcula combinando los cambios en las cuentas de ingresos, cuentas de gastos, cuentas de activos corrientes y cuentas de pasivos corrientes.
 
 **Fórmula:**
+
 $$
 \text{Flujo de Efectivo Operativo} = \text{Ganancias Netas} + \text{Depreciación} + \text{Cambios en Activos y Pasivos Corrientes}
 $$
@@ -931,9 +991,11 @@ Esta categoría de flujos de efectivo incluye todas las cuentas en el balance ge
 El **efectivo de actividades de inversión (cash from investing activities)** se calcula a partir de los cambios en las cuentas de activos a largo plazo o fijos.
 
 **Fórmula:**
+
 $$
 \text{Flujo de Efectivo de Inversión} = \text{Venta de Activos} - \text{Compra de Activos Fijos} - \text{Adquisiciones}
 $$
+
 $$
 \text{Investing Cash Flow} = \text{Sale of Assets} - \text{Purchase of Fixed Assets} - \text{Acquisitions}
 $$
@@ -945,9 +1007,11 @@ El flujo de efectivo de actividades de inversión fue negativo en $12,371 millon
 El **efectivo de actividades de financiamiento (cash from financing activities)** se calcula a partir de los cambios en las cuentas de pasivos a largo plazo y las cuentas de capital contribuido en el patrimonio del propietario.
 
 **Fórmula:**
+
 $$
 \text{Flujo de Efectivo de Financiamiento} = \text{Nuevas Deudas} - \text{Pago de Deudas} - \text{Dividendos} - \text{Recompra de Acciones}
 $$
+
 $$
 \text{Financing Cash Flow} = \text{New Debt} - \text{Debt Repayment} - \text{Dividends} - \text{Share Repurchases}
 $$
@@ -957,9 +1021,11 @@ Si esta cantidad es negativa, la empresa probablemente está pagando deuda a lar
 ### Cambio Neto en Efectivo (Net Change in Cash)
 
 **Fórmula del Cambio Neto en Efectivo:**
+
 $$
 \Delta \text{Efectivo} = \text{Flujo Operativo} + \text{Flujo de Inversión} + \text{Flujo de Financiamiento}
 $$
+
 $$
 \Delta \text{Cash} = \text{Operating Cash Flow} + \text{Investing Cash Flow} + \text{Financing Cash Flow}
 $$
@@ -967,6 +1033,7 @@ $$
 Después de combinar las tres categorías de flujo de efectivo, J&J tuvo una ligera disminución en efectivo de $360 millones.
 
 **Cálculo:**
+
 $$
 \$21,194 + (-\$12,371) + (-\$8,871) = -\$360
 $$
@@ -975,6 +1042,7 @@ $$
 Puede ver en la parte inferior del estado que el efectivo al final de 2021 era de $14,487 millones, y al final de 2022 era de $14,127 millones.
 
 **Verificación:**
+
 $$
 \$14,487 - \$360 = \$14,127
 $$
@@ -999,9 +1067,11 @@ El **análisis de razones (ratio analysis)** , cálculos que miden la salud fina
 Como saben, una **razón (ratio)** es simplemente un número dividido por otro, y el resultado muestra la relación entre los dos números.
 
 **Fórmula General de una Razón(General Formula of a Ratio):**
+
 $$
 \text{Razón} = \frac{\text{Número 1}}{\text{Número 2}}
 $$
+
 $$
 \text{Ratio} = \frac{\text{Number 1}}{\text{Number 2}}
 $$
@@ -1011,9 +1081,11 @@ Por ejemplo, medimos la eficiencia del combustible con millas por galón (miles 
 Las **razones financieras (financial ratios)** se utilizan para sopesar y evaluar el desempeño de una empresa. Un valor absoluto como ganancias de $70,000 o cuentas por cobrar de $200,000 casi nunca proporciona tanta información útil como una razón bien construida. Si esos números son buenos o malos depende de su relación con otros números.
 
 **Ejemplo de Comparación de Rentabilidad:**
+
 $$
 \text{Retorno sobre Ventas} = \frac{\text{Ganancias}}{\text{Ventas}} \times 100
 $$
+
 $$
 \text{Return on Sales} = \frac{\text{Earnings}}{\text{Sales}} \times 100
 $$
@@ -1021,6 +1093,7 @@ $$
 Si una empresa ganó $70,000 sobre $700,000 en ventas (un retorno del 10%), tal nivel de ganancias podría ser bastante satisfactorio.
 
 **Cálculo:**
+
 $$
 \frac{\$70,000}{\$700,000} = 0.10 = 10\%
 $$
@@ -1029,6 +1102,7 @@ $$
 Sin embargo, el presidente de una empresa que gana los mismos $70,000 sobre ventas de $7 millones (un retorno del 1%) probablemente debería comenzar a buscar otro trabajo.
 
 **Cálculo:**
+
 $$
 \frac{\$70,000}{\$7,000,000} = 0.01 = 1\%
 $$
@@ -1039,9 +1113,11 @@ Las razones por sí mismas no son muy útiles. Lo que importa es la relación de
 3. Los objetivos declarados de la empresa
 
 **Fórmula para Comparación de Razones:**
+
 $$
 \text{Variación Anual} = \frac{\text{Razón Actual} - \text{Razón Anterior}}{\text{Razón Anterior}} \times 100
 $$
+
 $$
 \text{Annual Variation} = \frac{\text{Current Ratio} - \text{Previous Ratio}}{\text{Previous Ratio}} \times 100
 $$
@@ -1057,9 +1133,11 @@ Las **razones de rentabilidad (profitability ratios)** miden cuánto ingreso ope
 ### 1. Margen de Ganancia (Profit Margin)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Margen de Ganancia} = \frac{\text{Ingreso Neto}}{\text{Ventas}}
 $$
+
 $$
 \text{Profit Margin} = \frac{\text{Net Income}}{\text{Sales}}
 $$
@@ -1067,9 +1145,11 @@ $$
 El **margen de ganancia (profit margin)** , calculado dividiendo el ingreso neto por las ventas, muestra el porcentaje general de ganancias obtenidas por la empresa. Se basa únicamente en datos obtenidos del estado de resultados. Cuanto mayor sea el margen de ganancia, mejores serán los controles de costos dentro de la empresa y mayor será el retorno por cada dólar de ingreso.
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Margen de Ganancia} = \frac{\$17,941}{\$94,943} = 18.90\%
 $$
+
 $$
 \text{Profit Margin} = \frac{\$17,941}{\$94,943} = 18.90\%
 $$
@@ -1081,9 +1161,11 @@ Por lo tanto, por cada $1 en ventas, J&J generó ganancias después de impuestos
 ### 2. Retorno sobre Activos (Return on Assets - ROA)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Retorno sobre Activos} = \frac{\text{Ingreso Neto}}{\text{Activos Totales}}
 $$
+
 $$
 \text{Return on Assets} = \frac{\text{Net Income}}{\text{Total Assets}}
 $$
@@ -1091,9 +1173,11 @@ $$
 El **retorno sobre activos (return on assets)** , ingreso neto dividido por los activos, muestra cuánto ingreso produce la empresa por cada dólar invertido en activos. Una empresa con un bajo retorno sobre activos probablemente no esté utilizando sus activos de manera muy productiva, una falla gerencial clave. Para su cálculo, el retorno sobre activos requiere datos tanto del estado de resultados como del balance general.
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Retorno sobre Activos} = \frac{\$17,941}{\$187,378} = 9.57\%
 $$
+
 $$
 \text{Return on Assets} = \frac{\$17,941}{\$187,378} = 9.57\%
 $$
@@ -1105,9 +1189,11 @@ En el caso de J&J, cada $1 de activos generó un retorno del 9.57%, o ganancias 
 ### 3. Retorno sobre Patrimonio (Return on Equity - ROE)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Retorno sobre Patrimonio} = \frac{\text{Ingreso Neto}}{\text{Patrimonio del Accionista}}
 $$
+
 $$
 \text{Return on Equity} = \frac{\text{Net Income}}{\text{Shareholders' Equity}}
 $$
@@ -1115,9 +1201,11 @@ $$
 El **retorno sobre patrimonio (return on equity)** , también llamado **retorno sobre inversión (return on investment - ROI)** , se calcula dividiendo el ingreso neto por el patrimonio del propietario, y muestra cuánto ingreso genera cada $1 que los propietarios han invertido en la empresa. Obviamente, un bajo retorno sobre patrimonio significa bajos retornos para los accionistas y puede indicar la necesidad de atención gerencial inmediata. Debido a que algunos activos pueden haber sido financiados con deuda no contribuida por los propietarios, el valor del patrimonio del propietario es generalmente considerablemente más bajo que el valor total de los activos de la empresa.
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Retorno sobre Patrimonio} = \frac{\$17,941}{\$76,804} = 23.36\%
 $$
+
 $$
 \text{Return on Equity} = \frac{\$17,941}{\$76,804} = 23.36\%
 $$
@@ -1144,9 +1232,11 @@ Las **razones de utilización de activos (asset utilization ratios)** miden qué
 ### 1. Rotación de Cuentas por Cobrar (Receivables Turnover)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Rotación de Cuentas por Cobrar} = \frac{\text{Ventas}}{\text{Cuentas por Cobrar}}
 $$
+
 $$
 \text{Receivables Turnover} = \frac{\text{Sales}}{\text{Accounts Receivable}}
 $$
@@ -1154,9 +1244,11 @@ $$
 La **rotación de cuentas por cobrar (receivables turnover)** , ventas divididas por cuentas por cobrar, indica cuántas veces una empresa cobra sus cuentas por cobrar en un año. También demuestra qué tan rápido una empresa puede cobrar los pagos de sus ventas a crédito. Obviamente, sin pagos no hay ganancias.
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Rotación de Cuentas por Cobrar} = \frac{\$94,943}{\$16,160} = 5.88 \text{ veces por año}
 $$
+
 $$
 \text{Receivables Turnover} = \frac{\$94,943}{\$16,160} = 5.88 \text{ times per year}
 $$
@@ -1164,9 +1256,11 @@ $$
 J&J cobró sus cuentas por cobrar 5.88 veces por año, lo que se traduce en aproximadamente 61 días que las cuentas por cobrar están pendientes. Estas razones están basadas en un año de 360 días. Esto se debe muy probablemente a los términos comerciales que ofrece a sus clientes corporativos.
 
 **Días de Ventas Pendientes (Days Sales Outstanding - DSO):**
+
 $$
 \text{Días de Cobro} = \frac{360}{\text{Rotación de Cuentas por Cobrar}} = \frac{360}{5.88} \approx 61 \text{ días}
 $$
+
 $$
 \text{Collection Days} = \frac{360}{\text{Receivables Turnover}} = \frac{360}{5.88} \approx 61 \text{ days}
 $$
@@ -1176,9 +1270,11 @@ $$
 ### 2. Rotación de Inventario (Inventory Turnover)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Rotación de Inventario} = \frac{\text{Ventas}}{\text{Inventario}}
 $$
+
 $$
 \text{Inventory Turnover} = \frac{\text{Sales}}{\text{Inventory}}
 $$
@@ -1186,9 +1282,11 @@ $$
 La **rotación de inventario (inventory turnover)** , ventas divididas por el inventario total, indica cuántas veces una empresa vende y reemplaza su inventario en el transcurso de un año. Una alta razón de rotación de inventario puede indicar una gran eficiencia, pero también puede sugerir la posibilidad de pérdida de ventas debido a niveles de stock insuficientes.
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Rotación de Inventario} = \frac{\$94,943}{\$12,483} = 7.61 \text{ veces por año}
 $$
+
 $$
 \text{Inventory Turnover} = \frac{\$94,943}{\$12,483} = 7.61 \text{ times per year}
 $$
@@ -1196,9 +1294,11 @@ $$
 La rotación de inventario de J&J indica que reemplazó su inventario 7.61 veces el año pasado, o aproximadamente cada 47 días.
 
 **Días de Inventario (Inventory Days):**
+
 $$
 \text{Días de Inventario} = \frac{360}{\text{Rotación de Inventario}} = \frac{360}{7.61} \approx 47 \text{ días}
 $$
+
 $$
 \text{Inventory Days} = \frac{360}{\text{Inventory Turnover}} = \frac{360}{7.61} \approx 47 \text{ days}
 $$
@@ -1207,9 +1307,11 @@ $$
 Los contadores a menudo prefieren calcular la rotación de inventario utilizando el costo de bienes vendidos (cost of goods sold) en el numerador porque el inventario se registra en los libros al costo y también el costo de bienes vendidos está al costo.
 
 **Fórmula Alternativa (Alternative Formula):**
+
 $$
 \text{Rotación de Inventario (COGS)} = \frac{\text{Costo de Bienes Vendidos}}{\text{Inventario}}
 $$
+
 $$
 \text{Inventory Turnover (COGS)} = \frac{\text{Cost of Goods Sold}}{\text{Inventory}}
 $$
@@ -1221,9 +1323,11 @@ Los analistas financieros prefieren las ventas en el numerador para medir la efi
 ### 3. Rotación de Activos Totales (Total Asset Turnover)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Rotación de Activos Totales} = \frac{\text{Ventas}}{\text{Activos Totales}}
 $$
+
 $$
 \text{Total Asset Turnover} = \frac{\text{Sales}}{\text{Total Assets}}
 $$
@@ -1231,9 +1335,11 @@ $$
 La **rotación de activos totales (total asset turnover)** , ventas divididas por activos totales, mide qué tan bien una organización utiliza todos sus activos en la creación de ventas. Indica si una empresa está utilizando sus activos de manera productiva.
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Rotación de Activos Totales} = \frac{\$94,943}{\$187,378} = 0.51 \text{ veces por año}
 $$
+
 $$
 \text{Total Asset Turnover} = \frac{\$94,943}{\$187,378} = 0.51 \text{ times per year}
 $$
@@ -1261,9 +1367,11 @@ Las **razones de liquidez (liquidity ratios)** comparan los activos corrientes (
 ### 1. Razón Corriente (Current Ratio)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Razón Corriente} = \frac{\text{Activos Corrientes}}{\text{Pasivos Corrientes}}
 $$
+
 $$
 \text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}}
 $$
@@ -1271,9 +1379,11 @@ $$
 La **razón corriente (current ratio)** se calcula dividiendo los activos corrientes por los pasivos corrientes.
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Razón Corriente} = \frac{\$55,294}{\$55,802} = 0.99 \text{ veces}
 $$
+
 $$
 \text{Current Ratio} = \frac{\$55,294}{\$55,802} = 0.99 \text{ times}
 $$
@@ -1285,9 +1395,11 @@ La razón corriente de J&J indica que por cada $1 de pasivos corrientes, la empr
 ### 2. Razón Rápida (Quick Ratio / Acid Test)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Razón Rápida} = \frac{\text{Activos Corrientes} - \text{Inventario}}{\text{Pasivos Corrientes}}
 $$
+
 $$
 \text{Quick Ratio} = \frac{\text{Current Assets} - \text{Inventory}}{\text{Current Liabilities}}
 $$
@@ -1295,9 +1407,11 @@ $$
 La **razón rápida (quick ratio)** , también conocida como **prueba ácida (acid test)** , es una medida de liquidez mucho más estricta porque elimina el inventario, que es el activo corriente menos líquido. Mide qué tan bien una organización puede cumplir con sus obligaciones corrientes sin recurrir a la venta de su inventario.
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Razón Rápida} = \frac{\$55,294 - \$12,483}{\$55,802} = \frac{\$42,811}{\$55,802} = 0.77 \text{ veces}
 $$
+
 $$
 \text{Quick Ratio} = \frac{\$55,294 - \$12,483}{\$55,802} = \frac{\$42,811}{\$55,802} = 0.77 \text{ times}
 $$
@@ -1322,6 +1436,7 @@ Las razones de liquidez generalmente se examinan mejor junto con las razones de 
 $$
 \text{Alta Rotación de Activos} \rightarrow \text{Flujo de Efectivo Rápido} \rightarrow \text{Menor Necesidad de Reservas de Liquidez}
 $$
+
 $$
 \text{High Asset Turnover} \rightarrow \text{Fast Cash Flow} \rightarrow \text{Lower Need for Liquidity Reserves}
 $$
@@ -1335,9 +1450,11 @@ Las **razones de utilización de deuda (debt utilization ratios)** proporcionan 
 ### 1. Razón de Deuda a Activos Totales (Debt to Total Assets Ratio)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Deuda a Activos Totales} = \frac{\text{Deuda Total}}{\text{Activos Totales}}
 $$
+
 $$
 \text{Debt to Total Assets} = \frac{\text{Total Debt}}{\text{Total Assets}}
 $$
@@ -1345,17 +1462,21 @@ $$
 La **razón de deuda a activos totales (debt to total assets ratio)** indica cuánto de la empresa está financiado por deuda y cuánto por patrimonio del propietario. Para encontrar el valor de la deuda total de J&J, debe sumar los pasivos corrientes a la deuda a largo plazo y otros pasivos, o simplemente restar el patrimonio del accionista de los activos totales.
 
 **Fórmula Alternativa (Alternative Formula):**
+
 $$
 \text{Deuda Total} = \text{Activos Totales} - \text{Patrimonio del Accionista}
 $$
+
 $$
 \text{Total Debt} = \text{Total Assets} - \text{Shareholders' Equity}
 $$
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Deuda Total} = \$187,378 - \$76,804 = \$110,574
 $$
+
 $$
 \text{Total Debt} = \$187,378 - \$76,804 = \$110,574
 $$
@@ -1363,6 +1484,7 @@ $$
 $$
 \text{Deuda a Activos Totales} = \frac{\$110,574}{\$187,378} = 59\%
 $$
+
 $$
 \text{Debt to Total Assets} = \frac{\$110,574}{\$187,378} = 59\%
 $$
@@ -1370,9 +1492,11 @@ $$
 Por lo tanto, por cada $1 de activos totales de J&J, el 59% es financiado con deuda. El 41% restante es proporcionado por el patrimonio del propietario.
 
 **Relación de Financiamiento:**
+
 $$
 \text{Porcentaje de Patrimonio} = 100\% - \text{Porcentaje de Deuda} = 100\% - 59\% = 41\%
 $$
+
 $$
 \text{Equity Percentage} = 100\% - \text{Debt Percentage} = 100\% - 59\% = 41\%
 $$
@@ -1382,9 +1506,11 @@ $$
 ### 2. Razón de Vez que Ganan los Intereses (Times Interest Earned Ratio)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Veces que Ganan los Intereses} = \frac{\text{Ingreso antes de Intereses e Impuestos (EBIT)}}{\text{Gastos por Intereses}}
 $$
+
 $$
 \text{Times Interest Earned} = \frac{\text{Earnings Before Interest and Taxes (EBIT)}}{\text{Interest Expense}}
 $$
@@ -1397,6 +1523,7 @@ Encontramos que el gasto por intereses (interest expense) en la parte inferior d
 $$
 \text{Veces que Ganan los Intereses} = \frac{\$22,725}{\$982} = 21.12 \text{ veces}
 $$
+
 $$
 \text{Times Interest Earned} = \frac{\$22,725}{\$982} = 21.12 \text{ times}
 $$
@@ -1422,6 +1549,7 @@ El uso de deuda conlleva un cargo por intereses que debe pagarse regularmente in
 $$
 \text{Riesgo de Deuda} \propto \frac{\text{Monto de Deuda}}{\text{Patrimonio}}
 $$
+
 $$
 \text{Debt Risk} \propto \frac{\text{Debt Amount}}{\text{Equity}}
 $$
@@ -1439,9 +1567,11 @@ Los inversores pueden utilizar los **datos por acción (per share data)** para c
 ### 1. Ganancias por Acción (Earnings Per Share - EPS)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Ganancias por Acción (Básicas)} = \frac{\text{Ingreso Neto}}{\text{Número de Acciones en Circulación (Básicas)}}
 $$
+
 $$
 \text{Basic Earnings Per Share} = \frac{\text{Net Income}}{\text{Number of Shares Outstanding (Basic)}}
 $$
@@ -1449,6 +1579,7 @@ $$
 $$
 \text{Ganancias por Acción (Diluidas)} = \frac{\text{Ingreso Neto}}{\text{Número de Acciones en Circulación (Diluidas)}}
 $$
+
 $$
 \text{Diluted Earnings Per Share} = \frac{\text{Net Income}}{\text{Number of Shares Outstanding (Diluted)}}
 $$
@@ -1456,9 +1587,11 @@ $$
 Las **ganancias por acción (earnings per share)** se calculan dividiendo el ingreso neto o ganancia por el número de acciones de stock en circulación. Esta razón es importante porque los cambios anuales en las ganancias por acción, en combinación con otros factores económicos generales, determinan el precio general de las acciones de una empresa. Cuando las ganancias aumentan, también aumenta el precio de las acciones de una empresa, y también aumenta la riqueza de sus accionistas.
 
 **Cálculo para J&J (2022) - Ganancias por Acción Diluidas:**
+
 $$
 \text{Ganancias por Acción (Diluidas)} = \frac{\$17,941}{2,664} = \$6.73 \text{ por acción}
 $$
+
 $$
 \text{Diluted Earnings Per Share} = \frac{\$17,941}{2,664} = \$6.73 \text{ per share}
 $$
@@ -1473,9 +1606,11 @@ Las ganancias por acción diluidas (diluted earnings per share) incluyen más ac
 ### 2. Dividendos por Acción (Dividends Per Share)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Dividendos por Acción} = \frac{\text{Dividendos Pagados}}{\text{Número de Acciones en Circulación (Básicas)}}
 $$
+
 $$
 \text{Dividends Per Share} = \frac{\text{Dividends Paid}}{\text{Number of Shares Outstanding (Basic)}}
 $$
@@ -1483,9 +1618,11 @@ $$
 Los **dividendos por acción (dividends per share)** son pagados por la corporación a los accionistas por cada acción que poseen. El pago se realiza a partir de las ganancias después de impuestos de la corporación, pero es ingreso gravable para el accionista.
 
 **El problema de la doble tributación (Double Taxation issue):**
+
 $$
 \text{Doble Tributación} = \text{Impuesto Corporativo} + \text{Impuesto Personal sobre Dividendos}
 $$
+
 $$
 \text{Double Taxation} = \text{Corporate Tax} + \text{Personal Tax on Dividends}
 $$
@@ -1498,6 +1635,7 @@ J&J es una empresa grande y estable, y en 2022 pagó el 65% de sus ganancias en 
 $$
 \text{Dividendos por Acción} = \frac{\$11,682}{2,625} = \$4.45 \text{ por acción}
 $$
+
 $$
 \text{Dividends Per Share} = \frac{\$11,682}{2,625} = \$4.45 \text{ per share}
 $$
@@ -1507,17 +1645,21 @@ $$
 ### 3. Pago de Dividendos (Dividend Payout)
 
 **Fórmula General (General Formula):**
+
 $$
 \text{Proporción de Pago de Dividendos} = \frac{\text{Dividendos por Acción}}{\text{Ganancias por Acción}} \times 100
 $$
+
 $$
 \text{Dividend Payout Ratio} = \frac{\text{Dividends Per Share}}{\text{Earnings Per Share}} \times 100
 $$
 
 **Cálculo para J&J (2022):**
+
 $$
 \text{Proporción de Pago} = \frac{\$4.45}{\$6.73} \times 100 = 66.1\%
 $$
+
 $$
 \text{Payout Ratio} = \frac{\$4.45}{\$6.73} \times 100 = 66.1\%
 $$
@@ -1618,9 +1760,11 @@ Eli Lilly es el líder en margen de ganancia, retorno sobre activos y retorno so
 La rotación de activos totales es difícil de medir solo con mirar las razones debido a la estructura de los activos. Cuando una empresa compra otra empresa, crea un elemento en su balance general llamado **"plusvalía (goodwill)"** , que es el monto que pagó por la empresa adquirida por encima del valor contable de la empresa.
 
 **Fórmula del Goodwill:**
+
 $$
 \text{Goodwill} = \text{Precio de Compra} - \text{Valor Contable de la Empresa Adquirida}
 $$
+
 $$
 \text{Goodwill} = \text{Purchase Price} - \text{Book Value of Acquired Company}
 $$
@@ -1629,6 +1773,7 @@ $$
 La empresa A tiene activos totales por $200 millones, pero la empresa B está dispuesta a pagar $500 millones para adquirir la empresa A. Esa diferencia de $300 millones ahora va al balance de la empresa B como goodwill.
 
 **Cálculo del Goodwill:**
+
 $$
 \text{Goodwill} = \$500 \text{ millones} - \$200 \text{ millones} = \$300 \text{ millones}
 $$
