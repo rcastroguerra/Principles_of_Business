@@ -504,13 +504,175 @@ Según AARP, el robo de identidad le cuesta a los consumidores más de $52 mil m
 
 Si bien Estados Unidos no tiene una ley integral de protección de datos del consumidor, la Unión Europea aprobó el **Reglamento General de Protección de Datos (GDPR)**, que requiere que las empresas obtengan permiso de los consumidores para recopilar sus datos. La legislación se aplica a cualquier empresa que haga negocios con ciudadanos de la UE. Los votantes de cinco estados han aprobado leyes de protección de datos del consumidor que podrían acelerar la legislación federal. Si bien los consumidores pueden acoger con agrado tales protecciones adicionales, los anunciantes web, que utilizan la información del consumidor para dirigir mejor los anuncios a los consumidores en línea, lo ven como una amenaza. En respuesta a una posible legislación, muchos anunciantes web están intentando la autorregulación para mantenerse a la vanguardia. Por ejemplo, la Alianza de Publicidad Digital (DAA) adoptó pautas de privacidad para anunciantes en línea y creó un "marca de confianza" que los sitios web que se adhieren a sus pautas pueden mostrar. Sin embargo, debido a que es autorregulatorio, no todos los anunciantes digitales elegirán participar en sus programas.
 
+## Transparencia (Transparency)
 
+El marketing de influencers, como discutimos anteriormente como una forma de promoción, es relativamente nuevo en comparación con otras formas de publicidad, por lo que no debería sorprender que haya habido obstáculos para los primeros adoptantes. Debido a las preocupaciones sobre la publicidad deshonesta, la Comisión Federal de Comercio (FTC) exige que los influencers revelen claramente cualquier conexión que tengan con las marcas que promocionan. No hacer una revelación se considera publicidad engañosa. Se han presentado casos contra Warner Bros. Home Entertainment y Lord & Taylor, que pagaron a varios influencers para promocionar sus productos sin revelaciones. Según la FTC, cualquier nivel de compensación debe ser revelado, ya sea que una asociación sea pagada o que un influencer reciba estrictamente un producto gratis.
 
+## Robo de Identidad y Fraude en Línea (Identity Theft and Online Fraud)
 
+El **robo de identidad** ocurre cuando los delincuentes obtienen información personal que les permite hacerse pasar por otra persona para usar el crédito de esa persona y acceder a cuentas financieras y realizar compras. Esto requiere que las organizaciones implementen medidas de seguridad adicionales para prevenir el robo de bases de datos. Como se puede ver en la **Figura 13.3**, las quejas más comunes se relacionan con fraude de documentos o beneficios gubernamentales, fraude con tarjetas de crédito y fraude de préstamos o arrendamientos. Lamentablemente, los ciberdelincuentes han comenzado a atacar las identidades de los niños, ya que les ofrecen "una pizarra limpia" para cometer fraudes, como solicitar préstamos o tarjetas de crédito.
 
+<img src="./img/003.png" width="800"></img>
 
+**Figura 13.3 - Principales Fuentes de Robo de Identidad**
 
+El relativo anonimato y la velocidad de internet hacen posible el acceso tanto legal como ilegal a bases de datos que almacenan números de Seguro Social, números de licencias de conducir, fechas de nacimiento, apellidos de soltera de la madre y otra información que puede usarse para establecer una tarjeta de crédito o cuenta bancaria a nombre de otra persona con el fin de realizar transacciones fraudulentas. Una estafa creciente utilizada para iniciar el fraude de robo de identidad es la práctica del **phishing**, mediante la cual los estafadores falsifican un sitio web conocido y envían correos electrónicos dirigiendo a las víctimas a él. Allí, los visitantes encuentran instrucciones para revelar información sensible, como sus números de tarjeta de crédito. Las estafas de phishing han falsificado sitios web de PayPal y la Corporación Federal de Seguro de Depósitos.
 
+Algunos problemas de robo de identidad se resuelven rápidamente, mientras que otros casos toman semanas y cientos de dólares antes de que se restablezcan los saldos bancarios y las calificaciones crediticias de una víctima. Para disuadir el robo de identidad, el Centro Nacional de Fraude quiere que las instituciones financieras implementen nuevas tecnologías como certificados digitales, firmas digitales y biométricos (el uso de huellas dactilares o escaneo de retina).
+
+El **fraude en línea** incluye cualquier intento de engañar deliberadamente en línea. Muchos ciberdelincuentes utilizan el hacking para cometer fraude en línea. Los hackers irrumpen en sitios web y roban información personal de los usuarios. Home Depot, Target y JPMorgan son algunos casos notables en los que ciberdelincuentes hackearon los sistemas de estas empresas y robaron información. Sony experimentó un ataque devastador que cerró toda su red informática y resultó en el robo de 27 gigabytes de archivos.
+
+Usar una contraseña diferente para cada sitio web que los usuarios visitan es otra forma importante de evitar ser víctima de fraude en línea. Las contraseñas deben ser lo suficientemente complejas como para que un ciberdelincuente no pueda adivinarlas fácilmente. Sin embargo, muchos consumidores no hacen esto debido a la molestia que implica recordar contraseñas complejas para múltiples sitios.
+
+El fraude con tarjetas de crédito es un tipo importante de fraude que ocurre en línea. Algunas empresas, como Apple, están lanzando tarjetas de crédito con características de seguridad avanzadas, como códigos de seguridad dinámicos únicos de un solo uso que reemplazan el CVV estático de tres dígitos. En el caso de Apple, la empresa no almacena el historial de transacciones o hábitos de gasto del usuario, por lo que los datos no pueden ser compartidos o vendidos a terceros como lo hacen las compañías de tarjetas de crédito tradicionales. Los defensores de la privacidad aconsejan que la mejor manera de mantenerse fuera de problemas es evitar dar información personal, como números de Seguro Social o información de tarjetas de crédito, a menos que el sitio sea definitivamente legítimo.
+
+## Robo de Propiedad Intelectual y Otras Actividades Ilegales (Intellectual Property Theft and Other Illegal Activities)
+
+**Definición de Propiedad Intelectual:** La **propiedad intelectual** consiste en las ideas y materiales creativos desarrollados para resolver problemas, llevar a cabo aplicaciones, y educar y entretener a otros, incluyendo canciones, películas, libros, software y otros contenidos originales, generalmente protegidos por patentes, derechos de autor y marcas registradas.
+
+Además de proteger la privacidad personal, los usuarios de internet y otros desean proteger sus derechos sobre la propiedad que puedan crear, incluyendo canciones, películas, libros y software. Dicha **propiedad intelectual** consiste en las ideas y materiales creativos desarrollados para resolver problemas, llevar a cabo aplicaciones, y educar y entretener a otros.
+
+Aunque la propiedad intelectual está generalmente protegida por patentes y derechos de autor, las pérdidas por la copia ilegal de programas de computadora, música, películas y libros alcanzan miles de millones de dólares cada año solo en Estados Unidos. Esto se ha convertido en un problema particular con los sitios de medios digitales. YouTube a menudo se ha enfrentado a demandas por infracción de propiedad intelectual. Con millones de usuarios subiendo contenido a YouTube, puede ser difícil para Google monitorear y eliminar todos los videos que puedan contener materiales con derechos de autor.
+
+El intercambio ilegal de contenido es otro problema importante de propiedad intelectual. Los consumidores racionalizan la piratería de software, videojuegos, películas y música por varias razones. Primero, muchos sienten que simplemente no tienen el dinero para pagar lo que quieren. Segundo, debido a que sus amigos participan en la piratería e intercambian contenido digital, algunos usuarios se sienten influenciados a participar en esta actividad. Otros disfrutan la emoción de salirse con la suya con un bajo riesgo de consecuencias. Y finalmente, algunas personas sienten que ser expertos en tecnología les permite aprovechar la oportunidad de piratear contenido.
+
+El marketing ilícito en línea también se está convirtiendo en un problema serio para las fuerzas del orden en todo el mundo. La facilidad de internet y la dificultad para identificar a los perpetradores están llevando a los compradores de drogas a negociar con drogas ilegales a través de internet. Los sitios web que comercian con drogas ilegales parecen cada vez más legítimos, incluso empleando estrategias de marketing y servicio al cliente. Las ventas de productos falsificados son otro problema. Las imitaciones de productos populares incautadas por funcionarios federales anualmente están valoradas en más de $1 mil millones. Los productos falsificados, particularmente los provenientes del extranjero, están prosperando en internet porque pueden enviarse directamente a los clientes sin tener que ser examinados por funcionarios de aduanas cuando se envían a través de puertos. Algunas empresas, incluyendo UGG Boots, utilizan servicios en línea que permiten a los usuarios escribir la dirección para verificar si el minorista electrónico es un vendedor legítimo.
+
+# Ejercicio en Equipo: Promoción de Marketing Digital para un Equipo Deportivo Local
+
+## Contexto
+
+Para este ejercicio, desarrollaremos una campaña de marketing digital para promover la venta de boletos, mercancía oficial y asistencia a los juegos de un equipo deportivo local. Como ejemplo, utilizaremos un equipo de fútbol local llamado **Miami United FC**. El objetivo es aumentar la interacción con los fanáticos actuales y atraer nuevos seguidores utilizando redes sociales y medios digitales.
+
+---
+
+# Plan de Promoción Digital
+
+## Objetivos
+
+- Incrementar la venta de boletos para la próxima temporada.
+- Aumentar seguidores e interacción en redes sociales.
+- Promover productos oficiales del equipo.
+- Crear una comunidad sólida de fanáticos.
+
+---
+
+## Plataformas a Utilizar
+
+### 1. Twitter / X
+
+**Contenido:**
+- Noticias rápidas del equipo.
+- Anuncios de partidos y promociones.
+- Resultados en vivo.
+- Encuestas (“¿Quién será el MVP del próximo juego?”).
+- Videos cortos de jugadas destacadas.
+
+**Ejemplo:**
+🎟️ ¡Boletos ya disponibles para la nueva temporada!  
+Compra hoy y recibe 10% de descuento. #VamosMiamiUnited
+
+---
+
+### 2. Facebook
+
+**Contenido:**
+- Eventos oficiales para cada partido.
+- Fotos del equipo y entrenamientos.
+- Videos promocionales.
+- Sorteos de entradas.
+- Publicaciones familiares para atraer público local.
+
+**Ejemplo:**
+⚽ ¡La nueva temporada comienza pronto!  
+Compra tus entradas ahora y acompaña al equipo desde el primer partido.
+
+---
+
+### 3. Instagram
+
+**Contenido:**
+- Reels con goles y mejores jugadas.
+- Historias diarias.
+- Fotos detrás de cámaras.
+- Cuenta regresiva para los partidos.
+- Promoción de uniformes y mercancía.
+
+---
+
+### 4. TikTok
+
+**Contenido:**
+- Challenges con fanáticos.
+- Bailes del equipo.
+- Videos divertidos con jugadores.
+- Tendencias con música popular.
+
+---
+
+## Cómo Llevar Fans al Sitio Web
+
+- Colocar enlaces directos en todas las redes sociales.
+- Crear promociones exclusivas solo disponibles en la página web.
+- Sorteos donde deben registrarse en el sitio.
+- Publicidad pagada en Facebook e Instagram con botón “Buy Tickets”.
+- Correos electrónicos con ofertas especiales.
+
+---
+
+## Cómo Motivar la Compra de Boletos y Mercancía
+
+### Venta de Boletos
+
+- Descuento por compra anticipada.
+- Paquetes familiares.
+- Promoción “Compra 3 y recibe 1 gratis”.
+- Entradas VIP con acceso especial.
+
+### Mercancía
+
+- Lanzamiento de nuevos uniformes.
+- Descuento si compras boleto + camiseta.
+- Productos edición limitada.
+
+### Asistencia a Juegos
+
+- Ambiente familiar.
+- Música en vivo antes del partido.
+- Meet & Greet con jugadores.
+- Premios en medio tiempo.
+
+---
+
+## Conclusión
+
+El uso estratégico de redes sociales permite conectar con fanáticos actuales y atraer nuevos seguidores. Con contenido dinámico, promociones atractivas y enlaces directos al sitio web, el equipo puede aumentar ventas, asistencia y reconocimiento en la comunidad.
+
+# EL IMPACTO DE LOS MEDIOS DIGITALES EN EL MARKETING
+
+Para tener éxito en los negocios, necesitas saber mucho más que cómo usar un sitio de redes sociales para comunicarte con amigos. Desarrollar una comprensión estratégica de cómo el marketing digital puede hacer que los negocios sean más eficientes y productivos es cada vez más necesario. Si estás pensando en convertirte en emprendedor, el mundo digital puede abrir puertas a nuevos recursos y clientes. Los teléfonos inteligentes, la banda ancha móvil y las cámaras web son algunas de las herramientas que pueden aprovechar al máximo un mundo de negocios en línea, creando mayor eficiencia a menor costo. Por ejemplo, los propietarios de pequeñas empresas pueden crear una tienda en Shopify por solo $29 por mes. Depende de las empresas y emprendedores desarrollar estrategias que logren el éxito empresarial utilizando la tecnología, el software y las oportunidades de networking existentes y futuras.
+
+Las empresas tradicionales acostumbradas a usar medios impresos pueden encontrar desafiante la transición a lo digital. Los nuevos medios pueden requerir empleados con nuevas habilidades o capacitación adicional para los empleados actuales. A menudo existe una brecha entre el conocimiento técnico de cómo desarrollar sitios y cómo desarrollar estrategias efectivas de marketing digital para mejorar el éxito empresarial. Determinar la combinación correcta de medios tradicionales y nuevos requiere una cuidadosa consideración; la mezcla variará dependiendo del negocio, su tamaño y su mercado objetivo. Las oportunidades profesionales futuras requerirán habilidades tanto en áreas de medios tradicionales como digitales para que los marketeros comprendan e implementen adecuadamente estrategias de marketing que ayuden a las empresas a lograr una ventaja competitiva.
+
+---
+
+## DESARROLLANDO TUS HABILIDADES BLANDAS (BUILDING YOUR SOFT SKILLS)
+
+### REFLEJANDO TU MARCA PERSONAL
+
+En los dos capítulos anteriores, los ejercicios de Desarrollo de Habilidades Blandas trabajaron en el desarrollo de tu declaración de marca personal. Este capítulo se centró en el marketing digital y las redes sociales. Considera tus perfiles en línea. ¿Reflejan la declaración de marca personal que creaste? ¿Por qué sí o por qué no? ¿Cuáles son tres cosas que puedes hacer para desarrollar tu marca personal en línea? Considera formas de establecer una presencia profesional en línea.
+
+---
+
+## ¿ESTÁS PREPARADO? // para convertirte en un marketero digital
+
+El mundo de los negocios se ha vuelto cada vez más dependiente del marketing digital para mantener la comunicación con las partes interesadas. Llegar a los clientes es a menudo una preocupación principal, pero el marketing digital también puede utilizarse para comunicarse con proveedores, miembros de la comunidad interesados y grupos de interés especial sobre temas relacionados con la sostenibilidad, prácticas de seguridad y actividades filantrópicas. Existen muchos tipos de trabajos: directores de cuentas ejecutivas de redes sociales y directores de marketing para productos digitales, así como anunciantes digitales, marketeros en línea, marketeros digitales globales y gerentes de marca aparecen prominentemente en los sitios web de oportunidades profesionales.
+
+Los emprendedores están aprovechando el bajo costo del marketing digital, construyendo una presencia en redes sociales para ayudar a comercializar sus productos. De hecho, algunas pequeñas empresas, como las de publicidad especializada, salud y belleza personal, y otros productos especializados, pueden utilizar el marketing digital como el canal principal para llegar a los consumidores.
+
+Para utilizar el marketing digital, especialmente las redes sociales, se requiere más que habilidades de tecnología de la información relacionadas con la construcción de sitios web, gráficos, videos, podcasts, etc. Lo más importante es poder determinar cómo se pueden utilizar los medios digitales en la implementación de una estrategia de marketing. Todo marketing comienza con la identificación de un mercado objetivo y el desarrollo de una mezcla de marketing para satisfacer a los clientes. El marketing digital es solo otra forma de llegar a los clientes, proporcionar información y desarrollar relaciones. Por lo tanto, tu oportunidad para una carrera en este campo se basa en gran medida en comprender los mensajes, el nivel deseado de interactividad y conectividad que ayuda a lograr los objetivos de marketing.
+
+La experiencia de muchas empresas y la investigación indican que el marketing digital es una forma poderosa de aumentar la exposición de la marca y generar tráfico. Además, con una variedad tan amplia de canales de marketing digital, desde publicidad y redes sociales hasta correo electrónico y búsqueda, existen muchas oportunidades profesionales y trayectorias profesionales para los marketeros digitales. Para prepararte para una carrera en marketing digital, aprende no solo los aspectos técnicos, sino también cómo se pueden utilizar los diversos canales de marketing digital para maximizar el rendimiento del marketing.
 
 
 
