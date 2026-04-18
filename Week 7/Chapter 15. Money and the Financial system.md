@@ -2370,7 +2370,7 @@ Cada vez que recibes efectivo o pagas efectivo (incluyendo pagos con cheques), l
 Ingreso total − Gastos totales = $ _____
 
 $$
-\text{FLUJO DE EFECTIVO NETO PERSONAL} = \text{TOTAL INGRESOS} - \text{TOTAL GASTOS} = \text{\$\_\_\_\_\_\_\_\_\_}
+\text{FLUJO DE EFECTIVO NETO PERSONAL} = \text{TOTAL INGRESOS} - \text{TOTAL GASTOS} 
 $$
 
 ---
@@ -2382,7 +2382,7 @@ Debido a que las compras a crédito no requieren pago de efectivo de inmediato, 
 **Ejemplo: Compra de una computadora portátil a crédito (Example: Laptop purchase on credit)**
 
 $$
-\text{Compra de \$500} \rightarrow \text{Aumenta Activos en \$500} + \text{Aumenta Pasivos en \$500}
+\text{Compra de } \$500 \rightarrow \text{Aumenta Activos en } \$500 + \text{Aumenta Pasivos en } \$500
 $$
 
 **Consecuencias de pagar solo el mínimo (Consequences of paying only minimum balances):**
