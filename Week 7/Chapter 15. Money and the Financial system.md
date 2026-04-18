@@ -2294,7 +2294,7 @@ La inversión actual en tu "capital humano" (educación) generalmente se conside
 
 
 $$
-\text{PATRIMONIO NETO PERSONAL} = \text{TOTAL ACTIVOS} - \text{TOTAL PASIVOS} = \$\,\underline{\hspace{10cm}}
+\text{PATRIMONIO NETO PERSONAL} = \text{TOTAL ACTIVOS} - \text{TOTAL PASIVOS} 
 $$
 
 ---
