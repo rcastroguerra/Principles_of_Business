@@ -2291,8 +2291,10 @@ La inversión actual en tu "capital humano" (educación) generalmente se conside
 | Otros activos (Other assets) | _____ |  |  |
 | **TOTAL DE ACTIVOS (Total Assets)** | _____ | **TOTAL DE PASIVOS (Total Liabilities)** | _____ |
 
+
+
 $$
-\text{PATRIMONIO NETO PERSONAL} = \text{TOTAL ACTIVOS} - \text{TOTAL PASIVOS} = \text{\$ \_\_\_\_\_\_\_\_}
+\text{PATRIMONIO NETO PERSONAL} = \text{TOTAL ACTIVOS} - \text{TOTAL PASIVOS} = \$\,\underline{\hspace{2.5cm}}
 $$
 
 ---
