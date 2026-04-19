@@ -1606,11 +1606,11 @@ Los **bancos de ahorro mutuo (mutual savings banks)** son similares a las asocia
 **Características clave (Key characteristics):**
 
 $$
-\text{Banco de Ahorro Mutuo} = \text{Propiedad de Depositantes} + \text{Similar a S\&L} + \text{Común en Nueva Inglaterra}
+\text{Banco de Ahorro Mutuo} = \text{Propiedad de Depositantes} + \text{Similar a Savings and Loans} + \text{Común en Nueva Inglaterra}
 $$
 
 $$
-\text{Mutual Savings Bank} = \text{Depositor Ownership} + \text{Similar to S\&L} + \text{Common in New England}
+\text{Mutual Savings Bank} = \text{Depositor Ownership} + \text{Similar to Savings and Loans} + \text{Common in New England}
 $$
 
 ---
