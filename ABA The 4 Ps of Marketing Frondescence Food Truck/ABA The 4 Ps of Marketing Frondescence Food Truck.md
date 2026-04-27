@@ -832,6 +832,29 @@ Take a look at the second month and the final cumulative sales to your right.
 |----------------------|-----------|-----------|------------------|
 | **Sales Revenue**    | $42,000   | $54,600   | $96,600          |
 
+## Context
 
+**Ariel Harper**
 
+We have made some good progress compared to our $15,000 a month sales this past summer. Thanks for your advice Raydel Castro Guerra! I am looking forward to continuing to improve our sales based on your suggestions.
 
+## **Scoring values for each response have been added to the conversation history.**
+
+## Activity Complete
+
+### Overall Performance
+- **Overall Score:** 100%  
+- **Rating:** Excellent  
+
+### Assessment Breakdown
+
+- **Four Ps:** 100%  
+  - Good work! You have a great understanding of the 4 Ps of marketing—**Product, Place, Price, and Promotion**—and which types of decisions are affected by each one.
+
+- **Marketing Strategy:** 100%  
+  - Great job considering the advantages and disadvantages of each marketing decision and its alignment to create a cohesive marketing strategy that optimizes sales revenue.
+
+### Sales Results
+
+- **Cumulative Sales Revenue:** $96,600  
+- **Rating:** Excellent
